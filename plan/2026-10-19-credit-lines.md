@@ -26,9 +26,8 @@ live. No boss time, no spend.
 
 ## The number that says it worked
 
-**Leading:** lines live, then visits whose referrer is a client's domain or the
-credit link (each bot's own counter). Worked = at least 2 products carry a line
-by 2026-10-31, and at least 1 visit traced to a line by 2026-11-30.
+**Leading** (changed after the adversary): times each line is shown, and visits
+through it, per line, against the 10-16 footer's `?from=` counts as baseline.
 
 **Scoreboard:** a paid customer whose first visit came through a line.
 
