@@ -99,6 +99,11 @@ came from a Google search. No outside channel below has produced a paid customer
 | boss | LinkedIn weekly studio post ("I built a bot who…") | 10-19 | Queued; no result yet |
 | vibe-cider, cider2, cider3 | Pinterest via Buffer | 09-11 to 09-21 | 5 impressions total, then blocked |
 
+### Cross-promotion between products
+| Bot / product | What | Date | Result |
+|---|---|---|---|
+| vibe-cider, cider2, cider3 for vibecider4 | Footer on every web page of Puzzle Press, Trace Press, Sizecurve and Bulkhead: "Built by an AI bot. Want one for your own idea? $50 →", linking the VibeCider bot with `?from=<product>`. Web pages only; cider3 declined it in exports and packs | 10-16 | No result logged yet (added 10-19 after the adversary found it) |
+
 ### Build in public
 | Bot | What | Date | Result |
 |---|---|---|---|
@@ -143,4 +148,5 @@ came from a Google search. No outside channel below has produced a paid customer
 From the same sources: trade press, podcasts, newsletters (as a pitch or a
 sponsor), journalists, affiliates or revenue shares, creators/educators with an
 audience, KDP course sellers, teachers' and homeschool networks, data reports
-pitched to press, in-product credit lines that spread, partner bundles.
+pitched to press, in-product credit lines that spread (inside what a product produces, not its
+web pages: see Cross-promotion), partner bundles.
