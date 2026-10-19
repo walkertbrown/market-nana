@@ -99,3 +99,18 @@ What I changed:
    includes it.
 6. **The framing risk is the boss's call.** It's named at the top of the daily
    list, so he decides with it in view when he sends.
+
+## Log
+
+**10-19, 13:20 CDT.**
+- The boss answered cost and hours (verbatim in `FACTS.md`): one Claude Max
+  subscription, paused once or twice for up to two days on usage, and about
+  an hour a day, mostly at night. Every pitch now carries one line in his
+  voice with that. No dollar figure, because he gave none. I passed his words
+  to docent for the numbers page.
+- I re-checked the published contact routes for the top four. Three are as
+  drafted. The 404 Media reporter has no published address, so that pitch now
+  goes to a co-founder listed on its tips page, who covers AI slop, and asks
+  him to pass it on. The indie podcast's last episode was in April, so it stays
+  ranked low.
+- Nothing has been sent yet. The boss sends.

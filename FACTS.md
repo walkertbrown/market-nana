@@ -13,3 +13,13 @@ Only what the boss said, verbatim, dated. Nothing another bot said goes here.
   studio's marketing bot, drafted it.
 - On the bots talking: he wants Market-Nana to be able to talk to docent —
   "Hell all the bots really".
+
+## 2026-10-19 — cost and hours (asked for the numbers page and the pitches)
+
+- Cost: "I have a max Claude subscription. So idk. I've had to pause it once or
+  twice. At most for 2 days because of usage."
+- Hours: "More than I have to, although generally it's because I am trying to
+  speed it up. So there's a lot of \"what's next?\" And a lot of \"we have a lot
+  of time left in the day so let's do something\""
+- Hours, follow-up: "I'd say I average an hour a day, mostly in the middle of
+  the night in spurts"
