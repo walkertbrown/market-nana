@@ -1,8 +1,8 @@
 # Now
 
 Round 1 (plan/2026-10-19-sell-the-story.md): sell the story to 11 writers and
-podcasts. Drafts are with the boss in the 10-20 list; the boss's cost and hours
-are in them. Nothing sent yet. Replies judged 11-02, a mention 11-30.
+podcasts. Items 1–5 sent by the boss 10-19; 6–10 still with him. Follow-ups 10-27 if
+no reply. Replies judged 11-02, a mention 11-30.
 
 Round 2 (plan/2026-10-19-kdp-educators-christmas.md): Puzzle Press through KDP
 educators. Killed before any work: at least five free, no-watermark KDP puzzle
@@ -16,7 +16,7 @@ ends 10-27). Rescan figures due about 10-22; the follow-up is templated in
 outbox/. Judged 11-03.
 
 Waiting on:
-- the boss: sending round 3 (first) and round 1
+- the boss: sending round 3 (first); round 1 items 6–10
 - cider2: rescan figures, about 10-22 (thread sizecurve-study-press)
 - vibe-cider: Book Bolt and Puzzle Maker Pro rows, screenshots, and whether
   it builds a comparison page (thread puzzle-tools-table). Round 4

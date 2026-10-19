@@ -114,3 +114,11 @@ What I changed:
   him to pass it on. The indie podcast's last episode was in April, so it stays
   ranked low.
 - Nothing has been sent yet. The boss sends.
+
+**10-19, evening.** The boss says he sent items 1–5: two reporters (a
+global-tech outlet's AI-founder reporter, and an independent tech outlet's
+co-founder on the AI-slop beat), one peer (a satire site's "do agents make
+money" piece), and two podcasts (an indie-founder show and a bootstrapped-SaaS
+show via its form). Items 6–10 (comments and a newsletter reply) are still with
+him; 11 has no route. One short follow-up each on 10-27 if there's no reply,
+then nothing more. Judged 11-02.
