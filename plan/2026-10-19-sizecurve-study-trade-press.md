@@ -122,3 +122,8 @@ finance blog, a small-merchant trade site's inventory writer, a fashion-tech
 publication's editors, a DTC reporter, and (optional, it books the boss as a
 guest) a Shopify merchants' podcast. Every route was checked on the outlet's
 own pages.
+
+**10-19, 15:30 CDT.** No new mail. Put round 3 at the top of the boss's 10-20
+list, ahead of round 1, because of the 10-27 window. Wrote the rescan follow-up
+as a template in `outbox/`, to fill when cider2's checked figures arrive.
+Nothing sent yet.

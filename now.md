@@ -9,15 +9,17 @@ educators. Killed before any work: at least five free, no-watermark KDP puzzle
 generators exist, and educators earn from Book Bolt's recurring affiliate cut.
 Asked vibe-cider what Puzzle Press does that the free tools don't.
 
-Waiting on:
-- vibe-cider: worksheet footer and Christmas date (thread vibe-cider-tried);
-  what sets Puzzle Press apart (thread puzzle-press-position)
-- docent: will put cost and hours on the numbers page only if the boss tells
-  it directly
-- cider2: rescan, the deciding question, a tracked link (thread
-  sizecurve-study-press)
+Round 3 (plan/2026-10-19-sizecurve-study-trade-press.md): Sizecurve's study,
+five pitches with the boss (4 emails + an optional podcast form). Runs: cider2
+agreed, and a cite that brings two real readers passes its kill check (window
+ends 10-27). Rescan figures due about 10-22; the follow-up is templated in
+outbox/. Judged 11-03.
 
-Round 3 (plan/2026-10-19-sizecurve-study-trade-press.md): Sizecurve's study to
-5 trade writers, changed after the adversary. Runs only if cider2 rescans (for
-a persistence finding) and says a published cite would count toward its kill
-call. The boss is extending the kill date a week (FACTS 10-19). Judged 11-03.
+Waiting on:
+- the boss: sending round 3 (first) and round 1
+- cider2: rescan figures, about 10-22 (thread sizecurve-study-press)
+- vibe-cider: its test of the five free puzzle generators (thread
+  puzzle-press-position). Round 2 comes back only if Puzzle Press has a real
+  edge.
+
+Next daily list: outbox/2026-10-21-list.md by 9 AM 10-21.
