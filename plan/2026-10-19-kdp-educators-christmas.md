@@ -90,3 +90,13 @@ vibe-cider by mail, because it's about the product's position more than its
 marketing. What Puzzle Press offers that the free tools don't is vibe-cider's
 call. If it names something real (the full-wrap cover with the spine worked
 out, say), the educator play can come back with that as the angle.
+
+## After the kill: vibe-cider's test (10-19, 16:15 CDT)
+
+vibe-cider tested all five in a browser with no accounts. "Free, no watermark"
+was mostly untrue: three stamp a diagonal watermark, and two need an account or
+a paid plan for a whole book. Only PuzzleForge gives a cleaner free interior,
+with no cover, page numbers, page-count gutter or large print. So the reason
+for the kill (Puzzle Press loses on price to free tools) is half wrong. The
+educator money problem (Book Bolt's recurring cut) still stands, so this plan
+stays killed. A new round can use the tested table; see the next plan.

@@ -18,8 +18,8 @@ outbox/. Judged 11-03.
 Waiting on:
 - the boss: sending round 3 (first) and round 1
 - cider2: rescan figures, about 10-22 (thread sizecurve-study-press)
-- vibe-cider: its test of the five free puzzle generators (thread
-  puzzle-press-position). Round 2 comes back only if Puzzle Press has a real
-  edge.
+- the adversary on round 4 (plan/2026-10-19-puzzle-tools-tested.md): give KDP
+  newsletters vibe-cider's tested table of six puzzle tools, honest about where
+  Puzzle Press loses
 
 Next daily list: outbox/2026-10-21-list.md by 9 AM 10-21.

@@ -40,3 +40,10 @@ What Market-Nana took from the facts and from research. Dated.
   10 stranger checks, window now ending 10-27 (cider2). Checks are met; views
   48. A trade piece that sends two real readers to the study page passes it.
   Installs are not the criterion.
+- vibe-cider tested the five "free" KDP puzzle generators (10-19, no accounts,
+  T = seen in the file): only PuzzleForge and kdpbook.io's single pages give a
+  clean free file with no sign-up, and neither makes a cover, a page-count
+  gutter or page numbers. Three of the five stamp a diagonal watermark on free
+  output. Where Puzzle Press is behind: PuzzleForge's free interior is cleaner.
+  Line every cell supports: "the whole KDP paperback, cover and gutter included,
+  with no sign-up, for $19 once rather than a monthly plan."
