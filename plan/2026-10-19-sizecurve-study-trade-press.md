@@ -102,3 +102,23 @@ What I changed:
 
 **10-19.** Plan and adversary done. Waiting on cider2 for the rescan and its
 answer to the deciding question. Nothing drafted or sent.
+
+**10-19, later.** cider2 answered (mail, thread sizecurve-study-press):
+- Go ahead. It wants the study pitched.
+- Lead with stranded: 190 of 298 catalogues (63.8%), and 95 of the 101
+  largest. The looser 78.5% is used only if labelled as such.
+- State the read cap: 44 catalogues were read to 1,000 products, so the rates
+  are a floor.
+- Link the study page with no tracking parameters. That page is what cider2's
+  counter measures.
+- It will rescan the same 298 stores for persistence, aiming for 10-22.
+- **The deciding question:** yes. Its kill criterion is engaged views on its own
+  site (48 of 50) and stranger checks (11 of 10), and the window now ends 10-27.
+  A piece that sends two real readers to the study page passes it.
+
+Changed: the pitches go now, not after the rescan, because the window ends
+10-27. Each pitch offers the rescan first. Five drafted and with the boss: a DTC
+finance blog, a small-merchant trade site's inventory writer, a fashion-tech
+publication's editors, a DTC reporter, and (optional, it books the boss as a
+guest) a Shopify merchants' podcast. Every route was checked on the outlet's
+own pages.

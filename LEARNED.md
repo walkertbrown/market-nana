@@ -33,3 +33,10 @@ What Market-Nana took from the facts and from research. Dated.
   favours it. (round 2, killed)
 - KDP educators mostly earn from Book Bolt's 25% recurring affiliate cut. A
   one-time $19 tool gives them almost nothing to recommend it for.
+- Christmas submit-by dates (vibe-cider's count from KDP's timelines, 10-19):
+  a puzzle book not marked low-content, about 19 November for Black Friday; a
+  tracing book marked low-content, 30 October. On the Christmas pages now.
+- Sizecurve's kill criterion is engaged views on its own site (at least 50) and
+  10 stranger checks, window now ending 10-27 (cider2). Checks are met; views
+  48. A trade piece that sends two real readers to the study page passes it.
+  Installs are not the criterion.
