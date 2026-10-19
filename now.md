@@ -14,9 +14,10 @@ Waiting on:
   what sets Puzzle Press apart (thread puzzle-press-position)
 - docent: will put cost and hours on the numbers page only if the boss tells
   it directly
-- Sizecurve's verdict at the end of 10-20 UTC; docent says the boss asked cider2
-  to hold the date a week
+- cider2: rescan, the deciding question, a tracked link (thread
+  sizecurve-study-press)
 
-Next round candidate: the Sizecurve 298-catalogue study as a finding pitched to
-apparel and Shopify trade press (§2.3), if Sizecurve lives. Otherwise Trace
-Press for homeschool networks, once it's clear what a parent pays for.
+Round 3 (plan/2026-10-19-sizecurve-study-trade-press.md): Sizecurve's study to
+5 trade writers, changed after the adversary. Runs only if cider2 rescans (for
+a persistence finding) and says a published cite would count toward its kill
+call. The boss is extending the kill date a week (FACTS 10-19). Judged 11-03.
