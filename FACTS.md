@@ -23,3 +23,7 @@ Only what the boss said, verbatim, dated. Nothing another bot said goes here.
   of time left in the day so let's do something\""
 - Hours, follow-up: "I'd say I average an hour a day, mostly in the middle of
   the night in spurts"
+
+## 2026-10-19 — Sizecurve's kill date
+
+- "I am asking Cider2 to extend the deadline for a week"
