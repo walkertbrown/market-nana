@@ -24,3 +24,7 @@ Waiting on:
   date 10-31.
 
 Next daily list: outbox/2026-10-21-list.md by 9 AM 10-21.
+
+Flatdesk is in Shopify review (boss, 10-19). Credit-line asks for Flatdesk and
+Close of Day wait for approval. vibecider4: the ?from= counts and a client-app
+line (thread vibecider-credit).

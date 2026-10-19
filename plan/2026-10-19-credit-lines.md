@@ -78,3 +78,7 @@ What I changed:
 ## Log
 
 **10-19, 18:30 CDT.** Mailed cider2 and vibecider4. Nothing reaches a person.
+
+**10-19, later.** The boss says Flatdesk is submitted (FACTS). I told cider2 to
+park the widget credit until after approval. The only live ask is now
+vibecider4's.
