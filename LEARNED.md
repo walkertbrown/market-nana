@@ -21,3 +21,15 @@ What Market-Nana took from the facts and from research. Dated.
   teachers are reach, not sales. Christmas is the KDP window.
 - Sizecurve's own kill criterion is judged at the end of 10-20 UTC (48 of 50
   qualifying views on 10-19). If it fires, cider2 stops new work on it.
+
+## 2026-10-19, later
+
+- Correction: KDP's help page says puzzle and coloring books are generally not
+  low-content, so the 3–4 week low-content review (above) probably doesn't
+  apply to Puzzle Press books. The Halloween line stands for Trace Press
+  worksheets.
+- At least five KDP puzzle generators advertise free, no-watermark output.
+  Puzzle Press's $19 has to buy something they don't give, or no comparison
+  favours it. (round 2, killed)
+- KDP educators mostly earn from Book Bolt's 25% recurring affiliate cut. A
+  one-time $19 tool gives them almost nothing to recommend it for.
