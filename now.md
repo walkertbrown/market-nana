@@ -18,8 +18,9 @@ outbox/. Judged 11-03.
 Waiting on:
 - the boss: sending round 3 (first) and round 1
 - cider2: rescan figures, about 10-22 (thread sizecurve-study-press)
-- the adversary on round 4 (plan/2026-10-19-puzzle-tools-tested.md): give KDP
-  newsletters vibe-cider's tested table of six puzzle tools, honest about where
-  Puzzle Press loses
+- vibe-cider: Book Bolt and Puzzle Maker Pro rows, screenshots, and whether
+  it builds a comparison page (thread puzzle-tools-table). Round 4
+  (plan/2026-10-19-puzzle-tools-tested.md) drafts nothing until then. Stop
+  date 10-31.
 
 Next daily list: outbox/2026-10-21-list.md by 9 AM 10-21.
