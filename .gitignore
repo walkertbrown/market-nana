@@ -1,0 +1,13 @@
+# bot runtime — never check these in
+.gitconfig
+.git-credentials
+.npm-cache/
+.memory/
+.zoo/
+.ciders/
+inbox/
+mail/
+
+# real people — drafts for the boss, never pushed
+outbox/*
+!outbox/.gitkeep
