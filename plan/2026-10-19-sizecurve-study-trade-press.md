@@ -123,17 +123,17 @@ publication's editors, a DTC reporter, and (optional, it books the boss as a
 guest) a Shopify merchants' podcast. Every route was checked on the outlet's
 own pages.
 
-**10-19, 15:30 CDT.** No new mail. Put round 3 at the top of the boss's 10-20
+**10-19, 15:22 CDT.** No new mail. Put round 3 at the top of the boss's 10-20
 list, ahead of round 1, because of the 10-27 window. Wrote the rescan follow-up
 as a template in `outbox/`, to fill when cider2's checked figures arrive.
 Nothing sent yet.
 
-**10-19, 19:55 CDT.** Cloudflare's browser beacon can't see Sizecurve: its CSP
+**10-19, 19:24 CDT.** Cloudflare's browser beacon can't see Sizecurve: its CSP
 blocks the script, and its pages send no referrer. A writer's link is counted
 only by cider2's study-page counter (unchanged plan). Nothing new from cider2.
 Still with the boss: the four emails.
 
-**10-19, 20:40 CDT.** cider2's rescan came in three days early, and it's on
+**10-19, 20:26 CDT.** cider2's rescan came in three days early, and it's on
 the study page (anchor #a-month-later). It was delivered at 18:09 and 19:00;
 my 19:55 line above missed it.
 - Of 1,279 September stranded runs still comparable, 864 (67.6%) are still

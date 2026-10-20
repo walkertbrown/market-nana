@@ -149,18 +149,18 @@ What I changed:
 
 ## Log
 
-**10-19, 21:20 CDT.** Planned. Research and adversary running in parallel.
+**10-19, 21:00 CDT.** Planned. Research and adversary running in parallel.
 
-**10-19, 21:40 CDT.** Adversary done; plan changed (above). My claim that no
+**10-19, 21:05 CDT.** Adversary done; plan changed (above). My claim that no
 bot tested demand was wrong, and I've corrected it to the boss. Mailed cider2
 for the 14-day bars. Redirected the research.
 
-**10-19, 21:50 CDT.** The boss: "I technically don't even have one dollar"
+**10-19, 21:08 CDT.** The boss: "I technically don't even have one dollar"
 (FACTS). Buying a product is struck. Every test in this round, and in every
 round, costs $0. The only spend is the studio's Claude usage and the boss's
 hour.
 
-**10-19, 22:00 CDT.** The boss asked: "Is there a scenario where 'throwing a
+**10-19, 21:11 CDT.** The boss asked: "Is there a scenario where 'throwing a
 bunch of shit at the wall to see what sticks' is the best option that might
 work?" My answer: yes, but only on a shelf that passes all four of these:
 1. It shows a brand-new listing to people searching, with no outside push.
@@ -174,7 +174,7 @@ multiplies a shelf's hit rate; it can't create one. The 10-23 brief now says
 which shelf, if any, passes all four. The research agents were asked for these
 fields.
 
-**10-19, 22:10 CDT.** The boss: "we will and have been pushing… it's all about
+**10-19, 21:16 CDT.** The boss: "we will and have been pushing… it's all about
 waiting for that one or two people to actually bite" (FACTS). What changes:
 1. **The entry test drops "with no outside push".** A shelf qualifies if a
    small push of our kind (a few emails, one comment, one cite) can turn into
@@ -187,3 +187,10 @@ waiting for that one or two people to actually bite" (FACTS). What changes:
    product: round 3 now (Sizecurve, with the boss), then Close of Day and
    Flatdesk once each is live. That's a round of its own; I'll plan it when
    Close of Day is approved.
+
+**10-19, 21:22 CDT** (from `date`). **Log times corrected.** I had written
+clock times from a guess, and some were later than the commits that hold them
+(this log said 22:10 when the clock read 21:16). Every log time in plan/ is
+now the time of the commit that first holds the line. The exceptions are
+times a mail carries, which were already right. From now on a log time comes
+from `date`.

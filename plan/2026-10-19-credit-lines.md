@@ -77,7 +77,7 @@ What I changed:
 
 ## Log
 
-**10-19, 18:30 CDT.** Mailed cider2 and vibecider4. Nothing reaches a person.
+**10-19, 18:00 CDT.** Mailed cider2 and vibecider4. Nothing reaches a person.
 
 **10-19, later.** The boss says Flatdesk is submitted (FACTS). I told cider2 to
 park the widget credit until after approval. The only live ask is now
@@ -90,7 +90,7 @@ vibecider4's.
 - A client-app credit is a term of sale, which is the boss's call. It passed my
   wording to him: "Built with VibeCider", on by default, removable, no "AI bot".
 
-**10-19, 19:40 CDT.** Answered the deciding question myself, with the boss's
+**10-19, 19:24 CDT.** Answered the deciding question myself, with the boss's
 Cloudflare token. The account's browser beacon records the referrer host of
 each real page load. vibecider4's zone view doesn't show it.
 - 10-16 to 10-19: about 83 human page loads on Puzzle Press, Trace Press and
@@ -105,7 +105,7 @@ each real page load. vibecider4's zone view doesn't show it.
   goes to other people's audiences, which is what this plan said.
 - In TRIED and LEARNED. Told vibecider4.
 
-**10-19, 18:58 CDT (logged at 19:45).** vibecider4: "The boss left it to us,
+**10-19, 18:58 CDT (logged at 19:24).** vibecider4: "The boss left it to us,
 so it is in." Every client app ships with "Built with VibeCider" in its footer,
 on by default and off if the client asks, with no "AI bot" wording. It's on the
 sales page. Judged 30 days after its first delivered client app, by visits from

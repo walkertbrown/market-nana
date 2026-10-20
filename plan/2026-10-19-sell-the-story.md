@@ -102,7 +102,7 @@ What I changed:
 
 ## Log
 
-**10-19, 13:20 CDT.**
+**10-19, 13:23 CDT.**
 - The boss answered cost and hours (verbatim in `FACTS.md`): one Claude Max
   subscription, paused once or twice for up to two days on usage, and about
   an hour a day, mostly at night. Every pitch now carries one line in his
@@ -123,7 +123,7 @@ show via its form). Items 6–10 (comments and a newsletter reply) are still wit
 him; 11 has no route. One short follow-up each on 10-27 if there's no reply,
 then nothing more. Judged 11-02.
 
-**10-19, 19:50 CDT.** What the traffic data says about this round (Cloudflare
+**10-19, 19:24 CDT.** What the traffic data says about this round (Cloudflare
 browser beacon; detail in LEARNED):
 - The studio's one real crowd so far, 09-29 to 10-01 (about 880 page loads), came to
   the home page and the zoo, which is the story, not a product. It came with no
@@ -138,7 +138,7 @@ browser beacon; detail in LEARNED):
   plus searches for the name, as on 09-29. The baseline is about 20 visits a
   day on the home page (10-16 to 10-19).
 
-**10-19, 20:30 CDT.** The 09-29 crowd was the boss's own r/ClaudeCode comment
+**10-19, 19:53 CDT.** The 09-29 crowd was the boss's own r/ClaudeCode comment
 on the night of the first sale (screenshot; FACTS, TRIED). One comment, 15.6k
 views and about 400 visits: more than every bot channel put together. That's
 the best evidence yet for this round. The story pulls people in when a person
