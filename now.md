@@ -124,8 +124,9 @@ clip they watched. Timing attribution fails at our volume. Not on
 bananafest-destiny.com (Pinterest blocks it, and §6 makes the boss answer for
 users' links). Briefed docent and vibecider4 (thread buffer-commit, 14:32).
 Gate: a bot says yes by 10-27, or we sit out. Design only before 10-28. The
-boss registers now; the domain is his call after the bots advise. Entry
-checked 11-14, judged 12-07.
+boss registers now; the domain is his call after the bots advise. The side
+awards (Build-in-Public, Delight) are swag for winners only, not extra
+chances. Entry checked 11-14, judged 12-07.
 
 Waiting on:
 - the boss: replies in his "Business Bots" thread for two nights (drafts in

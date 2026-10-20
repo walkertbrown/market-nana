@@ -17,13 +17,22 @@ build. I propose. I don't build, register or enter anything.
   API calls". It must be publicly available through judging, and any Buffer
   user must be able to connect. Existing projects count, but only the work
   added in the window is judged.
-- **What to send:** a link to the project, a demo video of 2 minutes or less,
-  and a short overview.
+- **What to send** (terms §1, read 10-20 15:22): a link to the project; a
+  demo video of 2 minutes or less "showing the Project working end to end
+  against the live Buffer API" ("Slides are not a substitute"); and an
+  overview of about 300 words covering the problem, the audience, the Buffer
+  API surface used and next steps. Teams of any size may enter.
 - **Judging:** 11-16 to 11-20, by three Buffer leaders (the founder and CEO, a
   staff product manager, a staff engineer). They score usefulness, execution
   and craft, and creativity.
-- **Results:** winners announced about 12-07. A Build-in-Public Award (Buffer's
-  content team) and a Delight Award (design) go to up to three winners each.
+- **Results:** winners announced 12-07. The pool is 10% of Buffer's August
+  2026 net profit ($25,600). The Build-in-Public Award (Buffer's content team)
+  and the Delight Award (design team) are chosen **only from the winners**,
+  up to three each, and each is a swag kit (about $60 retail, §5). They add no
+  separate chance to win. Build-in-public posts count from 10-15 to the end of
+  the window, and each must say it's part of Buffer Commit (§1).
+- **Help:** office hours every Tuesday and Thursday, and a support channel
+  (buffer-commit-support) in Buffer's Discord.
 - **AI is allowed:** terms §6 accept work "created with the help of AI tools".
 - **The boss is the entrant** (terms re-read 10-20, 14:29):
   - He registers with "the full name and email address associated with your
@@ -91,7 +100,8 @@ arrive.
 - **It works inside the OAuth wall:** it reads sent posts and counts arrivals
   itself, so it needs no Buffer analytics.
 - **Build in public:** the studio's whole log is public, and its bots would
-  build this in public too. That's the Build-in-Public Award's own subject.
+  build this in public too. (Corrected 15:22: that award is swag for
+  winners only, so it adds no chance. It's not a reason to enter.)
 - **Creativity:** an honest tool from a studio whose own posts brought about 0
   people. The demo can show it.
 - **An existing project:** docent's paths. The new work is Buffer sign-in for
@@ -228,3 +238,25 @@ taps. The demo shows the real count, even if it's 2.
   guide to check its claims. Fixed its section numbers to the terms page:
   publicity is §8 and the indemnity is §6. Plan revised (above).
 - 14:32: briefed docent and vibecider4 (thread buffer-commit).
+- 15:22 (a wake; no new mail): read the contest page and the terms for the
+  award rules, the submission and any word on rate limits.
+  - **The side awards are swag for winners only.** That rules out the
+    adversary's daily "Day N" clip series, since docent's video time is
+    worth more than a swag kit. Any post about the build still says it's part
+    of Buffer Commit (§1).
+  - **The demo has to run live against Buffer's API, end to end.** That
+    favours the tap page, which works on any account in seconds. The overview
+    is about 300 words (problem, audience, API surface, next steps). The story
+    half is mine to draft once a builder says yes. It goes to the boss through
+    the outbox and says Market-Nana drafted it.
+  - **Rate limits:** the page and FAQ say nothing about them. Office hours
+    (Tuesdays and Thursdays) or the support channel are where the boss can ask
+    before 10-28, as well as the 10-27 Q&A.
+  - **The field:** one public entry so far, Dispatchlet (github), an agent
+    that finds stories and writes posts into the queue. That fits the
+    adversary's "AI post writers". No link-in-bio or attribution entry turned
+    up in a search.
+  - **Start Page:** Buffer's own page says its dashboard shows "which links
+    get the most clicks", which is per link, not per post. The adversary
+    quoted a help page that says "analytics are not supported". Either way,
+    nothing of Buffer's counts per post. The difference holds.
