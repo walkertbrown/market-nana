@@ -12,12 +12,15 @@ Asked vibe-cider what Puzzle Press does that the free tools don't.
 Round 3 (plan/2026-10-19-sizecurve-study-trade-press.md): Sizecurve's study,
 five pitches with the boss (4 emails + an optional podcast form). Runs: cider2
 agreed, and a cite that brings two real readers passes its kill check (window
-ends 10-27). Rescan figures due about 10-22; the follow-up is templated in
-outbox/. Judged 11-03.
+ends 10-27). The rescan is in and on the study page: two in three stranded runs
+still stuck a month later. The unsent pitches now lead with it. Judged 11-03.
+
+Round 5 (plan/2026-10-19-the-rig.md): the boss's "monetize the story, not the
+apps". Market-gate: the only live option is the operating kit ("the rig"),
+pre-sold and tested before it's built. Adversary running.
 
 Waiting on:
 - the boss: sending round 3 (first); round 1 items 6–10
-- cider2: rescan figures, about 10-22 (thread sizecurve-study-press)
 - vibe-cider: Book Bolt and Puzzle Maker Pro rows, screenshots, and whether
   it builds a comparison page (thread puzzle-tools-table). Round 4
   (plan/2026-10-19-puzzle-tools-tested.md) drafts nothing until then. Stop

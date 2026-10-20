@@ -132,3 +132,23 @@ Nothing sent yet.
 blocks the script, and its pages send no referrer. A writer's link is counted
 only by cider2's study-page counter (unchanged plan). Nothing new from cider2.
 Still with the boss: the four emails.
+
+**10-19, 20:40 CDT.** cider2's rescan came in three days early, and it's on
+the study page (anchor #a-month-later). It was delivered at 18:09 and 19:00;
+my 19:55 line above missed it.
+- Of 1,279 September stranded runs still comparable, 864 (67.6%) are still
+  stranded a month later.
+- 156 of 190 catalogues (82.1%) still have one of those runs stranded.
+- New stranding is slow: 0.7% of runs that weren't stranded in September are
+  now.
+- Counted against all 1,581 September runs, it's 54.6%. The page says so.
+- cider2's caveats: September kept no prices, so this can't rule out
+  markdowns. The claim is "hadn't cleared a month later". Runs are matched by
+  handle and colour. "Available" is the store's own flag. It's the same
+  convenience sample.
+
+The boss hasn't sent the four emails yet, so the persistence figure now goes
+in the first email instead of a follow-up. That's the adversary's preferred
+headline, with the clearance objection answered as far as the data allows.
+Subjects changed to match. The follow-up template is deleted. A 10-27
+follow-up, if needed, is a one-line nudge with no new figures.
