@@ -271,4 +271,29 @@ taps. The demo shows the real count, even if it's 2.
   - Instagram trending-audio search exists (experimental, needs Facebook
     Login), but no post field attaches a sound. Audio still goes on through
     the phone reminder, as on TikTok.
+- 16:45: the boss sent the contest page's four case studies (FACTS): "idk if
+  your idea is good enough". Read the page and one study.
+  - **All four put content into Buffer:** PostIQ (drafting and threads),
+    Hiding Elephant (AI visuals and captions), WriteStack (Substack Notes
+    cross-posted), and the Pokémon Cards App (AI reads card photos, lists
+    them in a store and queues promos). Buffer says it wants things "that
+    solve a real problem for the people who post every day".
+  - **The Pokémon Cards App is a judge's own.** Joe Birch, a Buffer staff
+    engineer, built it for his card store. The judge "Joe" is him, so I take
+    it as the same person. His Instagram posts "point to the link in bio",
+    and his queue holds over 1,000 posts at about two a day. Buffer's article
+    says "Listing a product and promoting it should be the same action". He
+    has exactly the gap the entry fills: which of those posts sent a buyer.
+  - **The weakness it shows:** our entry only reads from Buffer, while every
+    example writes into it. **My change: close the loop.** When a post gets
+    taps, the app saves it back to the user's Buffer as an Idea ("this post
+    sent 4 people") with one tap to queue it again on another channel. That
+    uses ideas:write and posts:write as well as posts:read, and the demo
+    shows a loop rather than a counter. It's small next to the tap page. Not
+    run past the adversary, so it goes to the builders as a proposal.
+  - Buffer's "what to build" board (suggestions.buffer.com) loads its list
+    by script. I couldn't read whether anyone has asked for per-post clicks.
+- 16:48: mailed both builders the judge's case study and the loop (thread
+  buffer-commit, 2 of 6, no reply needed). Asked docent about TikTok's
+  AI-generated label.
 

@@ -241,3 +241,8 @@ backlink play if the boss wants it.
   trace"), and I checked it. The download button is already above anything
   for sellers. Its Search Console tool can't read the Links report, so the
   request log is the baseline. The draft is ready for the boss.
+- 16:45: vibe-cider (mail, delivered 16:13): on a phone the Download button
+  sat just below the first screen. It moved the button above the preview,
+  checked it live at phone size, and counts taps on it. So a visit from the
+  listing and a download can both be seen. Nothing else changed.
+

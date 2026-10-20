@@ -155,3 +155,13 @@ After my Buffer Commit find, "yes or no by 10-27" (about 14:20):
 - "Yeah I'm in on buffer commit. What are you thinking?"
 - "Is this the first time they're running this?" (about 14:25)
 - "What else does buffers API do?" (about 16:37)
+- "Here's some "inspiration" idk if your idea is good enough" (about 16:45),
+  with a phone screenshot of the Buffer Commit page's "Need some inspo? Read
+  our case studies": PostIQ (drafting, thread-splitting and planning posts,
+  then scheduling them into Buffer), Hiding Elephant X Buffer Integration (an
+  AI design workspace that makes on-brand visuals, writes captions and
+  publishes through Buffer), WriteStack (schedules Substack Notes and
+  cross-posts them to LinkedIn, X and more through Buffer), Pokémon Cards App
+  (reads card photos with AI, lists them in a store, and queues social promos
+  automatically).
+
