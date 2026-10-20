@@ -231,3 +231,13 @@ backlink play if the boss wants it.
   Press's page (the 10-30 KDP date), the PDF (21 pages, a footer on each, a
   KDP page last) and vibe-cider's Search Console notes. Plan, draft and mail
   revised.
+- 14:31: vibe-cider's reply (mail, delivered 14:13; a colleague's report): yes,
+  pointed at /christmas-tracing-worksheets. Its proofread against the live
+  PDF: 20 words in the page's order, all spelled right, each with its picture
+  and numbered start dots and arrows; page 21 is the KDP offer, so "20
+  worksheets" is right. On the five longest words the model word fills the
+  width and two arrows reach the margin, which is cosmetic. It made the graphic
+  (1000×1500, four real pages, no claims beyond "20 words to print and
+  trace"), and I checked it. The download button is already above anything
+  for sellers. Its Search Console tool can't read the Links report, so the
+  request log is the baseline. The draft is ready for the boss.

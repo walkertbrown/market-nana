@@ -109,17 +109,30 @@ pitches. Picked: Trace Press's free Christmas tracing pack, offered by one email
 from the boss to Free Homeschool Deals, which posts other makers' free
 workbooks daily with followed links (TRIED's open "homeschool networks" line).
 The adversary said go, with changes: it's an indexing link, not sales
-(parents, and Trace Press has no search rows in 28 days). vibe-cider
-proofreads the pages and OKs it (mailed, thread trace-press-homeschool), then
-the boss sends. Pass: a live, followed link by 11-24. For the boss's yes or
-no by 10-27: Buffer Commit, Buffer's build contest (window 10-28 to 11-13;
-AI help allowed; winners get buffer.com's gallery and "$1,600+" each). It's
-the real backlink play, and the only one with money attached.
+(parents, and Trace Press has no search rows in 28 days). vibe-cider said
+yes, proofread all 20 pages and made the 1000×1500 graphic (10-20, 14:13), so
+the draft is ready for the boss (outbox/2026-10-20-fhd-freebie.md). Pass: a
+live, followed link by 11-24.
+
+Round 10 (plan/2026-10-20-buffer-commit.md): Buffer Commit, Buffer's first
+build contest (window 10-28 to 11-13; AI help allowed; up to 16 winners get
+"$1,600+" each and buffer.com's gallery). The boss, 10-20: "Yeah I'm in on
+buffer commit." OAuth apps can't read post metrics, so the entry can't be a
+metrics reader. The adversary said go, with the core changed: "Tap the one you
+saw", a bio page built from the user's sent posts where the visitor taps the
+clip they watched. Timing attribution fails at our volume. Not on
+bananafest-destiny.com (Pinterest blocks it, and §6 makes the boss answer for
+users' links). Briefed docent and vibecider4 (thread buffer-commit, 14:32).
+Gate: a bot says yes by 10-27, or we sit out. Design only before 10-28. The
+boss registers now; the domain is his call after the bots advise. Entry
+checked 11-14, judged 12-07.
 
 Waiting on:
 - the boss: replies in his "Business Bots" thread for two nights (drafts in
   outbox/). Everything else in the outbox went out 10-19 to 10-20 (round 3's
   first pitch bounced; podcasts dropped)
+- docent and vibecider4: who builds Buffer Commit's entry, by 10-27, and
+  docent on which Buffer plan the account is on
 - vibe-cider (free Puzzle Press pages are unmarked from 10-20; the cover
   still says PREVIEW): Book Bolt and Puzzle Maker Pro rows, screenshots, and whether
   it builds a comparison page (thread puzzle-tools-table). Round 4

@@ -25,10 +25,23 @@ build. I propose. I don't build, register or enter anything.
 - **Results:** winners announced about 12-07. A Build-in-Public Award (Buffer's
   content team) and a Delight Award (design) go to up to three winners each.
 - **AI is allowed:** terms §6 accept work "created with the help of AI tools".
-- **The boss is the entrant:** Buffer may use his name, likeness and voice in
-  promotion (§8). It gets a perpetual licence to use the entry, and he keeps
-  ownership (§6). More than one entry is allowed if each is "substantially
-  different" (§1).
+- **The boss is the entrant** (terms re-read 10-20, 14:29):
+  - He registers with "the full name and email address associated with your
+    Buffer account" (§1). The entry gives his full legal name (§4).
+  - Buffer may use his name, likeness, voice, opinions, biographical
+    information and residence in promotion, without pay (§8).
+  - He keeps ownership. Buffer gets a "perpetual, transferable,
+    royalty-free license" (§6), keeps nothing confidential, and may build
+    the same thing (§7).
+  - He indemnifies Buffer against "any claim arising out of their Submission
+    or its use by others" (§6). For a link tool other people use, a user's
+    bad link is that claim.
+  - Each judge scores 1 to 5 on the three criteria, and an entry needs at
+    least 9 of 15 to be a potential winner (§4).
+  - Prizes are paid in US dollars through Bill.com, with a 1099 where
+    required and no withholding, so the tax is his. A winner answers within
+    10 days of the announcement (§5).
+  - More than one entry is allowed if each is "substantially different" (§1).
 - **A Zoom Q&A** is set for 10-27 at 11 AM ET (10 AM CDT), and its invite goes
   to registrants. Buffer's Discord is the contest's home base.
 
@@ -44,7 +57,18 @@ user's views or watch time. Anything that reads a user's numbers from Buffer is
 out, including a "was it the music or luck?" test reader built on docent's bed
 test.
 
-## What I'm thinking: "Which post sent them?"
+Buffer's developer guides (read 10-20, 14:29) add:
+- The scopes are posts, ideas, account and snippets (read and write each),
+  plus offline_access. None is for metrics.
+- An app client is registered in a Buffer account's Settings → API, with no
+  review mentioned.
+- Rate limits are per client, by the plan of the account that owns it. Free
+  allows 1 app client and 250 requests a day (3,000 a month), and Team allows
+  500 (15,000). Every user who connects shares that one budget.
+- "Refresh tokens are single-use." Reusing an old one "revokes all tokens for
+  that grant", and the user has to connect again.
+
+## What I'm thinking: "Which post sent them?" (before the adversary)
 
 **The studio's lesson.** The bots posted dozens of clips. Views ran to the
 hundreds, and the sites saw about 0 people from them (about 1 visit per 1,000
@@ -91,19 +115,107 @@ markets your app idea", so the entry doubles as its proof). The bots choose.
 
 ## The number
 
+- **Gate:** a bot says yes to building it by 10-27. No yes, and the round
+  stops before the window opens.
 - **Leading:** an eligible entry submitted by 11-13, 11:59 PM PT (link, video,
   overview), working end to end.
 - **The outcome:** a winner on about 12-07, with a gallery link to a studio
   page. A followed link is reported, not judged.
-- **Reported:** Buffer users who connect during judging, and the prize.
+- **Reported:** Buffer users who connect during judging, taps against skips
+  on the studio's own page, and the prize.
 
 ## Judged
 
 12-07 (announcement). The entry itself is checked 11-14.
 
-## Adversary
+## Adversary (10-20, finished by 14:29 CDT)
 
-(pending)
+Verdict: **go, with one change to the core.** The OAuth reading is right, but
+lining arrivals up against post times fails at the studio's volume.
+
+1. **The wall is real.** Sent posts are readable (publish time, the post's
+   link on the platform, thumbnail, platform). Two traps: the shared rate
+   limit and single-use refresh tokens, where two refreshes at once silently
+   disconnect a judge. Both checked in Buffer's guides (above).
+2. **Different, partly.** Counting clicks per link is common (Linktree,
+   Bitly). Buffer's Start Page has a feed, but its own help says "analytics
+   are not supported". The real rival is Later's Linkin.bio, a bio page that
+   mirrors your posts and counts clicks on each. Judges would likely read the
+   entry as filling a gap Buffer has against Later, not as attacking Start Page.
+3. **Timing attribution won't work here.** We get about 1 visit per 1,000
+   views from two clips a day, and TikTok views keep coming for days. One
+   arrival can't be pinned to one post. Judges test with test accounts and
+   won't put the link in a real bio, so a timing chart reads zero all week.
+4. **Risks:**
+   - A link domain shared by every user carries every user's reputation. Keep
+     it off bananafest-destiny.com, which Pinterest already blocked.
+   - Under §6 the boss answers for a user's link to a scam. Require Buffer
+     sign-in and screen destinations.
+   - Count taps, not page loads, because link scanners and Meta's preview
+     fetcher load pages without tapping.
+   - It needs a privacy policy on the consent screen and no cookies.
+   - One bot can build it in 17 days if Round 6 doesn't take that bot's time.
+5. **A better entry with the same product: "Tap the one you saw."** Connect
+   Buffer, and within seconds there's a bio page built from your own sent
+   posts, with one path per channel. A visitor taps the clip they watched,
+   and that tap says which post sent them, at any volume. A judge sees value on
+   connecting, because they see their own posts, and it's a Delight Award
+   candidate. Against it: the extra page between bio and site may lose
+   visitors. Paid later is a guess (link-in-bio buyers are cheap). The crowd
+   will be mostly AI post writers and agent connectors. For Build-in-Public,
+   docent posts a daily "Day N of Buffer Commit" clip through Buffer, each
+   saying it's part of the contest, with the zoo as the build log.
+6. **Terms:** the name and email on his Buffer account; publicity rights;
+   the licence; no confidentiality; 9 of 15; Bill.com and his tax; 10 days
+   to answer. (Re-read 10-20; the section numbers above are from the terms
+   page.)
+
+Its changes: (a) the tap page replaces the timing view; (b) a domain of its
+own; (c) sent posts saved and refreshed a few times a day, never per page
+view, and one token refresh at a time per user; (d) a demo mode on the
+studio's real account, and plain screens for accounts with no posts; (e) ask
+in Buffer's Discord, before 10-28, whether entrants get higher limits; (f)
+design only before 10-28, since only work in the window is judged.
+
+**The deciding question:** when a judge connects a near-empty test account on
+11-16, what true and useful thing does the app show in the first minute,
+before anyone has arrived?
+
+**My answer:** their own bio page, built from whatever they've sent, with one
+link per channel ready to paste. They open it on their phone, tap a post, and
+watch the tap land on their screen. That's the whole product in a minute, and
+it's true at zero visitors. If the account has sent nothing, the screen says
+so and opens the demo: the studio's own account, its real posts and real
+taps. The demo shows the real count, even if it's 2.
+
+### What I changed
+
+- **The entry is now "Tap the one you saw."** Arrivals are counted per post
+  by the visitor's own tap, not guessed from timing. A "skip, take me to the
+  site" link is on every tap page, and skips are counted too, so the cost of
+  the extra page shows rather than hides. The timing chart is dropped, and the
+  builder can add it back.
+- **It's not the studio's domain.** The boss's call, with the builder's
+  advice: a free host name ($0, but phishers use those hosts heavily) or a
+  new domain (a small yearly fee, his money). A subdomain of
+  bananafest-destiny.com is out because Pinterest already blocks it and one
+  user's bad link could flag the studio's site. My lean is the free name for
+  the contest, and a domain only if people use it.
+- **§6 indemnity shapes the build:** Buffer sign-in to make a page,
+  destinations checked against a public phishing list, and a "report this
+  page" link on every page.
+- **The studio's own paths don't change before 11-04.** Round 7 judges /tt,
+  /ig and /yt that day. A demo on the studio's account can sit behind /tt
+  only after the count (the Worker counts before it redirects), and only if
+  docent agrees.
+- **A gate before the window:** a bot says yes to building it by 10-27, or I
+  tell the boss the studio sits this one out. Nothing is built before 10-28.
+- **The boss's hands:** registering now (a few minutes), the domain call, an
+  app client in his Buffer account's Settings → API when the builder asks,
+  and the submission (the builder drafts the overview and the video). The
+  rate-limit question (e) is his to ask in Discord or at the 10-27 Q&A.
+  Which Buffer plan he's on sets the limit (250 a day on Free). I ask docent
+  first, since docent posts through it.
 
 ## Log
 
@@ -111,3 +223,8 @@ markets your app idea", so the entry doubles as its proof). The bots choose.
 - 14:20 to 14:22: read Buffer's "What can I build with Buffer's API?" (the OAuth
   analytics wall), searched for Buffer's Start Page, and wrote this plan.
 - 14:22: the adversary sent.
+- 14:29: the adversary's verdict (go, with the tap in place of timing).
+  Re-read Buffer Commit's terms, the rate-limit guide and the authentication
+  guide to check its claims. Fixed its section numbers to the terms page:
+  publicity is §8 and the indemnity is §6. Plan revised (above).
+- 14:32: briefed docent and vibecider4 (thread buffer-commit).

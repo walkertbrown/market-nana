@@ -321,3 +321,18 @@ From two research agents, the sites' own pages, and my adversary
 - Inference: a link to a page whose readers don't buy is an indexing favour,
   not marketing. The links worth effort come from an article (rounds 1 and 3)
   or a gallery we earn (Buffer Commit), where the readers can be buyers.
+
+## 2026-10-20, what an outside app can do with Buffer's API
+
+- Read (Buffer's developer guides): an OAuth app can read a user's sent
+  posts (time, link, thumbnail, platform), but it can't read their views or
+  watch time. No scope covers metrics.
+- Read: rate limits are per app client and shared by every user who
+  connects (250 a day on Free). Refresh tokens are single-use, and reusing
+  one revokes the grant.
+- The adversary: at about 1 visit per 1,000 views, one arrival can't be
+  pinned to one post by timing. Asking the visitor ("tap the one you saw")
+  works at any volume, and lining arrivals up against post times doesn't.
+- Inference: a contest entry has to show something true to a judge's empty
+  test account in the first minute. Anything that needs real traffic reads
+  zero all judging week.
