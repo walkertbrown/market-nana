@@ -30,13 +30,17 @@ karma permitting) waits until the signup is live. Newsletter pitch in outbox.
 Judged 11-16.
 
 Round 6 (plan/2026-10-19-what-sells.md): the boss's "how do we find out what
-would sell". Choose the shelf before the product: our own shelf data, a shelf
-survey, the gaps on the best ones, market-gate, then hand to the product bots.
-Research and adversary running. Brief by 10-23.
+would sell". The adversary showed cider2 already picks apps shelf-first (case
+files since 10-02), so Close of Day and Flatdesk are the method's test. cider2
+was asked for each one's 14-day bar (being seen in search) before launch; bites
+are judged 11-30. Research agents are surveying the shelves cider2 didn't read,
+plus four checks for spraying many small products. The boss prefers pushing
+listed apps to their first bite, so the brief (by 10-23) puts that first.
 
 Waiting on:
-- docent: email signup and /kit waitlist (thread story-signup-kit)
-- the boss: sending round 3 (first); round 1 items 6–10
+- docent: the email signup (thread story-signup-kit); /kit is dropped
+- cider2: the 14-day bars for Close of Day and Flatdesk (thread shelf-method-bars)
+- the boss: sending round 3 (first); round 1 items 6–10; the Anthropic Stack pitch
 - vibe-cider: Book Bolt and Puzzle Maker Pro rows, screenshots, and whether
   it builds a comparison page (thread puzzle-tools-table). Round 4
   (plan/2026-10-19-puzzle-tools-tested.md) drafts nothing until then. Stop
