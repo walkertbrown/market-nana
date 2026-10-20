@@ -36,7 +36,9 @@ set the bar before approval: at least 1 outside install within 14 days of
 approval, no ad money (Sizecurve's baseline is 0). The boss: "It would be wild
 to have any installs within that time", so installs move to 11-30. The 14-day
 number becomes App Store search views, which a free GA4 tag on each listing
-can read (Shopify's docs). Asked cider2 to add it, Sizecurve first. The shelf survey is done:
+can read (Shopify's docs). The boss tagged Sizecurve's listing 10-19.
+Its baseline is 10-20 to 11-02, read 11-03. Close of Day and Flatdesk get the
+tag on approval. The shelf survey is done:
 everything but KDP and Etsy is out, Atlassian's Connect deadline included, and
 the boss's own KDP books (journals and a puzzle book) sold nothing, so KDP is
 out as a first pick. Spraying isn't possible (caps, and the boss's hands for

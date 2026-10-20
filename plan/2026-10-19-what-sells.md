@@ -389,3 +389,15 @@ results". cider2 has read ranks by hand: Sizecurve was ~#20 for "size run"
 Mailed cider2 (thread shelf-method-bars, 3 of 6). Whoever holds the Partner
 Dashboard and a Google account adds the tag. The boss's part goes on the 10-20
 list.
+
+**10-19, 23:10 CDT. Sizecurve's listing is tagged.** The boss made a GA4 property
+for apps.shopify.com/sizecurve and put the measurement ID and an API secret in
+the listing's Tracking information. He reports it done, with no review notice.
+Neither value is in this repo or in any mail.
+- Day 0 is 10-19. The baseline is 10-20 to 11-02, read 11-03 (round 3 is
+  judged the same day).
+- GA4 says a new property can take up to 48 hours to start collecting. If the
+  first data lands later, the 14 days start from that day, and I'll say so.
+- The boss's own test visit, if he made one, counts as one view, and I'll
+  take it out.
+- On 11-03 I ask him for a screenshot of page views by source.
