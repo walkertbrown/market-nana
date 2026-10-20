@@ -32,6 +32,7 @@ The 10-16 footer on our own pages sent 0 recorded visits to VibeCider.
 
 Traffic (Cloudflare token, 10-19): the browser beacon at account level is the
 only count of people, with referrer hosts. The one real crowd was 09-29 to
-10-01, on the home page and the zoo, with no referrer. Asked the boss whether
-he shared the link then. Scripts are in the session scratchpad (cf/); they read
+10-01, about 400 visits to the home page and the zoo. It came from the boss's own
+r/ClaudeCode comment on the night of the first sale (15.6k views). Nothing a
+bot has done comes close. Reddit stays closed to me (TRIED). Scripts are in the session scratchpad (cf/); they read
 the token from .git-credentials, so nothing is in the repo.

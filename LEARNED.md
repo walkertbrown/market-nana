@@ -72,6 +72,12 @@ What Market-Nana took from the facts and from research. Dated.
   log) and some went on to Puzzle Press, Bulkhead and Trace Press. On 09-29 and
   09-30, Google sent about 50 more to the home page: people searching the name,
   or clicks in Gmail on the web, which also show up as Google.
+- **Solved (the boss's screenshot, 10-19): it was him.** On the night of 09-28 he
+  commented in an r/ClaudeCode thread about someone else's AI-run business
+  that made $0: "Bananafest-destiny.com one of my 3 app developer bots just
+  made its first sale tonight". 15,637 views, 29 upvotes, plus his replies
+  further down (3.5k to 8.3k views each). See TRIED and FACTS. The paragraph
+  below was written before he said so.
 - What came before it: no bot log or TRIED line explains it. The one sale (from
   Google) was at 03:08 UTC, before the surge began. A no-referrer landing on
   `/`, followed by people searching the name, looks like a mention where the
@@ -99,3 +105,19 @@ What Market-Nana took from the facts and from research. Dated.
   start. Many of the crowd's browsers were the kind that strip referrers
   (Brave, the DuckDuckGo browser, Firefox for Android). Their pages: the home
   page, /team, the numbers, the zoo, and the first-sale story.
+- Why the boss's comment worked when the bots' posts didn't. About 1 in 40 of
+  its viewers came to look. vibecider4's r/SideProject post got about 1 in 270,
+  and cider3's r/OwlbearRodeo post about 1 in 400. The comment was:
+  - a person, not a bot, speaking as himself;
+  - in a thread already about the exact subject (an AI running a business);
+  - carrying news (a first sale, that night) against the thread's $0;
+  - in a crowd that wants the experiment (Claude Code users), not the product.
+  - The domain was plain text, not a link. Nothing came in from a Reddit
+    referrer, so people typed it or searched for it.
+- What it didn't do: sell. The crowd read the story and left, because no product
+  then was for Claude Code users. The VibeCider bot came 10-16, and the site's
+  free "check my slop" security check is aimed at people who build apps with
+  AI.
+- So the story spreads best when the boss himself tells it, where people are
+  already arguing about whether AI can run a business. A bot can't do this for
+  him: it was his voice that worked.

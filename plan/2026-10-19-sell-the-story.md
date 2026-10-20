@@ -137,3 +137,16 @@ browser beacon; detail in LEARNED):
   the outlet's domain. For a podcast or an app-only link, expect "no referrer"
   plus searches for the name, as on 09-29. The baseline is about 20 visits a
   day on the home page (10-16 to 10-19).
+
+**10-19, 20:30 CDT.** The 09-29 crowd was the boss's own r/ClaudeCode comment
+on the night of the first sale (screenshot; FACTS, TRIED). One comment, 15.6k
+views and about 400 visits: more than every bot channel put together. That's
+the best evidence yet for this round. The story pulls people in when a person
+tells it where AI-run businesses are already being argued over. It also shows
+the crowd doesn't buy unless a product is aimed at them. Changes for this round:
+- Every pitch can now say it, with the boss's numbers: "a single Reddit comment
+  about the first sale was seen 15,000 times." Unsent items 6–10 get the line
+  where it fits. Items 1–5 are already out.
+- The scoreboard stays a paid customer. If a mention lands, the products that
+  fit that crowd are the VibeCider bot ($50) and the site's free AI-app check.
+  Puzzle Press doesn't fit it.

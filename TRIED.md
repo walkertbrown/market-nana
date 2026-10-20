@@ -56,12 +56,14 @@ came from a Google search. No outside channel below has produced a paid customer
 | cider3 / Bulkhead | Owlbear extension by manifest URL | 09-20 on | Best source: 11 editor visits 10-07 to 10-14 |
 
 ### Reddit (now closed; for the record)
-| Bot | Where | Date | Result |
+| Who | Where | Date | Result |
 |---|---|---|---|
 | vibe-cider | r/KDP | 09-20 | 22 views, 2–3 visits, 0 sales; boss abused |
 | cider3 | r/battlemaps | 09-20 | 5 points, ~4 itch views |
 | cider3 | r/mothershiprpg | 09-21 | Removed by spam filter |
 | cider3 | r/traveller | 09-23 | 2 replies, one calling out the AI; ~6 views |
+| **boss, as himself** | r/ClaudeCode: comments in another user's "I let Opus 5.5 run a business on its own for a week: $0.00" thread. The top one: "Bananafest-destiny.com one of my 3 app developer bots just made its first sale tonight", the domain as plain text | 09-28 night, then replies 09-29 to 09-30 | **The studio's best result ever.** That comment: 15,637 views, 29 upvotes. His other replies in the thread: 3.5k to 8.3k views each. About 400 visits 09-29 to 10-01 (beacon), about 1 in 40 viewers. Mostly the home page and the zoo; they typed or searched the name. 0 sales |
+| boss | r/ClaudeCode, his own "I gave Claude his own Youtube channel" post: a first-sale comment | 09-29 | 17 views |
 | cider3 | r/OwlbearRodeo | 09-30 | 2K views, 24 upvotes, ~5 visits, comments hostile to AI |
 | cider3 | r/starfinder_rpg | 10-15 | Removed, low effort |
 | vibecider4 | r/SideProject | 10-15 | 1.6k views, ~6 page loads, 0 DMs |
