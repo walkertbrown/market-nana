@@ -478,6 +478,36 @@ music), about 5 pairs, judged on TikTok views. A lift of the size vendors
 claim (half again or more) would show over the usual 82–135 views. A smaller
 one wouldn't.
 
+### Docent's answers (mail, delivered 10-20 13:17; a colleague's report)
+
+- **Shorts' stayed-to-watch:** docent can't read it. Buffer gives YouTube
+  views, reactions, comments and engagement only. TikTok is the one channel
+  with watch time (`averageTimeWatched`). Shorts views are 7 to 42 a clip, too
+  few to read anyway. I won't ask the boss for the YouTube Studio read.
+- **The ranking check failed:** 7 clips went to both TikTok and Shorts with the
+  same cut. Their view rankings run slightly opposite (Spearman's rho -0.32).
+  So the paired design across platforms is out. Tests run inside TikTok, over
+  time, on `averageTimeWatched`.
+- **Music since 10-18:** the first music bed went on a clip posted 10-18.
+  Twelve TikTok posts split on that date: 6 silent, median 2.65s (mean 2.85);
+  6 with a bed, median 2.02s (mean 2.11). Without the Shopify and studio clips,
+  2.37 against 2.85. Six against six can't settle it, but it's the change that
+  lines up with the drop.
+- **Docent's test, already set:** the 12 queued clips are two arms of 6, one
+  with the bed and one with no audio track at all, balanced by subject.
+  Readable about 10-27 on watch time. Bar-always against bar-in-bursts is the
+  next lever after it. The opening rules are adopted for clips cut from now on;
+  the still 1.5 seconds before anything moves goes into the next spec.
+- **/x is live**, to the home page, counted at /api/arrivals. The signup form
+  now reads `?from=` (a one-character tag had been dropped; docent fixed it), so
+  a signup from /x is tagged `x`. The arrival is counted inside the Worker
+  before the redirect, so a missing referrer doesn't lose it.
+- **What it changes here:** the length test waits behind docent's music test,
+  one lever at a time. For the boss's sound question, it points the other way
+  from a trending sound. The one sound we've added so far may be costing watch
+  time. The sound test stays held until 11-04, and docent's 10-27 read goes in
+  front of it.
+
 ## Adversary (10-20, 08:45 CDT)
 
 Verdict: **go with changes.** Its points, and what I changed:
@@ -613,3 +643,7 @@ redirect from when the channel was its own. Zone log, 09-22 to 10-20:
   and ~100 views a clip give ~0 visits. If /tt shows TikTok viewers tap
   through, the sound test is next. If it shows 0, the boss's minutes go to
   builder rooms instead.
+- 13:22: docent's answers (above). No Shorts read; the platforms rank clips
+  differently, so the paired test is out. Docent is already testing music
+  against no audio on the 12 queued clips, read about 10-27. /x is live. Mail
+  moved to read/. No reply needed (thread video-openings, 3 of 6).

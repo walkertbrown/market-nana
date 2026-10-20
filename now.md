@@ -77,16 +77,17 @@ from the first frame. Instagram: median 0 views. If /ig is 0 on 11-04,
 Instagram is the clip channel to cut (docent's proposal, the boss's call).
 Followers read 12-15. The boss asked (10-20) about the first 3 seconds. The
 adversary said go, with changes: the opening rules become docent's default
-with no test (cider2's `gap` already ran the pattern); first check whether
-TikTok and Shorts rank the same clips the same way; if they do, paired tests
-of an 8–12 second cut (docent already adds music, the boss says). Mailed docent (thread video-openings),
-asking whether it can read Shorts' stayed-to-watch. Reported: median watch
-time of the first 10 rules-cut clips against 2.4 seconds. TikTok sounds (the boss
+with no test (cider2's `gap` already ran the pattern); docent's check
+(10-20): TikTok and Shorts rank the same clips differently (rho -0.32), and
+Shorts has no watch time in Buffer, so tests run inside TikTok only. Docent's
+music bed began 10-18, and the bedded clips hold about 2.0s against 2.65s
+silent (6 v 6). Docent is testing bed against no audio on the 12 queued
+clips, read about 10-27; a shorter cut waits behind it. TikTok sounds (the boss
 asked, 10-20): no API tool can add one to a video; Buffer's Notify Me already
 does it through the boss's phone, about a minute a clip; the browser
 workarounds dodge TikTok's bot checks and aren't proposed. My advice (10-20):
-hold the sound test until 11-04's /tt read; then the boss's yes, then the
-adversary.
+hold the sound test until 11-04's /tt read, with docent's music read first;
+then the boss's yes, then the adversary.
 
 Round 8 (plan/2026-10-20-x-vibe-coding.md): the boss reopened X for one case
 (10-20): "post there but only for that specific category", X's Vibe Coding
@@ -96,7 +97,8 @@ there: 43 impressions, 1 link click, and the beacon's only t.co load
 changes. The boss reads the community's rules first (asked 10-20). Then one
 story post (outbox/2026-10-20-x-story-post.md). Judged 7 days after it on
 his screenshot: under 100 impressions or 0 clicks stops it. VibeCider's posts
-are vibecider4's (mailed, thread x-vibe-coding). /x asked of docent. X
+are vibecider4's (mailed, thread x-vibe-coding). /x is live (docent, 10-20);
+the draft links it. X
 announced in 04-2026 that Communities would shut down, so build nothing
 lasting on it.
 
