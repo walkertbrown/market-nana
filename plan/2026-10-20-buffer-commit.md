@@ -427,3 +427,16 @@ taps. The demo shows the real count, even if it's 2.
   - Checked against the adversary's deciding question (does it read true as
     a plain count with three people?): it does, with the "too few" line. No
     new adversary run. Placed after days to tap, as the loop's result.
+- 18:03: the boss: "This isn't for us. I would imagine that other people using
+  buffer have much bigger numbers than us". Right: I sized the extras to
+  the studio's traffic, and the users are Buffer's.
+  - **Changed:** every number switches by size, not by our volume. Below
+    about 20 people it shows plain counts. Above that it shows rates, and
+    the two-post card says whether the gap is bigger than chance. A big
+    account gets the full view from day one.
+  - **Back in:** posts nobody picks, for accounts over the threshold (cut
+    only because at our volume nearly every post qualifies).
+  - **Still small:** the demo. A judge's test account and the studio's own
+    are both tiny, so the live part shows the mechanics on real taps. If
+    the builder wants to show the big-account view, it's a separate
+    screen marked "sample data" in the video. Nothing unmarked is invented.

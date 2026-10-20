@@ -185,3 +185,5 @@ After my Buffer Commit find, "yes or no by 10-27" (about 14:20):
 - "Ok. Any other analytics we can introduce?" (about 17:51)
 - "What about a direct post comparison. Where side by side of breaks down two
   chosen posts for you to compare" (about 18:00)
+- "This isn't for us. I would imagine that other people using buffer have
+  much bigger numbers than us" (about 18:03, on my "too few people to tell")

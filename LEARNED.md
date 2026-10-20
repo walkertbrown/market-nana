@@ -354,3 +354,6 @@ From two research agents, the sites' own pages, and my adversary
   rate, until there are about 20 people. Link-in-bio tools already show
   views, clicks and click rate. Posts sent, days to tap and a bot split
   they don't (not found).
+- The boss (10-20): "This isn't for us." A product's numbers are sized to
+  its users, not to the studio's traffic. Small numbers limit our own
+  tests and the demo, not what the product shows a bigger account.
