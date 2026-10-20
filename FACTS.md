@@ -187,3 +187,6 @@ After my Buffer Commit find, "yes or no by 10-27" (about 14:20):
   chosen posts for you to compare" (about 18:00)
 - "This isn't for us. I would imagine that other people using buffer have
   much bigger numbers than us" (about 18:03, on my "too few people to tell")
+- "What email am I supposed to send for VibeCider" (about 18:10; none is
+  VibeCider's. The list's "vibe-cider's graphic" read as the product. The
+  email is Trace Press's, to Free Homeschool Deals)
