@@ -329,6 +329,83 @@ studio controls. Views come before taps, and our clips stop at about 100.
 10-20. Any change in watch time from then on mixes the bar with the openings.
 The bar could itself cost watch time if it reads as an ad.
 
+### Adversary on the openings (10-20, 11:46 CDT)
+
+Verdict: **go, with changes.** Its points, checked where I could, and what I
+changed:
+1. **"Result first" has already run.** cider2's September `gap` short opened
+   on its finished chart and held 3.76–3.8 seconds, the account's best.
+   `bigger` used the same pattern and got 2.54 (88 views at 25 hours). `stars`
+   built its payoff over the first 2 seconds and got 2.17. Checked in the zoo
+   log. → The rules are the default now, with no test. cider2's clips go in
+   LEARNED as the starting point.
+2. **Our own scripts break the rules.** Checked: `footage-lib.mjs` writes a
+   silent stereo track. `footage-template.mjs` waits 1.5 seconds after
+   recording starts before anything moves. The Halloween short opens on a text
+   slide ("Free Halloween tracing worksheets") held 3.8 seconds, and got 1.76.
+   Docent's footage spec says 15–60 seconds, "no intro card, no music". →
+   Sound and length go ahead of text styles.
+3. **The A/B test couldn't measure anything.** At about 100 views, one clip's
+   average swings by roughly half a second to a second (its estimate). Style
+   follows subject (numbers suit Sizecurve, results suit worksheets), so
+   alternating styles also alternates subjects. Fourteen a side would only
+   find a gap of about a second. → Dropped the alternating test.
+4. **The 4.1-second bar was wrong.** Buffer never states it; I worked it out
+   from Buffer's ratios. And our clips are 17–54 seconds long, so Buffer's
+   bucket would be 30–60 (6.9). Seconds also punish a shorter cut, the likeliest
+   fix. → Dropped the bar.
+5. **My confound note was half wrong.** If both versions carry the bar, a
+   comparison between them is clean. The bar only spoils before/after reads.
+   → Corrected here.
+6. **The bar itself.** One study of about 2,000 TV viewers (Teixeira, Wedel
+   and Pieters, Marketing Science 2010) found that a central, prominent brand
+   raised zapping, and that short bursts of the same total time lowered it. TV
+   isn't a feed, so only the direction carries. TikTok's top band sits under
+   its Following/For You tabs, so a bar across the top may be partly hidden.
+   And a bar with the home address loses the tap count, since a typed address
+   never hits /tt. → Proposed to docent: below the tab band, smaller, about 2
+   seconds at the start and again at the end, and each platform's own path
+   in that platform's file. Its call.
+7. **Point the work where the buyers are.** Fact-led clips beat product-led
+   ones (docent's read and cider2's). → Proposed: a number from the product's
+   own data opens every clip; an admin screen never does. Which products go on
+   the feed stays with docent and the product bots.
+
+**The question that decides it** (the adversary's): on clips already posted
+to both TikTok and Shorts, do the two platforms rank them the same way? If
+they don't, one clip's number is noise at our scale, and no opening test will
+find anything. Then the rules stay as the default, and the work goes to
+subject, sound and length.
+
+### What goes to docent (revised)
+
+1. **The rules, as its default from now on.** Frame 1 is the payoff or a
+   number, never a title card, logo or loading screen. Something moves in the
+   first second. One line of large text, 7 words or fewer. No fade-in. If it's
+   cheap, trim the 13 queued clips to match (cut a still lead-in, start on the
+   payoff).
+2. **The ranking check, free.** Docent's clips since 10-14 ran on TikTok and
+   Shorts with the same opening. Can docent read Shorts' "Viewed vs. swiped
+   away" for them? If not, it's a 5-minute read for the boss in YouTube
+   Studio, asked once the X question is answered.
+3. **If the rankings agree:** one lever at a time, in pairs. Each clip is
+   rendered both ways when it's first cut (never a re-cut of a clip that
+   already ran). Clip 1 of a product goes to TikTok one way and Shorts the
+   other; clip 2 the reverse. Compared within each platform, then averaged,
+   so subject and platform cancel. About 10 pairs. Judged on Shorts' "viewed
+   vs. swiped away", where only a gap of 10 points or more counts. Sound first
+   (a royalty-free track or a synthetic voice baked into the file, against its
+   "no music" rule, so its call), then an 8–12 second cut. Instagram is left
+   out (median 0 views).
+4. **The bar** as in point 6 above.
+
+**The number.** Reported, not judged: TikTok's median watch time for the
+first 10 clips cut under the rules, against 2.4 seconds for the 12 docent read
+on 10-20. It's a before/after, so the bar and subject are mixed into it. A
+paired test, if one runs, is judged on its own 10-point line once 10 pairs
+are in. The 13 queued clips run until about 10-27, so pairs can't start
+before then. Round 7 itself is still judged 11-04 on arrivals.
+
 ## Adversary (10-20, 08:45 CDT)
 
 Verdict: **go with changes.** Its points, and what I changed:
@@ -445,3 +522,8 @@ redirect from when the channel was its own. Zone log, 09-22 to 10-20:
 - 11:37: the boss asked about the first 3 seconds. Researched (Buffer's
   length study, YouTube's "Viewed vs. swiped away", Trial Reels, ad
   benchmarks). Section added above. The adversary runs before docent gets it.
+- 11:49: the adversary on the openings: go, with changes (above). Checked its
+  claims in the zoo log and the footage scripts. The A/B test and the
+  4.1-second bar are dropped; the rules become docent's default; a free
+  ranking check comes before any test, and sound and length before text.
+  Mailed docent (new thread video-openings, 1 of 6). LEARNED updated.

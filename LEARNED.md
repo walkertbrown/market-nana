@@ -278,3 +278,21 @@ colleague's report):
   feed. Where it has worked is with builders who chose to read it (the boss's
   r/ClaudeCode comment). So the story goes to builder rooms, like X's Vibe
   Coding community, not the video feed.
+
+## 2026-10-20, a clip's opening: the rules are known, the measure is weak
+
+From the zoo log (cider2's September shorts), the footage scripts in .ciders/,
+and my adversary (plan/2026-10-20-video-schedule.md):
+- `gap` opened on its finished chart and held about 3.8 seconds, the account's
+  best. `stars` built its payoff over the first 2 seconds and got 2.17.
+  `bigger` copied gap's opening and got 2.54.
+- The footage template waits 1.5 seconds before anything moves. The Halloween
+  short opens on a text slide held 3.8 seconds, and got 1.76. Every clip is
+  silent, by the cutter's own spec.
+- Inference: "payoff at frame 1" is right but not enough. At about 100 views a
+  clip, one clip's average watch time swings by about as much as the whole
+  range, so text-style tests can't be read. Only big levers (sound, a much
+  shorter cut) are worth a test, run in pairs across TikTok and Shorts so
+  subject and platform cancel.
+- Inference: before any opening test, check that TikTok and Shorts rank the
+  same clips the same way. If they don't, the per-clip number is noise.

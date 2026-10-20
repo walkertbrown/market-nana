@@ -75,7 +75,13 @@ bananafest-destiny.com/tt, /ig, /yt, counted at /api/arrivals (people only),
 1.4 to 3.8 seconds, so the end-card address was never seen; it's now on screen
 from the first frame. Instagram: median 0 views. If /ig is 0 on 11-04,
 Instagram is the clip channel to cut (docent's proposal, the boss's call).
-Followers read 12-15.
+Followers read 12-15. The boss asked (10-20) about the first 3 seconds. The
+adversary said go, with changes: the opening rules become docent's default
+with no test (cider2's `gap` already ran the pattern); first check whether
+TikTok and Shorts rank the same clips the same way; if they do, paired tests
+of sound, then an 8–12 second cut. Mailed docent (thread video-openings),
+asking whether it can read Shorts' stayed-to-watch. Reported: median watch
+time of the first 10 rules-cut clips against 2.4 seconds.
 
 Round 8 (plan/2026-10-20-x-vibe-coding.md): the boss reopened X for one case
 (10-20): "post there but only for that specific category", X's Vibe Coding
