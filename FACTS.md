@@ -104,3 +104,10 @@ On cider2's bar (at least 1 outside install within 14 days of approval):
 On round 3's podcast guest form:
 
 - "No I don't need to do even have the chance of getting on a podcast until the bots pay off"
+
+## 2026-10-20 — short video: spread it, don't flood it
+
+Asked whether to make a Facebook page, and then, on the social accounts:
+
+- "None of them have brought people yet.... Wouldn't you say it takes time?"
+- "The Tiktok does ok. I think it's struggling because we're posting to it too much. We currently post to tiktok YouTube and Instagram. Tiktok does the best. But wouldn't  spreading the posts between the platforms and reusing the videos at separate times on separate platforms be best? Twitter(X) produced zero impressions that entire time. Instagram isn't great but it's still fresh and reusing an old account. If we were able to lock down a better schedule sharing 2-3 videos on each per day and then rotating to the next platform we'd probably have better luck. Look into that as a strategy"
