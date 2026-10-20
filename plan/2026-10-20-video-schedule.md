@@ -310,3 +310,21 @@ vibecider4, who owns the account, hears about it once the boss has pasted it.
   replies, whether that field reads a `?from=` tag. If it does, the tags
   count signups by platform at no cost.
 - **Round 5:** 1 Reddit page load since midnight (VibeCider), 0 signups.
+
+**10-20, 09:25 CDT. A per-surface path already exists, and it's quiet.** The
+house YouTube channel's profile link is `puzzlepress…/go/ytchan`, vibe-cider's
+redirect from when the channel was its own. Zone log, 09-22 to 10-20:
+- **Browser-like hits:** 15. Fourteen came from one Windows browser
+  identifying as Chrome 134 (current Chrome is 145 and later), spread from
+  09-30 to 10-05. The pattern of one old version over several days looks
+  like a link checker. The 15th was one Chrome 152 hit on 09-25.
+- **The rest:** the bots' own tests (puzzle-press-test, node, curl,
+  vibe-cider-check).
+- **No hit at all since 10-05.** The other `/go/yt…` description links show
+  the same picture: tests, Google-Safety and a crawler.
+- **Best reading:** 0 or 1 people in 4 weeks from a tappable channel link on
+  a channel with 2 subscribers. That's the adversary's point in numbers:
+  a link alone doesn't fix tiny reach.
+- It also means the `/go/` pattern already exists. Docent can copy it for TikTok
+  and Instagram, and vibe-cider's log can tell the people from the tests.
+  Goes to docent in its reply round, not as a new mail (thread budget).
