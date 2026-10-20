@@ -201,7 +201,13 @@ What's left:
    since 10-14, with its post time, which bot posted it, its views now and
    the average watch time, plus the size of its clip backlog. It can't prove
    cause, but it shows whether the heavy days stand out.
+   - **Answered 10-20 (docent, mail):** see "Docent's read" below.
 3. **14 days with the per-platform paths live.**
+   - **Live 10-20, 14:40Z (docent):** bananafest-destiny.com/tt, /ig and
+     /yt. Each records the tap and sends the visitor to the home page.
+   - The public count is at /api/arrivals. Crawlers are counted apart and
+     left out, and counting starts at 14:40Z, after docent's own tests.
+   - A signup that comes through a path carries its tag in /api/signups.
 
 ## The number that says it worked
 
@@ -217,9 +223,52 @@ Reported alongside, not judged:
 
 ## Judged
 
-14 days after the paths go live, read the day after. If docent ships them by
-10-22, it's judged 11-05. Followers are read 12-15 (8 weeks), with the house
-channel's baseline.
+14 days after the paths go live, read the day after. They went live 10-20 at
+14:40Z, so the window ends 11-03 at 14:40Z and it's judged **11-04** from
+/api/arrivals. Followers are read 12-15 (8 weeks), with the house channel's
+baseline.
+
+Also on 11-04, docent's proposal: if /ig has 0 people and Instagram's views
+are still about 0, Instagram is the clip channel to cut, not video. It's a
+proposal for the boss, whose account it is.
+
+## Docent's read (mail, delivered 10-20 09:40; a colleague's report)
+
+Docent's TikTok posts through Buffer since 10-14 are 13 posts. Views were read
+about 09:30 10-20, alongside TikTok's average watch time.
+
+| Day | Posts | Views | Median |
+|---|---|---|---|
+| 10-15 | 1 | 87 | 87 |
+| 10-16 | 2 | 111, 135 | 123 |
+| 10-17 | 3 | 31 (comic cover), 132, 120 | 120 |
+| 10-18 | 2 | 97, 82 | 90 |
+| 10-19 | 4 | 114, 96, 31 (Flatdesk), 44 (how vibe-cider built two apps) | 70 |
+
+- **By day, the busiest day looks worst,** which is what the boss thought.
+- **By subject, the pattern goes away.** The three lows (31, 31, 44) are two
+  studio clips and Flatdesk. The other nine run 82 to 135, median 111. On
+  10-19 the two ordinary clips got 114 and 96, the same as other days. My
+  check of its numbers agrees: there's no sign of a cadence effect once the
+  subject is held. It's 13 posts, so it doesn't prove there's none.
+- **Watch time is 1.44 to 3.79 seconds on every post the account has made.**
+  The end card, the only place the address appeared, sat at 17 to 54
+  seconds. So no viewer saw a call to action in four weeks. Docent fixed it
+  10-20: the address now runs across the top from the first frame, on all 13
+  queued clips.
+- **Backlog:** 13 cut and queued, 6.5 days at two a day. One is held for a
+  reshoot.
+- **Reach reads 0 from 10-19 on while views keep counting.** That's a broken
+  report, so reach isn't quoted.
+- It can only see its own Buffer posts, not posts made by hand on 10-16 to
+  10-18.
+- **Instagram:** 8 posts since 10-14, median 0 views, best 17.
+- **On my proposals:**
+  - One poster, and one fresh upload per platform: already true.
+  - Staggering platforms by a day: it isn't persuaded, since a clean
+    cross-post isn't penalized. It's one setting if wanted. That's the boss's
+    call, put to him on the list. The evidence says it neither helps nor
+    hurts.
 
 ## Adversary (10-20, 08:45 CDT)
 
@@ -328,3 +377,9 @@ redirect from when the channel was its own. Zone log, 09-22 to 10-20:
 - It also means the `/go/` pattern already exists. Docent can copy it for TikTok
   and Instagram, and vibe-cider's log can tell the people from the tests.
   Goes to docent in its reply round, not as a new mail (thread budget).
+- 11:24: docent answered (thread video-schedule, 3 of 6; my /x note became
+  4 of 6). The paths went live 14:40Z, so the round is judged 11-04.
+  /api/arrivals at 11:22: 0 people, 6 crawlers. Signups 0. The read is above:
+  subject, not cadence. Outbox files updated: /tt for TikTok's Website field,
+  /ig as Instagram's first link, and /yt as the YouTube channel's first link.
+  I didn't tap the paths, since that would count.

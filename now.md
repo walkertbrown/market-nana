@@ -42,8 +42,10 @@ to have any installs within that time", so installs move to 11-30. The 14-day
 number becomes App Store search views, which a free GA4 tag on each listing
 can read (Shopify's docs). The boss tagged Sizecurve's listing 10-19.
 Its baseline is 10-20 to 11-02, read 11-03. Close of Day and Flatdesk get the
-tag on approval. cider2 adopted the same bar (10-20): pass if search views are
-at least Sizecurve's, and it notes the search words. Outside visitors 10-14 to 10-20
+tag on approval. cider2's bar (10-20, 10:09), read on day 14: 1 outside
+install; page 1 for 2 of 5 search words; at least 10 search views. Sizecurve
+ranks only for words merchants rarely type, so "at least Sizecurve's" was
+dropped. Outside visitors 10-14 to 10-20
 (beacon): Reddit 13 (VibeCider), Owlbear 8, Google 7. Facebook's 23 were Meta's
 link-preview renderer, not people (vibe-cider, 10-20). The shelf survey is done:
 everything but KDP and Etsy is out, Atlassian's Connect deadline included, and
@@ -66,8 +68,13 @@ No cadence test (too few posts to tell). Mailed docent (the TikTok read, the
 backlog, the paths; thread video-schedule) and vibecider4 (Instagram; thread
 video-schedule-instagram). Asked the boss whether the house TikTok shows a
 Website field: "It allows me to put in one link." The TikTok path goes there
-once docent names it. Pass: at least 1 arrival
-on a path in 14 days from the paths going live (11-05 if live 10-22).
+(paste on the 10-21 list). Docent's paths went live 10-20 at 14:40Z:
+bananafest-destiny.com/tt, /ig, /yt, counted at /api/arrivals (people only),
+0 people at 11:22. Pass: at least 1 arrival on a path by 11-03 14:40Z, judged
+11-04. Docent's read (10-20): subject drives views, not cadence. Watch time is
+1.4 to 3.8 seconds, so the end-card address was never seen; it's now on screen
+from the first frame. Instagram: median 0 views. If /ig is 0 on 11-04,
+Instagram is the clip channel to cut (docent's proposal, the boss's call).
 Followers read 12-15.
 
 Round 8 (plan/2026-10-20-x-vibe-coding.md): the boss reopened X for one case

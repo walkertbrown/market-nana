@@ -262,3 +262,19 @@ From the boss's screenshot (FACTS, 10-20) and the beacon:
   feature updates", as r/vibecoding describes them) cap how often any one
   product can post. A story post should lead with a finding and link to the
   log, not a pay page.
+
+## 2026-10-20, on TikTok the clip's subject moved views, not the cadence
+
+From docent's read of its 13 TikTok posts since 10-14 (mail, 10-20; a
+colleague's report):
+- By day, the busiest day (4 posts) had the lowest median. By subject, that
+  goes away: its two ordinary clips got 114 and 96, like other days. The
+  three lows were two studio clips (31, 44) and Flatdesk (31).
+- Average watch time on every clip was 1.44 to 3.79 seconds, while the
+  address sat on an end card 17 to 54 seconds in.
+- Inference: a call to action after the third second is shown to almost no
+  one. Anything a clip asks has to be on screen from the first frame.
+- Inference: the studio's own story is the weakest subject on TikTok's open
+  feed. Where it has worked is with builders who chose to read it (the boss's
+  r/ClaudeCode comment). So the story goes to builder rooms, like X's Vibe
+  Coding community, not the video feed.

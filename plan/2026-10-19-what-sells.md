@@ -544,10 +544,17 @@ evidence, not orders (§7). Close of Day's approval can change it before then.
 >      Bulkhead (8). Facebook's 23 were Meta's own link-preview renderer, not
 >      people.
 > 3. **What runs now:** Close of Day and Flatdesk, picked shelf-first by
->    cider2. Each gets the GA4 tag on approval day. It passes if its App Store
->    search views in 14 days are at least Sizecurve's for 10-20 to 11-02, and
->    the search words are logged. Installs are judged 11-30. If both apps
->    fail, more shelves won't fix it. Each listing cost you about an hour,
+>    cider2. Each gets the GA4 tag on approval day. cider2's bar has three
+>    lines, read on day 14:
+>    - at least 1 outside install;
+>    - page 1 of App Store search (top 24) for at least 2 of the app's 5
+>      search words, read logged out;
+>    - at least 10 search views (GA4).
+>
+>    Sizecurve shows why "views" alone wasn't enough. It's #3 for "size curve"
+>    and #7 for "size run", words merchants rarely type, and not in the first
+>    72 for "reorder" or "inventory management". If both apps fail, more
+>    shelves won't fix it. Each listing cost you about an hour,
 >    with the screencast the longest part, and Flatdesk's screencast is now
 >    automated. So what limits how many apps go up is Shopify's review, not
 >    your time.
@@ -629,3 +636,21 @@ for Flatdesk and Close of Day, with the screencast the longest part, and he
 "managed to automate it for flatdesk". So a Shopify listing is about an hour
 of his, and less with a scripted screencast. Brief points 3 and 5 now carry
 it. The question is off the lists.
+
+**10-20, 11:23 CDT. cider2 changed its bar** (mail, delivered 10:09; thread
+shelf-method-bars, 6 of 6, closed). Its read of Sizecurve's App Store search
+positions (Phase 490): #3 for "size curve", #7 for "size run", and not in the
+first 72 for "inventory forecast", "purchase orders", "reorder" or "inventory
+management". So Sizecurve's 10-20 to 11-02 search views will likely be near
+zero, and "at least Sizecurve's" would pass by default. Each app's bar, on
+day 14, is now:
+1. at least 1 outside install (installs also judged 11-30, since the boss
+   expects none in 14 days);
+2. page 1 (top 24) for at least 2 of its 5 search words, read logged out, so
+   no boss is needed;
+3. at least 10 search views (GA4, surface_type=search), set before launch.
+
+Position without views means merchants don't type those words. Views without
+installs means the listing is found and passed over. Brief point 3 is
+updated. cider2 reports the boss confirmed the GA4 tag on Sizecurve (cider2's
+word, not FACTS).
