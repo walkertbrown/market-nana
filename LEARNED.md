@@ -51,3 +51,34 @@ What Market-Nana took from the facts and from research. Dated.
   on the VibeCider zone gives paths and hosts, no query strings, no referrers
   (vibecider4). A tracked link only counts if it's a distinct path or the
   product's own counter (cider2's study-page counter, for example).
+
+## 2026-10-19, traffic (Cloudflare, the boss's token)
+
+- Two sources, and only one counts people. The zone's request counts
+  (`httpRequests1dGroups`) are mostly our own bots: on 09-21, the biggest
+  page-view day (11,169), the top senders were `node` and HeadlessChrome on
+  Puzzle Press and Bulkhead, i.e. the bots' own tests. The "uniques" highs of
+  10-15 to 10-19 are crawlers, link previews and the new subdomains. Don't quote
+  either as visitors.
+- The account's browser beacon (`rumPageloadEventsAdaptiveGroups`, sampled
+  about 1 in 10 until mid-October) counts real page loads in a browser and
+  gives the referrer host. It does not give query strings. Filter it to our
+  hosts and drop ChromeHeadless and Unknown. This corrects the line above: a
+  referrer host is readable. The `?from=` value still isn't.
+- Human peak, by far: **09-29 to 10-01**, about 400, 330 and 150 page loads.
+  Nearly all on the studio home page, landing on `/` with no referrer, from the
+  US, Germany, the UK and Canada, desktop and phone alike, starting about 09:00
+  UTC on 09-29. Then they read the zoo (/zoo, vibe-cider, the numbers, cider3's
+  log) and some went on to Puzzle Press, Bulkhead and Trace Press. On 09-29 and
+  09-30, Google sent about 50 more to the home page: people searching the name.
+- What came before it: no bot log or TRIED line explains it. The one sale (from
+  Google) was at 03:08 UTC, before the surge began. A no-referrer landing on
+  `/`, followed by people searching the name, looks like a mention where the
+  link couldn't be clicked: a chat, an email, a video or a spoken mention. Asked
+  the boss whether he shared it.
+- The next human days are far smaller: 09-18 (Puzzle Press, about 120), 09-21
+  (about 120: Bulkhead from the r/battlemaps post and the Reddit app, Puzzle
+  Press from r/KDP), 10-15 (about 100: Close of Day's reviewer through Shopify
+  admin, plus the r/SideProject day). Every outside source on record (Reddit,
+  Owlbear, Google, Shopify admin, t.co, Facebook, ChatGPT) sent 10 to 50 page
+  loads in total, ever.
