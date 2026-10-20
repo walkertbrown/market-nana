@@ -255,3 +255,9 @@ backlink play if the boss wants it.
   note (not the post): free Thanksgiving, number and shape sets, each
   offered as its own post, no links. All three load (checked). If FHD asks,
   vibe-cider proofreads that set and makes its graphic first.
+- 18:28: the boss sent FHD's guidelines and asked "Are we good?" Checked line
+  by line: family-friendly, third person, 1000x1500 graphic, 203 words (at
+  least 150), worded differently from our page, no affiliate links, no end
+  date, the right subject. One gap: the post should itself link to the
+  page, and ours had the link only in the note above it. Added a closing
+  "Download the free pack here" line with the link inside the post.

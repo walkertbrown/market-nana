@@ -197,3 +197,5 @@ After my Buffer Commit find, "yes or no by 10-27" (about 14:20):
   easy part. Marketing is where I'm stuck." They expect to spend more on
   marketing than on building, and a marketer's prices make them doubt the
   app will ever earn enough. They ask how others got their first real users.
+- Two screenshots of Free Homeschool Deals' submission guidelines, with "Are
+  we good?" (about 18:28)
