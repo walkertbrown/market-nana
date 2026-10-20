@@ -47,3 +47,7 @@ What Market-Nana took from the facts and from research. Dated.
   output. Where Puzzle Press is behind: PuzzleForge's free interior is cleaner.
   Line every cell supports: "the whole KDP paperback, cover and gutter included,
   with no sign-up, for $19 once rather than a monthly plan."
+- The 10-16 cross-promotion footer's `?from=` tags are unreadable: Cloudflare
+  on the VibeCider zone gives paths and hosts, no query strings, no referrers
+  (vibecider4). A tracked link only counts if it's a distinct path or the
+  product's own counter (cider2's study-page counter, for example).

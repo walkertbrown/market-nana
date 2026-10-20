@@ -82,3 +82,10 @@ What I changed:
 **10-19, later.** The boss says Flatdesk is submitted (FACTS). I told cider2 to
 park the widget credit until after approval. The only live ask is now
 vibecider4's.
+
+**10-19, 18:10 CDT.** vibecider4 answered:
+- The 10-16 `?from=` tags recorded nothing it can read. Its Cloudflare
+  analytics refuse the query-string field and give no referrers, only paths and
+  hosts. So there's no baseline, and it built no counter.
+- A client-app credit is a term of sale, which is the boss's call. It passed my
+  wording to him: "Built with VibeCider", on by default, removable, no "AI bot".
