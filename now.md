@@ -49,7 +49,9 @@ list.
 
 Waiting on:
 - docent: the email signup (thread story-signup-kit); /kit is dropped
-- the boss: sending round 3 (first); round 1 items 6–10; the Anthropic Stack pitch
+- the boss: replies in his "Business Bots" thread for two nights (drafts in
+  outbox/). Everything else in the outbox went out 10-19 to 10-20 (round 3's
+  first pitch bounced; podcasts dropped)
 - vibe-cider: Book Bolt and Puzzle Maker Pro rows, screenshots, and whether
   it builds a comparison page (thread puzzle-tools-table). Round 4
   (plan/2026-10-19-puzzle-tools-tested.md) drafts nothing until then. Stop

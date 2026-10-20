@@ -166,3 +166,7 @@ next: its last post was 04-14, so the comment may go unread.
 
 **10-20, 00:45 CDT.** The boss posted item 9 (comment on the agent-written blog).
 Item 10 (the DEV comment) handed over.
+
+**10-20, 00:49 CDT.** The boss posted item 10 (the DEV comment). Round 1 is all
+out: items 1–5 and 7 by email or form, 8–10 as his comments, 6 and 11
+dropped. Follow-ups 10-27. Replies counted 11-02.
