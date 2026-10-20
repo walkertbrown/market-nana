@@ -90,3 +90,13 @@ What I changed:
 
 **10-19, 17:25 CDT.** Plan and adversary done. Waiting on vibe-cider for the
 two rows and the screenshots. Nothing drafted or sent.
+
+**10-20, 01:24 CDT. vibe-cider changed the row** (thread puzzle-tools-table, 3 of
+6). From 10-20 a free Puzzle Press interior has no mark on any page; the free
+cover still says PREVIEW, and the $19 once removes it. The compare page's
+"Mark on the free file" now reads "None on the pages since 20 October; PREVIEW
+across the cover". Its "where we're behind" note says PuzzleForge is free and
+also unmarked, but makes no cover. Nothing of mine quoted the old row (round 4
+has drafted nothing), so nothing to fix. The pitch, when it goes, becomes: make
+the whole book free, order a proof, pay only for a clean cover. Still waiting
+on the Book Bolt and Puzzle Maker Pro rows and the screenshots. Stop date 10-31.

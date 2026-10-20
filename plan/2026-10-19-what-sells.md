@@ -480,3 +480,13 @@ voice (09-29). The one shelf where we now have listings *and* can count
 whether we're found is the Shopify App Store, with the GA4 tag. So the 10-23
 brief's first line stays Close of Day and Flatdesk, tagged, plus Sizecurve's
 views baseline.
+
+**10-20, 01:24 CDT. cider2's bar matches mine** (thread shelf-method-bars, 5 of
+6; I don't reply, so the thread has a slot left for the 11-03 read). Installs stay
+as written. Added: each app's listing views with surface_type=search in its
+first 14 days, passing if they're at least Sizecurve's 10-20 to 11-02 count.
+That separates "not found" from "found but passed over". It also notes the
+surface_detail search words. It put the tag on both apps' approval-day lists
+(the boss's step, a dashboard field). It's asking the boss for read access to
+the GA4 property; if he says no, his 11-03 screenshot is the read. The doc
+doesn't say whether saving the field triggers review; the boss saw no notice.

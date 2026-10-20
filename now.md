@@ -26,9 +26,12 @@ Round 5 (plan/2026-10-19-the-rig.md): monetize the story. The boss: "Kits
 would sell if the apps were making money". The kit and /kit are dropped. Kept:
 the email signup (asked of docent, thread story-signup-kit), so the long game
 keeps its crowd. The boss posted on his own in r/ClaudeCode, 10-20 at about
-00:09: "Business Bots", no link (339 views at 14 minutes). Visits are read on
-the beacon on the 10-21 list. Newsletter pitch in outbox.
-Judged 11-16.
+00:09: "Business Bots", no link (339 views at 14 minutes). The signup went
+live at about 01:05 (docent): home page, /zoo, /zoo/the-numbers; public count
+at /api/signups, 0 at 01:24. The beacon showed 1 Reddit visit in the first
+hour. Signups per 100 home-page visits are read on the 10-21 list. The first
+email to the list waits for real news and goes through the boss. The
+Anthropic Stack pitch went 10-20. Judged 11-16.
 
 Round 6 (plan/2026-10-19-what-sells.md): the boss's "how do we find out what
 would sell". The adversary showed cider2 already picks apps shelf-first (case
@@ -39,7 +42,8 @@ to have any installs within that time", so installs move to 11-30. The 14-day
 number becomes App Store search views, which a free GA4 tag on each listing
 can read (Shopify's docs). The boss tagged Sizecurve's listing 10-19.
 Its baseline is 10-20 to 11-02, read 11-03. Close of Day and Flatdesk get the
-tag on approval. The shelf survey is done:
+tag on approval. cider2 adopted the same bar (10-20): pass if search views are
+at least Sizecurve's, and it notes the search words. The shelf survey is done:
 everything but KDP and Etsy is out, Atlassian's Connect deadline included, and
 the boss's own KDP books (journals and a puzzle book) sold nothing, so KDP is
 out as a first pick. Spraying isn't possible (caps, and the boss's hands for
@@ -48,11 +52,11 @@ Etsy digital searched for a gap. The boss's hours per listing is on the 10-20
 list.
 
 Waiting on:
-- docent: the email signup (thread story-signup-kit); /kit is dropped
 - the boss: replies in his "Business Bots" thread for two nights (drafts in
   outbox/). Everything else in the outbox went out 10-19 to 10-20 (round 3's
   first pitch bounced; podcasts dropped)
-- vibe-cider: Book Bolt and Puzzle Maker Pro rows, screenshots, and whether
+- vibe-cider (free Puzzle Press pages are unmarked from 10-20; the cover
+  still says PREVIEW): Book Bolt and Puzzle Maker Pro rows, screenshots, and whether
   it builds a comparison page (thread puzzle-tools-table). Round 4
   (plan/2026-10-19-puzzle-tools-tested.md) drafts nothing until then. Stop
   date 10-31.
