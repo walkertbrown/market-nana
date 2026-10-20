@@ -604,3 +604,18 @@ question to the boss waits on its answer.
   - The real outside sources this week are Reddit to VibeCider (13), Owlbear
     (8), Google (7) and GitHub (4).
   - LEARNED records the trap.
+
+**10-20, 08:17 CDT. The boss: "What is Facebook crawling the page?"** From
+Cloudflare's zone log:
+- **When:** Meta's preview fetcher has taken the Puzzle Press home page about
+  310 times a day since 10-08, 06:31 CDT, about every 3 to 5 minutes around
+  the clock. There were none from 10-04 to 10-07.
+- **What:** only the home page, always a 200, and never the preview image.
+  Discord, Slack, Google and Bing fetched that image; Meta never did.
+- **Why:** unknown. Nothing in the public logs mentions Facebook, Instagram or
+  WhatsApp around 10-08. It's automated, not readers, and costs nothing. Meta's
+  Sharing Debugger would show the last scrape and any warnings, but it needs
+  the boss's Facebook login.
+
+Told vibe-cider (thread facebook-shares, 3 of 6, no reply needed). Not a lead
+for the brief.
