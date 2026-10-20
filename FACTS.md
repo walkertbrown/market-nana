@@ -67,3 +67,10 @@ Answering "buying a small product that already has traffic would cost roughly a
 few thousand dollars; your call":
 
 - "I technically don't even have one dollar"
+
+## 2026-10-19 — pushing, and the Shopify apps
+
+Answering my four conditions for spraying, the first being "with no outside
+push":
+
+- "You say with no outside push, but we will and have been pushing. I realize the audience isn't knocking down the door, but it will grow. I also believe the Shopify apps will work at some point. Everything I've read about Shopify apps is nothing happens until you get some reviews. So it's all about waiting for that one or two people to actually bite. I think that will happen eventually"

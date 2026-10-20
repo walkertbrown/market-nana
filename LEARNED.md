@@ -158,3 +158,23 @@ market-gate and adversary:
 - **A first paying customer is worth more than any metric.** It's the first
   money the studio can spend. Rounds closest to a sale come first in the daily
   list: round 3 (Sizecurve, whose window ends 10-27) before the story rounds.
+
+## 2026-10-19, the first bite
+
+- **The boss is right that the studio pushes**, so "no outside push" was the
+  wrong test. The question is whether a small push, our kind, turns into
+  installs on the shelf, and then reviews.
+- **On Shopify, the target is the first one or two merchants per app.** The
+  boss: "nothing happens until you get some reviews". His reading fits
+  cider2's count: 83% of 2026 ops-app launches have no review at all. So
+  "eventually" doesn't come by itself for most apps. It comes when a push
+  lands the first installs. That's my job, and it's narrow enough to aim at.
+- **Push and spray pull opposite ways.** Our push is small: the boss's hour, a
+  few emails, one comment. It works best on a few products, so spraying many
+  new ones dilutes it. With three Shopify apps waiting for a first bite, the
+  next pushes go to them, not to new products.
+- **14 days measures being seen, not bought.** For Close of Day and Flatdesk,
+  14 days asks whether search shows them (listing views). Bites are judged
+  later, on 11-30.
+- **Never buy or trade for a review.** Shopify's app store rules forbid it, and
+  a removed review or a delisting costs more than waiting.

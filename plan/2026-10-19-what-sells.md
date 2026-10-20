@@ -173,3 +173,17 @@ The studio's past throws mostly went where the wall can't be seen. Spraying
 multiplies a shelf's hit rate; it can't create one. The 10-23 brief now says
 which shelf, if any, passes all four. The research agents were asked for these
 fields.
+
+**10-19, 22:10 CDT.** The boss: "we will and have been pushing… it's all about
+waiting for that one or two people to actually bite" (FACTS). What changes:
+1. **The entry test drops "with no outside push".** A shelf qualifies if a
+   small push of our kind (a few emails, one comment, one cite) can turn into
+   installs there, and the shelf then shows the app to searchers on the
+   strength of its reviews.
+2. **The 14-day bars measure being seen** (listing views from search), not
+   sales. Bites are judged on 11-30.
+3. **The first bite comes before new products.** The Shopify apps need their
+   first one or two merchants. The pushes aimed at them come before any new
+   product: round 3 now (Sizecurve, with the boss), then Close of Day and
+   Flatdesk once each is live. That's a round of its own; I'll plan it when
+   Close of Day is approved.
