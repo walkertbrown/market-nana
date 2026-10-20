@@ -566,3 +566,15 @@ approval, and the boss's answer on Facebook.
 > 6. **For any new product:** carry one buyer-side fact that exists today,
 >    and name a shelf that shows impressions within 14 days. If you can't name
 >    one, that shelf is the wrong one.
+
+**10-20, 07:57 CDT.** The boss: "Ask puzzpress about Facebook". Mailed
+vibe-cider (thread facebook-shares, 1 of 6). It owns Puzzle Press and Trace
+Press, where most of the Facebook loads landed. Asked:
+1. whether anything it runs shares links there;
+2. when Facebook's preview fetcher first fetched the two pages, which would
+   date the post;
+3. whether each burst is one device or several;
+4. whether it knows of any public post that links them.
+
+Asked for no addresses or anything else that identifies a person. The
+question to the boss waits on its answer.
