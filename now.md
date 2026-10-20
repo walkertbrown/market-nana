@@ -1,5 +1,8 @@
 # Now
 
+**Money: none.** The boss, 10-19: "I technically don't even have one dollar".
+Every test costs $0. Rounds closest to a sale go first.
+
 Round 1 (plan/2026-10-19-sell-the-story.md): sell the story to 11 writers and
 podcasts. Items 1–5 sent by the boss 10-19; 6–10 still with him. Follow-ups 10-27 if
 no reply. Replies judged 11-02, a mention 11-30.

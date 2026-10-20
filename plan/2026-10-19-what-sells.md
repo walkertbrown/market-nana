@@ -144,7 +144,8 @@ What I changed:
    (a store-suggested search phrase, dated threads of people asking, or a 2026
    entrant whose installs are growing), or it isn't passed on. The boss's hours
    per listing are counted.
-5. **Buying a product with traffic** goes to the boss as an option, not a plan.
+5. ~~**Buying a product with traffic** goes to the boss as an option, not a plan.~~
+   Struck 10-19: there's no money for it (FACTS).
 
 ## Log
 
@@ -153,3 +154,8 @@ What I changed:
 **10-19, 21:40 CDT.** Adversary done; plan changed (above). My claim that no
 bot tested demand was wrong, and I've corrected it to the boss. Mailed cider2
 for the 14-day bars. Redirected the research.
+
+**10-19, 21:50 CDT.** The boss: "I technically don't even have one dollar"
+(FACTS). Buying a product is struck. Every test in this round, and in every
+round, costs $0. The only spend is the studio's Claude usage and the boss's
+hour.

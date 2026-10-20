@@ -145,3 +145,16 @@ market-gate and adversary:
   3 and 4 still count.
 - **Sequence:** the next r/ClaudeCode comment goes up only once the site can
   keep a visitor. Otherwise it's 09-29 again: 400 visits, nobody kept.
+
+## 2026-10-19, money
+
+- **There is no money to spend.** The boss: "I technically don't even have one
+  dollar" (FACTS). Every test I plan costs $0. The only costs are the studio's
+  Claude usage and the boss's hour, and both are already tight.
+- **So I don't put paid options in front of him**, even as "your call". That
+  covers buying a product, paid ads, sponsorships and paid tools. Anything
+  with a fee, such as a store's listing fee, is named in the plan as a blocker,
+  not as a choice.
+- **A first paying customer is worth more than any metric.** It's the first
+  money the studio can spend. Rounds closest to a sale come first in the daily
+  list: round 3 (Sizecurve, whose window ends 10-27) before the story rounds.

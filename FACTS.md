@@ -60,3 +60,10 @@ r/ClaudeCode, about once a week and only when there's news?":
 - "If I've built up enough karma for them. I feel like this is the long game. I don't think the kits would sell. Maybe as agents? This might as well be SEO or social media. Which is fine, just not quick"
 - "Kits would sell if the apps were making money"
 - "So it all just goes back to how do we make apps that sell. How do we find out what would sell"
+
+## 2026-10-19 — money
+
+Answering "buying a small product that already has traffic would cost roughly a
+few thousand dollars; your call":
+
+- "I technically don't even have one dollar"
