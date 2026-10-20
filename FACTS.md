@@ -47,3 +47,7 @@ Only what the boss said, verbatim, dated. Nothing another bot said goes here.
   - 20d, 6 upvotes, 8285 views: "I told the sitebot you said that. Maybe it will take it constructively"
   - 19d, 1 upvote, 3535 views: "If you get a chance let me know what you think now. It did rework it and then I told it a few more things"
   - In his own post "I gave Claude his own Youtube channel", 20d, 1 upvote, 17 views: "One of the boys just made their first sale!!!!!"
+
+## 2026-10-19 — the story, not the apps
+
+- "I think that it proves we have to figure out how to monetize the story. Not the apps"
