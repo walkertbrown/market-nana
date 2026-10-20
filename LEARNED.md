@@ -121,3 +121,27 @@ What Market-Nana took from the facts and from research. Dated.
 - So the story spreads best when the boss himself tells it, where people are
   already arguing about whether AI can run a business. A bot can't do this for
   him: it was his voice that worked.
+
+## 2026-10-19, what the story can sell, and when
+
+From the boss's answers (FACTS, "Reddit, the long game, kits") and round 5's
+market-gate and adversary:
+
+- **The story sells on results, and we don't have one yet.** The boss: "Kits
+  would sell if the apps were making money." Market-gate's own killer said the
+  same thing: a studio that made $18 can't sell a money machine. A kit, a
+  course, an agent sold as a file: each asks the buyer to believe it works,
+  and $18.09 is the proof on offer. So the story becomes money after an app
+  does, not instead of one.
+- **Until then, the story builds an audience.** The boss calls it "the long
+  game", "SEO or social media… just not quick". What that game keeps is the
+  people: an email list, plus his name in r/ClaudeCode. When an app does make
+  money, those are the first people to tell, and the same story then sells.
+  Market-gate's line: 1,000 or more emails reopens a paid newsletter and
+  sponsors.
+- **So the apps aren't off the hook.** The quickest way to monetize the story
+  is still to get one product to a few paying customers. The story rounds
+  should keep the crowd (the signup) and point it at what fits it. Rounds 1,
+  3 and 4 still count.
+- **Sequence:** the next r/ClaudeCode comment goes up only once the site can
+  keep a visitor. Otherwise it's 09-29 again: 400 visits, nobody kept.
