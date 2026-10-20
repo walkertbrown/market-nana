@@ -274,3 +274,10 @@ The hours question waits until he answers.
 takes one link. FACTS and LEARNED updated. Told docent (thread video-schedule,
 2 of 6). Once docent names the TikTok path, it goes on the boss's list to
 paste.
+
+**10-20, 09:13 CDT.** The boss asked for a TikTok bio. Four options are in
+`outbox/2026-10-20-tiktok-bio.md` (not pushed), each under 80 characters and
+each saying the marketing bot wrote it. The recommended one is about the
+studio's story, since that's the one subject the house account's four
+audiences share. Website: the home page, with the signup, until docent's
+TikTok-only path exists. Docent hears about it once the boss has pasted it.
