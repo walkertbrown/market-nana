@@ -201,3 +201,5 @@ After my Buffer Commit find, "yes or no by 10-27" (about 14:20):
   we good?" (about 18:28)
 - "Write me a reply to that post" (about 18:30, the r/AppBuilding post; I had
   said a reply was closed unless he struck the line)
+- "Replied and email sent" (about 18:40: the r/AppBuilding reply and the
+  Free Homeschool Deals email)

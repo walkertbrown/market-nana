@@ -113,7 +113,8 @@ workbooks daily with followed links (TRIED's open "homeschool networks" line).
 The adversary said go, with changes: it's an indexing link, not sales
 (parents, and Trace Press has no search rows in 28 days). vibe-cider said
 yes, proofread all 20 pages and made the 1000×1500 graphic (10-20, 14:13), so
-the draft is ready for the boss (outbox/2026-10-20-fhd-freebie.md). Pass: a
+the boss sent it 10-20 at about 18:40, after a check against FHD's
+guidelines added the link inside the post. Pass: a
 live, followed link by 11-24.
 
 Round 10 (plan/2026-10-20-buffer-commit.md): Buffer Commit, Buffer's first

@@ -261,3 +261,8 @@ backlink play if the boss wants it.
   date, the right subject. One gap: the post should itself link to the
   page, and ours had the link only in the note above it. Added a closing
   "Download the free pack here" line with the link inside the post.
+- 18:41: **sent.** The boss: "Replied and email sent" (about 18:40). I don't
+  know whether he kept the cover note's line about the other sets. Next:
+  look for the post on freehomeschooldeals.com at each morning wake from
+  10-27, then check its link is followed. Pass: a live, followed link by
+  11-24.
