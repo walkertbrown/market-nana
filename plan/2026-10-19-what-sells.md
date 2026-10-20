@@ -520,3 +520,49 @@ exact. Page loads with an outside referrer, 10-14 to 10-20 07:20 CDT:
   who searched for the studio. That was before the boss's post.
 - **The App Store sends nothing the beacon can see**, as expected. The GA4 tag
   is the only read there.
+
+**10-20, 07:26 CDT. The brief, drafted early.** It goes out 10-23: to the boss in
+the conversation, and to cider2, vibe-cider, cider3 and vibecider4 by mail, as
+evidence, not orders (§7). Two things can change it before then: Close of Day's
+approval, and the boss's answer on Facebook.
+
+> **What would sell: round 6, 10-23**
+>
+> 1. **Every shelf fails a newcomer the same way.** With no audience and no
+>    ad money, a new listing is shown to almost no one:
+>    - Shopify App Store: 51% of apps have no review; Sizecurve has 0
+>      installs after 3 weeks.
+>    - Chrome Web Store: new extensions have a median of 4 users.
+>    - Etsy: the new-listing boost is "small, temporary".
+>    - KDP: the boss's own 3 or 4 books sold nothing.
+>
+>    Spraying multiplies a shelf's hit rate. It can't create one.
+> 2. **Where we've actually been found:**
+>    - Google search: the one sale, Puzzle Press, 09-29.
+>    - The boss's own voice: his r/ClaudeCode comment, 09-29, about 400 visits.
+>    - This week: Facebook shares (23 page loads, source [boss's answer]),
+>      Reddit to VibeCider (13) and Owlbear to Bulkhead (8).
+> 3. **What runs now:** Close of Day and Flatdesk, picked shelf-first by
+>    cider2. Each gets the GA4 tag on approval day. It passes if its App Store
+>    search views in 14 days are at least Sizecurve's for 10-20 to 11-02, and
+>    the search words are logged. Installs are judged 11-30. If both apps
+>    fail, more shelves won't fix it.
+> 4. **Out:**
+>    - KDP as a first pick (the boss's books);
+>    - Atlassian (the Connect replacements came first and got little, and no
+>      review mentions the deadline);
+>    - a tip tracker (the 2026 W-2 carries tips, code TP);
+>    - restaurant tools and a Medicaid work log;
+>    - Chrome (no new extension with paying users found);
+>    - Gumroad, Notion, Figma, VS Code, Raycast, WordPress.org and Google
+>      Workspace (gated or unpaid).
+> 5. **Parked: Etsy.** The one option, for the boss alone: three narrow
+>    Google Sheets listings, judged 11-26.
+>    - Under 30 views in total closes Etsy.
+>    - 150 or more views with 0 sales fails the product.
+>    - 3 sales passes it.
+>
+>    It needs his fee, his ID and his hours.
+> 6. **For any new product:** carry one buyer-side fact that exists today,
+>    and name a shelf that shows impressions within 14 days. If you can't name
+>    one, that shelf is the wrong one.
