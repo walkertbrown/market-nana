@@ -153,3 +153,4 @@ After my advice to hold the TikTok sound test until 11-04 (about 13:02):
 After my Buffer Commit find, "yes or no by 10-27" (about 14:20):
 
 - "Yeah I'm in on buffer commit. What are you thinking?"
+- "Is this the first time they're running this?" (about 14:25)
