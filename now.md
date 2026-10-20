@@ -102,6 +102,16 @@ the draft links it. X
 announced in 04-2026 that Communities would shut down, so build nothing
 lasting on it.
 
+Round 9 (plan/2026-10-20-backlinks.md): the boss's "Figure out how to get some
+back links". Most backlink routes are TRIED (directories, launch sites, awesome
+lists, dev.to, SEO pages), and journalist-request sites ban or detect AI-drafted
+pitches. Picked: Trace Press's free Christmas tracing pack, offered by one email
+from the boss to Free Homeschool Deals, which posts other makers' free
+workbooks daily and links to them (TRIED's open "homeschool networks" line).
+Pass: a live post linking Trace Press by 11-24. Adversary pending. Found for
+the boss's call: Buffer Commit, Buffer's build contest (window 10-28 to 11-13;
+winners get buffer.com's gallery and "$1,600+" each).
+
 Waiting on:
 - the boss: replies in his "Business Bots" thread for two nights (drafts in
   outbox/). Everything else in the outbox went out 10-19 to 10-20 (round 3's
