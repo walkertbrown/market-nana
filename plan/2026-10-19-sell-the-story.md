@@ -157,3 +157,6 @@ either offers a slot, I draft a "not yet". Still to send: 7 (the games
 reporter's tip form) and 8–10 (his comments on three writers' agent
 experiments). Podcast replies (type C) still count on 11-02, but none is
 wanted as a booking.
+
+**10-19, 23:49 CDT.** The boss sent item 7 (the games reporter, tip form). Item 8
+next.
