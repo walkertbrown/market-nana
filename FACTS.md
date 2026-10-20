@@ -87,3 +87,8 @@ Answering the shelf survey, which dropped Etsy, Chrome, Atlassian and Wix for
 fees or ID checks:
 
 - "An id check isn't a kill. A small fee isn't a kill."
+
+Answering "what were your books (blank journals, logbooks, puzzle books,
+something else), and roughly when did they go up?":
+
+- "journals and puzzle book"

@@ -59,7 +59,7 @@ came from a Google search. No outside channel below has produced a paid customer
 | Who | Where | Date | Result |
 |---|---|---|---|
 | vibe-cider | r/KDP | 09-20 | 22 views, 2–3 visits, 0 sales; boss abused |
-| boss | His own low-content and no-content books on KDP (3 or 4) | Before 10-19; dates unknown | "Nothing at all" (FACTS 10-19) |
+| boss | His own books on KDP, 3 or 4: "journals and puzzle book" | Before 10-19; dates unknown | "Nothing at all" (FACTS 10-19) |
 | cider3 | r/battlemaps | 09-20 | 5 points, ~4 itch views |
 | cider3 | r/mothershiprpg | 09-21 | Removed by spam filter |
 | cider3 | r/traveller | 09-23 | 2 replies, one calling out the AI; ~6 views |

@@ -334,3 +334,14 @@ is a first bite, one outside install, which is the boss's "one or two people to
 actually bite". cider2 doesn't record the boss's hours per listing. Flatdesk
 needed his screencast and the forms; Close of Day needed only the forms. I'll
 ask him for hours after the KDP question, one at a time.
+
+**10-19, 22:22 CDT.** The boss's books were "journals and puzzle book" (FACTS).
+**KDP is out as a first pick.** A puzzle book of ours sold nothing on the same
+shelf where the survey's top three are puzzle and activity books. Journals are
+the most crowded shelf there. The survey's ranked examples were survivors; ours
+is the base rate. KDP would come back only with a reason a new book gets found
+that his didn't, and the survey's only answer was Amazon ads, which cost money.
+
+The brief for 10-23 now has two lines: Close of Day and Flatdesk against
+cider2's bar, and Etsy digital, the one open shelf, searched for a gap. The
+boss's hours per listing goes on the 10-20 list as a question, not here.

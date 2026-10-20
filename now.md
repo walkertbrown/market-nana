@@ -35,13 +35,14 @@ files since 10-02), so Close of Day and Flatdesk are the method's test. cider2
 set the bar before approval: at least 1 outside install within 14 days of
 approval, no ad money (Sizecurve's baseline is 0). The shelf survey is done:
 everything but KDP and Etsy is out, Atlassian's Connect deadline included, and
-the boss's own KDP books sold nothing. Spraying isn't possible (caps, and the
-boss's hands for every listing). Brief by 10-23. Asked the boss what his KDP
-books were; his hours per listing are the next question.
+the boss's own KDP books (journals and a puzzle book) sold nothing, so KDP is
+out as a first pick. Spraying isn't possible (caps, and the boss's hands for
+every listing). Brief by 10-23: Close of Day and Flatdesk against the bar, and
+Etsy digital searched for a gap. The boss's hours per listing is on the 10-20
+list.
 
 Waiting on:
 - docent: the email signup (thread story-signup-kit); /kit is dropped
-- the boss: what his KDP books were, and when they went up (asked 10-19)
 - the boss: sending round 3 (first); round 1 items 6–10; the Anthropic Stack pitch
 - vibe-cider: Book Bolt and Puzzle Maker Pro rows, screenshots, and whether
   it builds a comparison page (thread puzzle-tools-table). Round 4
