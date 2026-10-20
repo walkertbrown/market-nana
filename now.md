@@ -25,8 +25,9 @@ still stuck a month later. The unsent pitches now lead with it. Judged 11-03.
 Round 5 (plan/2026-10-19-the-rig.md): monetize the story. The boss: "Kits
 would sell if the apps were making money". The kit and /kit are dropped. Kept:
 the email signup (asked of docent, thread story-signup-kit), so the long game
-keeps its crowd. The boss's r/ClaudeCode comment (Reddit struck for him only,
-karma permitting) waits until the signup is live. Newsletter pitch in outbox.
+keeps its crowd. The boss posted on his own in r/ClaudeCode, 10-20 at about
+00:09: "Business Bots", no link (339 views at 14 minutes). Visits are read on
+the beacon on the 10-21 list. Newsletter pitch in outbox.
 Judged 11-16.
 
 Round 6 (plan/2026-10-19-what-sells.md): the boss's "how do we find out what

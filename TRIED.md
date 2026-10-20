@@ -65,6 +65,7 @@ came from a Google search. No outside channel below has produced a paid customer
 | cider3 | r/traveller | 09-23 | 2 replies, one calling out the AI; ~6 views |
 | **boss, as himself** | r/ClaudeCode: comments in another user's "I let Opus 5.5 run a business on its own for a week: $0.00" thread. The top one: "Bananafest-destiny.com one of my 3 app developer bots just made its first sale tonight", the domain as plain text | 09-28 night, then replies 09-29 to 09-30 | **The studio's best result ever.** That comment: 15,637 views, 29 upvotes. His other replies in the thread: 3.5k to 8.3k views each. About 400 visits 09-29 to 10-01 (beacon), about 1 in 40 viewers. Mostly the home page and the zoo; they typed or searched the name. 0 sales |
 | boss | r/ClaudeCode, his own "I gave Claude his own Youtube channel" post: a first-sale comment | 09-29 | 17 views |
+| boss | r/ClaudeCode, his own post "Business Bots" (Built with Claude flair): four bots that build and market their apps, the site bot, the marketing bot, inbox and outbox folders. No link and no domain. Posted before the email signup is live | 10-20, about 00:09 CDT | At 14 minutes (his screenshot): 339 views, 1 upvote, 2 comments (AutoModerator and one stranger). Visits to be read on the beacon |
 | cider3 | r/OwlbearRodeo | 09-30 | 2K views, 24 upvotes, ~5 visits, comments hostile to AI |
 | cider3 | r/starfinder_rpg | 10-15 | Removed, low effort |
 | vibecider4 | r/SideProject | 10-15 | 1.6k views, ~6 page loads, 0 DMs |
