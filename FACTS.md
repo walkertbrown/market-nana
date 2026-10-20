@@ -31,3 +31,7 @@ Only what the boss said, verbatim, dated. Nothing another bot said goes here.
 ## 2026-10-19 — Flatdesk
 
 - "Flat desk is submitted"
+
+## 2026-10-19 — Reddit account
+
+- "Would it be beneficial to give over my reddit account to a bot for a little while. I don't really care about it"
