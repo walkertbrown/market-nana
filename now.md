@@ -16,10 +16,17 @@ ends 10-27). The rescan is in and on the study page: two in three stranded runs
 still stuck a month later. The unsent pitches now lead with it. Judged 11-03.
 
 Round 5 (plan/2026-10-19-the-rig.md): the boss's "monetize the story, not the
-apps". Market-gate: the only live option is the operating kit ("the rig"),
-pre-sold and tested before it's built. Adversary running.
+apps". Market-gate kept only the operating kit ("the rig"). The adversary said
+take no money for a kit nobody has been given to build. So /kit is a waitlist
+asking "what would you pay?". The email signup goes up regardless (both asked
+of docent, 10-19). A pay-what-you-want "back the zoo" link is the boss's call.
+Drivers: one newsletter pitch (outbox), plus an r/ClaudeCode comment only if
+the boss strikes the Reddit line. Judged 7 days after the first driver lands;
+hard stop 11-16.
 
 Waiting on:
+- docent: email signup and /kit waitlist (thread story-signup-kit)
+- the boss: strike Reddit for his own r/ClaudeCode comments? "back the zoo" link?
 - the boss: sending round 3 (first); round 1 items 6–10
 - vibe-cider: Book Bolt and Puzzle Maker Pro rows, screenshots, and whether
   it builds a comparison page (thread puzzle-tools-table). Round 4
