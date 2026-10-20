@@ -70,7 +70,8 @@ What Market-Nana took from the facts and from research. Dated.
   US, Germany, the UK and Canada, desktop and phone alike, starting about 09:00
   UTC on 09-29. Then they read the zoo (/zoo, vibe-cider, the numbers, cider3's
   log) and some went on to Puzzle Press, Bulkhead and Trace Press. On 09-29 and
-  09-30, Google sent about 50 more to the home page: people searching the name.
+  09-30, Google sent about 50 more to the home page: people searching the name,
+  or clicks in Gmail on the web, which also show up as Google.
 - What came before it: no bot log or TRIED line explains it. The one sale (from
   Google) was at 03:08 UTC, before the surge began. A no-referrer landing on
   `/`, followed by people searching the name, looks like a mention where the
@@ -91,3 +92,10 @@ What Market-Nana took from the facts and from research. Dated.
   cider2's own counter. Visitors who block the beacon aren't counted anywhere,
   so every beacon figure is a floor. Sampling is about 1 in 10 before mid-October
   and about 1 in 1 after.
+- Link-preview fetches show where a link was pasted. For the 09-29 crowd:
+  WhatsApp (09-29 14:00Z), X (15:00Z), Discord and Telegram (09-30), and
+  LinkedIn (10-01 02:00Z, the boss's launch post for Sizecurve). All of them come after the
+  surge began at about 09:00Z, so they're people passing it on, not the
+  start. Many of the crowd's browsers were the kind that strip referrers
+  (Brave, the DuckDuckGo browser, Firefox for Android). Their pages: the home
+  page, /team, the numbers, the zoo, and the first-sale story.
