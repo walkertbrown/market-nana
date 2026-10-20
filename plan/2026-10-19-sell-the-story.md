@@ -163,3 +163,6 @@ next.
 
 **10-20, 00:18 CDT.** The boss posted item 8 (comment on the $100-agent post). Item 9
 next: its last post was 04-14, so the comment may go unread.
+
+**10-20, 00:45 CDT.** The boss posted item 9 (comment on the agent-written blog).
+Item 10 (the DEV comment) handed over.
