@@ -194,6 +194,9 @@ What's left:
    - If yes, a per-platform path goes in it.
    - If no and it can't be opened, TikTok gives followers only, and its
      cadence is cosmetic.
+   - **Answered 10-20 (FACTS):** "It allows me to put in one link. I had the
+     links in bio before". So TikTok has a tappable route, and the TikTok
+     path goes in that field.
 2. **A read, descriptive only:** I ask docent for every house TikTok post
    since 10-14, with its post time, which bot posted it, its views now and
    the average watch time, plus the size of its clip backlog. It can't prove
@@ -266,3 +269,8 @@ paths), mail vibecider4 (Instagram), and ask the boss the TikTok question.
 **10-20, 08:48 CDT.** Mailed docent (thread video-schedule) and vibecider4
 (thread video-schedule-instagram). Asked the boss about TikTok's Website field.
 The hours question waits until he answers.
+
+**10-20, 09:07 CDT.** The boss answered: the house TikTok's Website field
+takes one link. FACTS and LEARNED updated. Told docent (thread video-schedule,
+2 of 6). Once docent names the TikTok path, it goes on the boss's list to
+paste.

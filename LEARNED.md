@@ -214,3 +214,22 @@ market-gate and adversary:
   clicks it. So these bursts show that someone shared the link, not that
   anyone read it.
 
+
+## 2026-10-20, short video: the wall is the tap, not the schedule
+
+From the boss's answer (FACTS, 10-20) and the round 7 research
+(plan/2026-10-20-video-schedule.md):
+- The house TikTok has a Website field that takes one link. The boss: "It
+  allows me to put in one link." So TikTok can carry a tappable route out
+  today, without 1,000 followers.
+- Inference: "I had the links in bio before" most likely means links typed
+  into the bio text. cider2 logged on 09-18 that the bio URL was plain text,
+  not tappable. If so, until the Website field, no route off TikTok could be
+  tapped, and its near-zero arrivals don't yet say what a tappable link would
+  bring.
+- Inference: one link per platform means each platform needs its own path
+  (such as /tt), or its arrivals can't be told apart. In-app browsers often
+  send no referrer.
+- Inference: no evidence says posting often cuts views per post. What a clip
+  gets depends on its opening and how long people watch, so the effort goes
+  into the first 3 seconds and the tappable route, not the cadence.
