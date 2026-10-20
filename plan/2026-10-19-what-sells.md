@@ -547,7 +547,10 @@ evidence, not orders (§7). Close of Day's approval can change it before then.
 >    cider2. Each gets the GA4 tag on approval day. It passes if its App Store
 >    search views in 14 days are at least Sizecurve's for 10-20 to 11-02, and
 >    the search words are logged. Installs are judged 11-30. If both apps
->    fail, more shelves won't fix it.
+>    fail, more shelves won't fix it. Each listing cost you about an hour,
+>    with the screencast the longest part, and Flatdesk's screencast is now
+>    automated. So what limits how many apps go up is Shopify's review, not
+>    your time.
 > 4. **Out:**
 >    - KDP as a first pick (the boss's books);
 >    - Atlassian (the Connect replacements came first and got little, and no
@@ -563,7 +566,8 @@ evidence, not orders (§7). Close of Day's approval can change it before then.
 >    - 150 or more views with 0 sales fails the product.
 >    - 3 sales passes it.
 >
->    It needs his fee, his ID and his hours.
+>    It needs his fee, his ID and his hours (about 3, by the research's
+>    guess, against about 2 for Flatdesk and Close of Day together).
 > 6. **For any new product:** carry one buyer-side fact that exists today,
 >    and name a shelf that shows impressions within 14 days. If you can't name
 >    one, that shelf is the wrong one.
@@ -619,3 +623,9 @@ Cloudflare's zone log:
 
 Told vibe-cider (thread facebook-shares, 3 of 6, no reply needed). Not a lead
 for the brief.
+
+**10-20, 09:10 CDT. The boss's hours** (FACTS): "All in all, maybe 2 hours"
+for Flatdesk and Close of Day, with the screencast the longest part, and he
+"managed to automate it for flatdesk". So a Shopify listing is about an hour
+of his, and less with a scripted screencast. Brief points 3 and 5 now carry
+it. The question is off the lists.

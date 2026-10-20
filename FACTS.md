@@ -115,3 +115,10 @@ Asked whether to make a Facebook page, and then, on the social accounts:
 Asked whether the house TikTok's Edit profile screen shows a Website field:
 
 - "It allows me to put in one link. I had the links in bio before"
+
+## 2026-10-20 — his hours on the Shopify listings
+
+Asked how many hours Flatdesk's listing (the screencast and the forms) and
+Close of Day's (the forms) took him:
+
+- "All in all, maybe 2 hours. I did it over time in between work and stuff. The screencast took longest. I managed to automate it for flatdesk though"

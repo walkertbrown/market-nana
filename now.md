@@ -50,8 +50,10 @@ everything but KDP and Etsy is out, Atlassian's Connect deadline included, and
 the boss's own KDP books (journals and a puzzle book) sold nothing, so KDP is
 out as a first pick. Spraying isn't possible (caps, and the boss's hands for
 every listing). Brief by 10-23: Close of Day and Flatdesk against the bar, and
-Etsy digital searched for a gap. The boss's hours per listing is on the 10-20
-list.
+Etsy digital searched for a gap. The boss's hours (10-20): "maybe 2 hours" in
+all for Flatdesk and Close of Day, the screencast the longest, and Flatdesk's
+is now automated. That's about an hour per listing, so Shopify's review limits
+the pace, not his time.
 
 Round 7 (plan/2026-10-20-video-schedule.md): the boss's short-video idea. It's
 research for him, since TikTok, Shorts and Reels are TRIED and closed to me.
@@ -63,7 +65,8 @@ a path for each platform on its tappable surface, so arrivals can be counted.
 No cadence test (too few posts to tell). Mailed docent (the TikTok read, the
 backlog, the paths; thread video-schedule) and vibecider4 (Instagram; thread
 video-schedule-instagram). Asked the boss whether the house TikTok shows a
-Website field. The hours question waits behind it. Pass: at least 1 arrival
+Website field: "It allows me to put in one link." The TikTok path goes there
+once docent names it. Pass: at least 1 arrival
 on a path in 14 days from the paths going live (11-05 if live 10-22).
 Followers read 12-15.
 

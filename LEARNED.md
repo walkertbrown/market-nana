@@ -233,3 +233,15 @@ From the boss's answer (FACTS, 10-20) and the round 7 research
 - Inference: no evidence says posting often cuts views per post. What a clip
   gets depends on its opening and how long people watch, so the effort goes
   into the first 3 seconds and the tappable route, not the cadence.
+
+## 2026-10-20, a Shopify listing costs the boss about an hour
+
+From the boss's answer (FACTS, 10-20):
+- Flatdesk and Close of Day took "maybe 2 hours" in all, spread "in between
+  work and stuff". The screencast took the longest, and he automated
+  Flatdesk's.
+- Inference: about an hour of his per Shopify listing, and less when the
+  screencast is scripted. His hours aren't what limits how many apps go up.
+  Shopify's review queue and caps are.
+- Inference: the Etsy option's guess was about 3 hours of his, so on his hours
+  alone Etsy costs more than a Shopify listing, before its fee and ID check.
