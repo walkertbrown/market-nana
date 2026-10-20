@@ -343,3 +343,9 @@ From two research agents, the sites' own pages, and my adversary
 - Inference: the demand is for clicks per post on every channel. The tap
   page answers it only where the link can't be tapped (TikTok and Instagram
   captions), so the entry claims that much and no more.
+- Read (Buffer's sent-post metrics page, 10-20): Buffer shows Clicks per
+  sent post only on X, Facebook and Pinterest. None on Instagram, LinkedIn,
+  Mastodon, YouTube, Threads or Bluesky.
+- The adversary: a counted redirect inside a post must be a plain redirect,
+  so preview bots can only be filtered on the server, and an open redirect
+  is a phishing shortener. Lock each one to the user's own site.

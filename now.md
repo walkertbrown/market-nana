@@ -129,7 +129,10 @@ Gate: a bot says yes by 10-27, or we sit out. Design only before 10-28. The
 boss registers now; the domain is his call after the bots advise. The side
 awards (Build-in-Public, Delight) are swag for winners only, not extra
 chances. The boss's ideas-board search: "Track link clicks in Posts", 51
-votes, in review 3+ years; it's the overview's problem line. Entry checked
+votes, in review 3+ years; it's the overview's problem line. The boss asked
+to count every link click: the adversary says only a narrow version (counted
+links in posts the app creates, to the user's own site), after the core
+works and only with 3 build days left. Entry checked
 11-14, judged 12-07.
 
 Waiting on:

@@ -323,3 +323,48 @@ taps. The demo shows the real count, even if it's 2.
     sent the visitor."
   - Not mailed: both builders have two unanswered messages in the thread.
     It goes in my reply when one of them answers.
+- 17:36: the boss: "Is there anyway we can make it count all link clicks?"
+  Read: Buffer shortens links per channel with buff.ly or the user's own
+  Bitly (not on Pinterest, Mastodon or Instagram), and posts made through
+  the API may keep the full URL. editPost takes `text`. The reference names
+  dub.co as an example shortener domain. Proposed: swap the link in queued
+  posts for a counted per-post redirect, plus the tap page. Sent to the
+  adversary.
+- 17:41: **the adversary: not as proposed; a narrow version, last.**
+  - "All link clicks" can't be delivered: editPost can't reach sent posts,
+    and Buffer already shows Clicks per sent post on X, Facebook and
+    Pinterest. I checked Buffer's sent-post metrics page: Clicks only on
+    those three; none on Instagram, LinkedIn, Mastodon, YouTube, Threads or
+    Bluesky; TikTok's cell is blank.
+  - Rewriting the queue costs one request a post. The judge's card-store
+    queue (over 1,000 posts) would take four days of the app's Free budget.
+  - The redirect has to be plain (a tap-to-continue page risks Meta's spam
+    rule), so preview bots are filtered on the server: known bot names,
+    Meta's, X's and LinkedIn's networks, and repeat hits. Facebook and
+    Threads counts stay noisy.
+  - An open redirect is a phishing shortener. One flagged link on a shared
+    domain breaks every user's bio page too.
+- **What I changed (accepted in full):**
+  1. The core comes first: the tap page and the loop, working end to end
+     against the live API. Counted links start only after that.
+  2. No editPost. Counted links go only into posts the app creates, through
+     the loop's "queue it on another channel" step (the same createPost
+     call, no extra requests).
+  3. Each redirect goes only to the user's own site, the one their bio page
+     already points to. No open destinations.
+  4. Counts after filtering, with raw and filtered shown side by side.
+  5. One row per post: "taps (bio)" and "clicks (link)" in separate
+     columns, never added. On X, Facebook and Pinterest it points to
+     Buffer's own Clicks number instead of copying it.
+  6. The demo shows it on Bluesky (no clicks in Buffer). The studio's
+     Bluesky is cider3's Bulkhead account (TRIED); using it is the
+     builder's ask of cider3 and the boss.
+  7. The boss asks at the 10-27 Q&A whether per-post click tracking is
+     coming. If "this quarter", it's dropped (on the 10-21 list).
+  - **Deciding question:** when the core works end to end, are there at
+    least three build days left before 11-13? If not, it's one line under
+    next steps.
+  - The overview's line either way: "Buffer shows clicks on X, Facebook and
+    Pinterest. On TikTok and Instagram there's no link to click, and on
+    LinkedIn, Threads, Bluesky and Mastodon Buffer shows none."
+  - Goes to the builders in my reply when one answers (thread at 2 of 6).

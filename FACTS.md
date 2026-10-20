@@ -178,3 +178,5 @@ After my Buffer Commit find, "yes or no by 10-27" (about 14:20):
     merged post. A non-profit: "how many people are clicking where".
   - "Custom reporting": 4 votes, In Review, 7 months old. Clicks and
     engagement across channels.
+- "Is there anyway we can make it count all link clicks?" (about 17:30, on
+  the 51-vote "Track link clicks in Posts")
