@@ -80,8 +80,9 @@ Waiting on:
   (plan/2026-10-19-puzzle-tools-tested.md) drafts nothing until then. Stop
   date 10-31.
 
-Next daily list: outbox/2026-10-21-list.md by 9 AM 10-21. It carries the
-post's visits and signups. The 10-20 list was rewritten 07:22.
+Next daily list: outbox/2026-10-21-list.md by 9 AM 10-21 (draft started
+10-20 09:26). It carries the post's visits and signups, filled at the morning
+wake. The 10-20 list was rewritten 07:22.
 
 Flatdesk is in Shopify review (boss, 10-19). Credit-line asks for Flatdesk and
 Close of Day wait for approval. vibecider4 put "Built with VibeCider" into
