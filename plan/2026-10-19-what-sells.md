@@ -208,9 +208,49 @@ from `date`.
   the grid, "easy" crosswords full of rare words, sudoku with two solutions,
   memory books pitched at the wrong level. Puzzle Press already makes these
   books. The catches: new titles mostly get found through Amazon ads, the boss
-  holds the account, and 3 titles a day is the cap. Whether to publish is
+  holds the account, and ~~3 titles a day is the cap~~ the cap is 2 new titles
+  per format per week, since 09-21 (the boss's correction, below). Whether to publish is
   vibe-cider's call (§7).
 - **Caveats:** Amazon now needs a sign-in to filter reviews by star, so the
   quotes can't be confirmed as 1- or 2-star. Etsy blocked the machine. Its one
   no-socials success story sells a course. No 2026 launch on any of these
   shelves passed the entry test cleanly.
+
+**10-19, 21:38 CDT.** The coordinating research agent is done (finished 21:31).
+- **Our own shelves:** no store's own search has ever brought a sale or a
+  merchant install. Puzzle Press's one sale came from Google search.
+- **Shelf survey:** every shelf but KDP is dropped.
+  - Chrome: a registration fee, at most two published extensions, and no
+    paying users found.
+  - Etsy: fees and an ID check.
+  - Gumroad, Notion, WordPress.org, VS Code, Raycast, Figma, Google Workspace,
+    Atlassian, Wix: gated, unpaid, or company checks.
+  - KDP "passes, weakly": three paperbacks published 10-02 to 10-16 already
+    show a sales rank with no reviews and no Sponsored tag.
+- **Spraying:** every shelf caps or bans near-duplicates, and KDP needs the
+  boss's hands for each upload. With $0 and an hour a day, it isn't possible.
+- **Push before pain:**
+  - The no-tax-on-tips deduction (2025–2028): a tip log, with demand peaking
+    January to April 2027. About 10 already listed.
+  - Medicaid's work-hours rule from 2027-01-01: a log. None listed, but
+    unproven demand.
+  - Publisher's retirement: low.
+- **Its top three, all KDP:**
+  - a large-print, no-writing activity book for adults with memory loss;
+  - a tip and overtime deduction log;
+  - an error-free "easy" large-print Christmas word search for seniors.
+
+**The boss, same hour** (FACTS): the cap is 2 a week, not 3 a day. He's right:
+KDP's notice says 2 new titles per format per week since 09-21
+(https://www.kdpcommunity.com/s/article/KDP-Title-Creation-Limits-Update). The
+agent quoted a 2023 rule. And: "I actually have 3 or 4 low content/no content
+books already up on KDP.... Nothing at all."
+
+**My reading.** His books are the studio's own KDP test, and they beat the
+survey's three examples. Those three were picked because they ranked. Nobody
+counted the new books that didn't, so "passes, weakly" says nothing about the
+odds. A rank is about one sale, and could be the author's friend. Our own odds
+so far are 0 of 3 or 4. KDP stays in the brief only as "a new book is seen
+within 72 hours", not as "it sells". One fact would settle more: what his
+books were and when they went up. A blank journal is the most crowded shelf on
+Amazon; a logbook is next door to the tip log. Asked.
