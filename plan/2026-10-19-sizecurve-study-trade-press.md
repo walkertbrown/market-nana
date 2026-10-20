@@ -162,3 +162,6 @@ Pitch 1 is parked; the form is optional, last. Pitches 2–4 go now.
 writer, the fashion-tech publication, the DTC reporter). No bounces reported
 yet. Pitch 5, the podcast guest form, is next and is his call. A one-line nudge
 goes 10-27 to anyone who hasn't replied. Judged 11-03.
+
+**10-19, 23:31 CDT.** Pitch 5, the podcast form, is dropped. The boss: no podcasts
+until the bots pay off (FACTS). Round 3 is four emails, one of them bounced.

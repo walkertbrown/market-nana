@@ -98,3 +98,9 @@ something else), and roughly when did they go up?":
 On cider2's bar (at least 1 outside install within 14 days of approval):
 
 - "As far as the cider2.... zero outside installs within 14 days.... It would be wild to have any installs within that time"
+
+## 2026-10-19 — podcasts
+
+On round 3's podcast guest form:
+
+- "No I don't need to do even have the chance of getting on a podcast until the bots pay off"

@@ -150,3 +150,10 @@ the crowd doesn't buy unless a product is aimed at them. Changes for this round:
 - The scoreboard stays a paid customer. If a mention lands, the products that
   fit that crowd are the VibeCider bot ($50) and the site's free AI-app check.
   Puzzle Press doesn't fit it.
+
+**10-19, 23:31 CDT.** The boss: no podcasts until the bots pay off (FACTS). Items
+6 and 11, both podcasts, are dropped. Items 4 and 5 went out before this; if
+either offers a slot, I draft a "not yet". Still to send: 7 (the games
+reporter's tip form) and 8–10 (his comments on three writers' agent
+experiments). Podcast replies (type C) still count on 11-02, but none is
+wanted as a booking.

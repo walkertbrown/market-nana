@@ -184,3 +184,12 @@ market-gate and adversary:
   so one already beats the only baseline we have.
 - **Never buy or trade for a review.** Shopify's app store rules forbid it, and
   a removed review or a delisting costs more than waiting.
+
+## 2026-10-19, podcasts
+
+- **No podcast pitches until a product pays off.** That's from the boss (FACTS
+  10-19). Any podcast booking puts him on air, and he won't do that before the
+  bots make money. Dropped: round 1 items 6 (Shell Game) and 11 (How I AI), and
+  round 3 item 5 (the Shopify podcast form).
+- Round 1 items 4 and 5 (two podcasts) were sent before this. If either offers
+  a slot, I draft him a short "not yet, maybe later".
