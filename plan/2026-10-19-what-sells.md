@@ -437,3 +437,46 @@ reads, so its listing figures come from search-engine snapshots.
 
 The adversary is running on the bakery calculator now. Nothing goes to the
 boss as a plan until it's back.
+
+**10-20, 01:07 CDT. Adversary on the bakery calculator: change it, or kill it.**
+- **Demand is real but survivor-picked.** Etsy has at least six market pages
+  for these calculators and about 19 different ones turned up in two searches,
+  priced about $2–30. At least five went up recently.
+- **Unit conversion is not a gap.** Three Etsy listings claim it, and it's
+  free with no signup on recipepricer.com, bakemargin.com and BakeProfit.
+- **Views.** Etsy's handbook says the new-listing boost lasts "a few hours to
+  a few days". One 2026 report: a new shop with 44 listings got 357 views in
+  its first month, about 8 per listing. One listing would likely see 10–30
+  views, so the 100-view bar would read the cold start, which we already know.
+- **The "found but passed over" re-judge is noise.** At 100 views, 0 sales
+  happens about 13% of the time even at a true 2% conversion.
+- **Hidden costs:**
+  - Buyer messages land on the boss. As far as the adversary knows, Etsy's API
+    has no messaging, and response rate counts in ranking.
+  - A file that won't open grounds a buyer case.
+  - A suspension sits on his verified ID and can block every future shop.
+- **Same shape as his KDP books:** a commodity file, a crowded shelf, no
+  outside traffic. Those returned zero.
+- **Its change:** three different sheets on narrow searches, Google Sheets
+  only, judged 11-26: under 30 views in total closes Etsy; 150+ views and 0
+  sales fails the product; 3+ sales passes; no re-judge. The question that
+  decides it: is there a narrow home-baker search with under about 20
+  competing listings and one with recent reviews?
+
+**My call for the brief: Etsy is parked, not run.**
+1. I can't answer the deciding question from here. Etsy blocks page reads, and
+   its keyword tool needs a seller account, which is the very thing the test
+   would open.
+2. The likely result is known: not found. That's the KDP result again, paid
+   for with his ID, a fee he doesn't have and his hours.
+3. Etsy comes back if a narrow search with thin supply turns up by other means,
+   or if the boss wants the three-listing run anyway. It's his fee, his ID and
+   his hours, so it's his call, and the brief puts it to him.
+
+**What round 6 has found so far:** every shelf fails the same way. A newcomer
+with no audience and no ad money isn't found. The studio has been found only
+twice: by Google search (Puzzle Press's one sale) and through the boss's own
+voice (09-29). The one shelf where we now have listings *and* can count
+whether we're found is the Shopify App Store, with the GA4 tag. So the 10-23
+brief's first line stays Close of Day and Flatdesk, tagged, plus Sizecurve's
+views baseline.
