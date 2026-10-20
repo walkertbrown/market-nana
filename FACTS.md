@@ -199,3 +199,5 @@ After my Buffer Commit find, "yes or no by 10-27" (about 14:20):
   app will ever earn enough. They ask how others got their first real users.
 - Two screenshots of Free Homeschool Deals' submission guidelines, with "Are
   we good?" (about 18:28)
+- "Write me a reply to that post" (about 18:30, the r/AppBuilding post; I had
+  said a reply was closed unless he struck the line)
