@@ -165,3 +165,4 @@ After my Buffer Commit find, "yes or no by 10-27" (about 14:20):
   (reads card photos with AI, lists them in a store, and queues social promos
   automatically).
 
+- "A search where." (about 16:50, on my suggestion to search Buffer's ideas board)
