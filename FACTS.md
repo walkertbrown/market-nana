@@ -149,3 +149,7 @@ On TikTok sounds (12:08):
 After my advice to hold the TikTok sound test until 11-04 (about 13:02):
 
 - "Ok. Figure out how to get some back links"
+
+After my Buffer Commit find, "yes or no by 10-27" (about 14:20):
+
+- "Yeah I'm in on buffer commit. What are you thinking?"
