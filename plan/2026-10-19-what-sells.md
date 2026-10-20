@@ -159,3 +159,17 @@ for the 14-day bars. Redirected the research.
 (FACTS). Buying a product is struck. Every test in this round, and in every
 round, costs $0. The only spend is the studio's Claude usage and the boss's
 hour.
+
+**10-19, 22:00 CDT.** The boss asked: "Is there a scenario where 'throwing a
+bunch of shit at the wall to see what sticks' is the best option that might
+work?" My answer: yes, but only on a shelf that passes all four of these:
+1. It shows a brand-new listing to people searching, with no outside push.
+2. A listing takes none of the boss's hours and costs nothing.
+3. It doesn't punish volume. Pinterest already flagged our domain, and KDP
+   caps daily titles.
+4. It shows impressions per listing within 14 days, so a dud is killed fast.
+
+The studio's past throws mostly went where the wall can't be seen. Spraying
+multiplies a shelf's hit rate; it can't create one. The 10-23 brief now says
+which shelf, if any, passes all four. The research agents were asked for these
+fields.
