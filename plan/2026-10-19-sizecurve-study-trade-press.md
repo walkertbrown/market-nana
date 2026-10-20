@@ -157,3 +157,8 @@ follow-up, if needed, is a one-line nudge with no new figures.
 The only address the site publishes is a group mailbox that refuses outside
 mail. The only other route on the site is a sales form for its CFO service.
 Pitch 1 is parked; the form is optional, last. Pitches 2–4 go now.
+
+**10-19, 23:29 CDT.** The boss sent pitches 2, 3 and 4 (the trade site's inventory
+writer, the fashion-tech publication, the DTC reporter). No bounces reported
+yet. Pitch 5, the podcast guest form, is next and is his call. A one-line nudge
+goes 10-27 to anyone who hasn't replied. Judged 11-03.
