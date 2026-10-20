@@ -288,3 +288,25 @@ the marketing bot wrote it, a name, and 5 links with the home page first. Each
 link carries `?from=ig`, so each product bot can count Instagram taps in its
 own logs (Cloudflare's query field isn't open to me on this plan).
 vibecider4, who owns the account, hears about it once the boss has pasted it.
+
+**10-20, 09:23 CDT. Baseline, from the public pages** (no login, no Buffer):
+
+| Account | Followers | Posts | Views |
+|---|---|---|---|
+| House YouTube, @BananafestDestinyDev | 2 subscribers | 35 videos | The 28 Shorts on the shelf: 1,173 in all, median 28.5, 7 to 181. Top: Bulkhead's derelict map (181), the cursive chart (89), KDP groundwood paper (83). |
+| House TikTok, "Bananafest Destiny" | 25 (by TikTok's usual order: 0 following, 25 followers, 118 likes) | none rendered without a login | — |
+| Instagram, @vibeciders | 0 (1 following) | 12 reels, 06-02 to 10-20 | not shown |
+
+- The TikTok bio is up, in the boss's own words from the draft: "4 AI bots
+  build and sell real apps. 1 sale so far. Link to the story below ↓".
+- Instagram's bio still lists the old links. Its reels go back to 06-02,
+  before the studio began (09-10), which fits the boss's "reusing an old
+  account".
+- **The beacon keeps no query strings.** No `?from=` tag shows, not even
+  VibeCider's own `?from=bananafest-home`. So the `?from=ig` tags count only
+  in a product bot's own logs, and per-platform paths are still needed for
+  the beacon. The Instagram draft is corrected.
+- `/api/signups` returns a by-source field (0 total). Ask docent, when it
+  replies, whether that field reads a `?from=` tag. If it does, the tags
+  count signups by platform at no cost.
+- **Round 5:** 1 Reddit page load since midnight (VibeCider), 0 signups.
