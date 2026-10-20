@@ -499,7 +499,7 @@ exact. Page loads with an outside referrer, 10-14 to 10-20 07:20 CDT:
 | From | Loads | Landed on |
 |---|---|---|
 | Shopify admin | 37 | Close of Day and Flatdesk inside Shopify admin: the review and our own tests, not merchants |
-| Facebook (web and app) | 23 | Trace Press's Halloween worksheets, Puzzle Press, its royalty calculator, the studio home page, the zoo's vibe-cider page |
+| ~~Facebook (web and app)~~ | ~~23~~ | **Not people** (vibe-cider, 08:13; see the log): Meta's link-preview renderer |
 | Reddit (web and app) | 13 | VibeCider's page only, since 10-16 |
 | Owlbear | 8 | Bulkhead's extension page |
 | Google | 7 | the studio's own pages |
@@ -507,7 +507,7 @@ exact. Page loads with an outside referrer, 10-14 to 10-20 07:20 CDT:
 | Bluesky, itch | 2 each | Bulkhead |
 | DuckDuckGo, Yandex, t.co | 1 each | Puzzle Press, VibeCider |
 
-- **Facebook is the biggest outside source after Shopify's own admin**, and no
+- ~~**Facebook is the biggest outside source after Shopify's own admin**~~ **Wrong; see 10-20, 08:14 below.** No
   bot posts there. Facebook groups were closed on 10-17 (the boss: "every
   facebook group has too many rules"). The loads come in clusters, such as 5
   on the Halloween worksheets between 12:28 and 12:36 on 10-19, so each is
@@ -523,8 +523,8 @@ exact. Page loads with an outside referrer, 10-14 to 10-20 07:20 CDT:
 
 **10-20, 07:26 CDT. The brief, drafted early.** It goes out 10-23: to the boss in
 the conversation, and to cider2, vibe-cider, cider3 and vibecider4 by mail, as
-evidence, not orders (§7). Two things can change it before then: Close of Day's
-approval, and the boss's answer on Facebook.
+evidence, not orders (§7). Close of Day's approval can change it before then.
+(Facebook is settled; see below.)
 
 > **What would sell: round 6, 10-23**
 >
@@ -540,8 +540,9 @@ approval, and the boss's answer on Facebook.
 > 2. **Where we've actually been found:**
 >    - Google search: the one sale, Puzzle Press, 09-29.
 >    - The boss's own voice: his r/ClaudeCode comment, 09-29, about 400 visits.
->    - This week: Facebook shares (23 page loads, source [boss's answer]),
->      Reddit to VibeCider (13) and Owlbear to Bulkhead (8).
+>    - This week: Reddit to VibeCider (13 page loads) and Owlbear to
+>      Bulkhead (8). Facebook's 23 were Meta's own link-preview renderer, not
+>      people.
 > 3. **What runs now:** Close of Day and Flatdesk, picked shelf-first by
 >    cider2. Each gets the GA4 tag on approval day. It passes if its App Store
 >    search views in 14 days are at least Sizecurve's for 10-20 to 11-02, and
@@ -578,3 +579,28 @@ Press, where most of the Facebook loads landed. Asked:
 
 Asked for no addresses or anything else that identifies a person. The
 question to the boss waits on its answer.
+
+**10-20, 08:14 CDT. Facebook was Meta's link-preview renderer, not people**
+(vibe-cider, thread facebook-shares, 2 of 6). I was wrong to call it pull.
+- **Nothing of vibe-cider's shares on Facebook,** and no page has a share
+  button. Someone pasted the links into Facebook or Messenger; it can't tell
+  who.
+- **Every burst it can still see is Meta's own servers drawing a preview.**
+  facebookexternalhit fetched each page in the same minute as the "visits":
+  - Halloween worksheets: 10-19, 12:28;
+  - royalty calculator: 10-20, 07:13;
+  - Trace Press home: 10-19, 21:18.
+  The same minute, one or two requests from Meta's network rendered the page
+  as plain Chrome, with no robot in the name. They ran the JavaScript, so they
+  fired the beacon with a Facebook referrer, and Cloudflare's bot filter let
+  them through. For 10-19 and 10-20 it found no matching request from outside
+  Meta's network. The 10-17 loads are older than its log keeps.
+- **Also from its log:** Meta's preview fetcher took the Puzzle Press home
+  page 314 times in 23 hours, about every four minutes, from 09:00 CDT on
+  10-19, and no browser followed any of them. It doesn't know the trigger.
+- **What changes:**
+  - The question to the boss is dropped.
+  - The brief's line 2 now says Facebook's 23 weren't people.
+  - The real outside sources this week are Reddit to VibeCider (13), Owlbear
+    (8), Google (7) and GitHub (4).
+  - LEARNED records the trap.

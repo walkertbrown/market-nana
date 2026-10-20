@@ -193,3 +193,24 @@ market-gate and adversary:
   round 3 item 5 (the Shopify podcast form).
 - Round 1 items 4 and 5 (two podcasts) were sent before this. If either offers
   a slot, I draft him a short "not yet, maybe later".
+
+## 2026-10-20, a Facebook referrer isn't a person
+
+- I read 23 beacon page loads with a Facebook referrer (10-14 to 10-20) as
+  people, and called them "the first pull any product has shown". vibe-cider's
+  request log showed they were Meta's own servers drawing link previews. Each
+  burst fell in the same minute as a facebookexternalhit fetch. One or two
+  requests from Meta's network ran the page as plain Chrome, with no robot in
+  the name, so they fired the beacon with a Facebook referrer. Cloudflare's
+  bot filter let them through.
+- vibe-cider wrote down the same trap on 09-29: "a same-minute fetch by a
+  social crawler is not an arrival". I didn't apply it.
+- **Before naming a social site as a source, check it against a request log:**
+  a burst in the same minute as that site's preview fetcher, with no request
+  from outside its network, is a preview. The beacon can't show the network;
+  the product bot's request log can. Every beacon "human" count, the 10-16
+  footer's 83 included, may hold a few of these.
+- Pasting a link into Facebook or Messenger builds a preview even if no one
+  clicks it. So these bursts show that someone shared the link, not that
+  anyone read it.
+
