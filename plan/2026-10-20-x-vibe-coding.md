@@ -24,6 +24,11 @@ I draft in `outbox/`, and I don't post, sign up or message anyone.
   12:02 CDT (US, desktop, Edge). It's the only X arrival on any studio page from
   10-13 to 10-20 (read by day; no day hit the row cap). I can't tell if it was
   the boss.
+- TRIED's 10-16 "X post about the studio story" is probably the same post:
+  cider2's log quotes its words ("an AI agent builds, ships and markets your
+  app idea"). About an hour after it, one visitor with no referrer read about
+  14 pages of Sizecurve's site. That may be a second reader from the same post,
+  arriving with no referrer. It can't be told.
 - Against video, which gets about 1 visit per 1,000 views, that's 1 in 43. But
   it's one click, so it shows that the community is the only place on X that
   has done anything. It doesn't prove a rate.
@@ -43,7 +48,16 @@ I draft in `outbox/`, and I don't post, sign up or message anyone.
   - If approved, they get "one 'shill' post as a community introduction".
   - After that, "only post major feature updates."
   - That's how the subreddit describes the X community. It isn't the
-    community's own text.
+    community's own text. It may only govern the subreddit (the adversary's
+    reading).
+- A second "Vibe Coding" community has about 11.5K members
+  (communities/1794041896316154138). The 3.5K one is the one r/vibecoding
+  points to. Whether the boss's "that specific category" covers both is his
+  call.
+- X announced in 04-2026 that Communities would shut down on 05-06, later
+  05-30 (TechCrunch, 2026-04-23: "used by less than 0.4% of users—yet
+  contributed to 80% of spam reports"). The boss's 10-15 post shows this one
+  still running, so it may close without notice. Nothing lasting is built on it.
 
 ## What this means
 
@@ -62,30 +76,74 @@ I draft in `outbox/`, and I don't post, sign up or message anyone.
 
 ## The cheapest real test
 
-1. One story post, drafted by me (`outbox/2026-10-20-x-story-post.md`),
-   posted by the boss in the community. It costs him about 2 minutes.
-2. There's one post because the community may allow only that many. More
-   wait for the result and for what the rules turn out to say.
-3. VibeCider's next post there is vibecider4's call (a real feature update).
-   I tell it about the boss's decision by mail.
+1. **First, the rules.** The boss reads the community's rules tab and checks
+   his X DMs and message requests for a mod reply about the 10-15 post. If the
+   rules allow only one post per project and the studio counts as one, the
+   post is held, or goes up without the link.
+2. **Then one story post,** drafted by me (`outbox/2026-10-20-x-story-post.md`)
+   and posted by the boss in the community. It leads with "0 customers from
+   every channel", which is every builder's problem, and ends with a question
+   so people answer. It costs him about 2 minutes, plus answering replies in
+   the first hour if he can.
+3. **Counting arrivals:** ask docent for a real /x page next to /tt and /ig (a
+   page, not a redirect, or the beacon logs "/"). Until it exists, the link is
+   the home page. Optional: the boss taps the link once from the X app on his
+   phone and tells me the time, so I can see whether the X app passes t.co.
+4. VibeCider's next post there is vibecider4's call (a real feature update).
+   Mailed 10-20.
 
 ## The number that says it worked
 
-- **Leading:** page loads from t.co (or x.com) on any studio page, on the
-  beacon, within 7 days of the post. This doesn't count a load the boss tells
-  me was his own.
-- **Pass:** 2 or more. That's twice the 10-15 post.
-- **Fail:** 0. Story posts stop, and X goes back to VibeCider's feature
-  updates only.
-- **1:** the same as 10-15. One more post with a different opening line, then
-  judge again.
-- **Reported, not judged:** impressions and link clicks from his screenshot,
-  and `/api/signups` (0 at 09:33 10-20).
+- **Leading:** impressions on the post at day 7, from the boss's screenshot,
+  with X's own link-click count. It's about 40 times bigger than the click
+  count and can actually move.
+- **Stop:** under 100 impressions, or 0 link clicks. Story posts stop, and X
+  goes back to VibeCider's feature updates only.
+- **Go on:** 100 or more impressions and at least 1 link click. One more post
+  with a new opening line, judged the same way.
+- **Reported, not judged:** loads from t.co (and /x, once it exists) on the
+  beacon, loads with no referrer within 2 hours of the post, and
+  `/api/signups` (0 at 09:33 10-20).
 
 ## Judged
 
-7 days after the post goes up (10-28 if posted 10-21), on the beacon, by day.
+7 days after the post goes up (10-28 if posted 10-21), from the boss's
+screenshot, then the beacon by day.
 
+## Adversary (10-20, 09:38 CDT)
+
+Verdict: **go, with changes.** Its points, and what I changed:
+
+1. **The first test couldn't tell anything.** A post bringing 1 click a week
+   scores 0 about 37% of the time, so the 0/1/2 rule was judging chance.
+   Changed: judged on impressions first (under 100 stops it), with clicks to
+   confirm.
+2. **Mobile taps may arrive with no referrer.** That's unverified either way.
+   Changed: asked docent for /x, added the boss's optional test tap, and count
+   no-referrer loads near the post time. X's own link-click count doesn't
+   depend on referrers.
+3. **The rule risk is real, and I may have misread it.** The quoted rule may
+   govern r/vibecoding, not the X community. r/vibecoding also bans "fully
+   generated AI slop", so an "AI wrote this" line could get a post removed.
+   Changed: the boss reads the rules first (step 1). The credit line stays,
+   since every draft must say Market-Nana drafted it.
+4. **Keep the link in the post.** The evidence on X's link penalty is mixed.
+   X's heads say there's been none for over a year, while Buffer saw near-zero
+   engagement on link posts from non-Premium accounts. Moving the link to a
+   reply loses the few feed clicks. No change.
+5. **The story fits the room. VibeCider mostly doesn't:** these are builders,
+   not people paying $50 to have something built. Draft B ("0 customers") is
+   the strongest. Changed:
+   - B is now in the boss's first person.
+   - Pinterest is out (it was blocked after 10 days).
+   - It ends with a question.
+   - It's under 280 characters.
+   - The weak fit goes to vibecider4 when it answers (thread x-vibe-coding).
+6. **Missed:** the second, bigger community, and X's announced shutdown of
+   Communities. Both are now in Outside evidence. The adversary also
+   suggested replies under busy community posts as a lane. Not taken: it's
+   close to TRIED's closed "replying to people who mention the problem", so it
+   needs the boss to strike that line.
 ## Log
 
 - 09:30: the boss's screenshot and decision. FACTS and TRIED updated (the X
@@ -94,3 +152,9 @@ I draft in `outbox/`, and I don't post, sign up or message anyone.
   17:02Z. No other X referrer.
 - 09:33: home page read for the post's numbers: day 41, 9 apps attempted,
   1 killed, 5 shipped, 4,262 commits, $18.09 earned. Signups 0.
+- 09:38: the adversary: go, with changes (above). TRIED's 10-16 story-post line
+  is probably the same post. X announced in 04-2026 that Communities would
+  shut down (checked on TechCrunch 09:39).
+- 09:39: the test and number rewritten, the draft revised. The rules question
+  goes to the boss.
+- 09:40: mailed docent for /x (thread video-schedule, 3 of 6). Draft in outbox. now.md and the 10-21 list updated.

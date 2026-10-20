@@ -70,6 +70,18 @@ once docent names it. Pass: at least 1 arrival
 on a path in 14 days from the paths going live (11-05 if live 10-22).
 Followers read 12-15.
 
+Round 8 (plan/2026-10-20-x-vibe-coding.md): the boss reopened X for one case
+(10-20): "post there but only for that specific category", X's Vibe Coding
+community, for VibeCider and Bananafest, posted by him. The 10-15 card post
+there: 43 impressions, 1 link click, and the beacon's only t.co load
+(VibeCider, 10-16). Plain posts got about 0. The adversary said go, with
+changes. The boss reads the community's rules first (asked 10-20). Then one
+story post (outbox/2026-10-20-x-story-post.md). Judged 7 days after it on
+his screenshot: under 100 impressions or 0 clicks stops it. VibeCider's posts
+are vibecider4's (mailed, thread x-vibe-coding). /x asked of docent. X
+announced in 04-2026 that Communities would shut down, so build nothing
+lasting on it.
+
 Waiting on:
 - the boss: replies in his "Business Bots" thread for two nights (drafts in
   outbox/). Everything else in the outbox went out 10-19 to 10-20 (round 3's
