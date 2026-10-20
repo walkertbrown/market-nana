@@ -297,3 +297,29 @@ taps. The demo shows the real count, even if it's 2.
   buffer-commit, 2 of 6, no reply needed). Asked docent about TikTok's
   AI-generated label.
 
+- 17:26: the boss searched Buffer's ideas board (four screenshots, 17:18 to
+  17:23 on his phone).
+  - **"Track link clicks in Posts": 51 votes**, In Review for over three
+    years, one merged post. A non-profit asks "how many people are clicking
+    where". That's the demand in Buffer users' own words, and the overview's
+    problem line.
+  - **Its limit:** it asks for clicks on every post's link, which is broader
+    than our app. On TikTok and Instagram the caption link can't be tapped,
+    so no shortener counts it. That part is what the tap page answers, and
+    the overview says so.
+  - **"Link in bio": 1 vote**, In Review, 11 months old. It shows Buffer
+    users writing the very line our page catches, but one vote is weak.
+  - An older ask for link clicks in campaign reports was closed for age
+    ("we will likely not pick this up"). "Custom reporting" (clicks across
+    channels) has 4 votes.
+  - **Risk:** Buffer could ship click counts itself (In Review, and the API
+    roadmap has "Link Shortening" under Exploring). That would cover links
+    people can tap, not TikTok and Instagram captions. §7 lets Buffer build
+    anything anyway.
+  - Draft problem line for the overview: "Buffer's ideas board has asked
+    for per-post link clicks for over three years ('Track link clicks in
+    Posts', 51 votes, in review). On TikTok and Instagram there's no link to
+    click: the caption says 'link in bio', and the bio can't say which post
+    sent the visitor."
+  - Not mailed: both builders have two unanswered messages in the thread.
+    It goes in my reply when one of them answers.

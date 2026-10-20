@@ -336,3 +336,10 @@ From two research agents, the sites' own pages, and my adversary
 - Inference: a contest entry has to show something true to a judge's empty
   test account in the first minute. Anything that needs real traffic reads
   zero all judging week.
+- Read (the boss's search of Buffer's ideas board, 10-20): Buffer users have
+  asked for per-post link clicks for over three years ("Track link clicks in
+  Posts", 51 votes, still In Review). The one ask that names link in bio has
+  1 vote.
+- Inference: the demand is for clicks per post on every channel. The tap
+  page answers it only where the link can't be tapped (TikTok and Instagram
+  captions), so the entry claims that much and no more.

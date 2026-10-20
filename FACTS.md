@@ -166,3 +166,15 @@ After my Buffer Commit find, "yes or no by 10-27" (about 14:20):
   automatically).
 
 - "A search where." (about 16:50, on my suggestion to search Buffer's ideas board)
+
+- Four screenshots, no words (sent about 17:25; his phone shows 17:18 to
+  17:23), from Buffer's ideas board, suggestions.buffer.com:
+  - "Link in bio": 1 vote, In Review, 11 months old. Asks that links in copy
+    shared to Instagram or TikTok become "Link in bio".
+  - An ask for "Link clicks as its own metric in reports / campaigns", over 3
+    years old. Closed by Admin over a year ago: "Closing this suggestion due
+    to age, we will likely not pick this up."
+  - "Track link clicks in Posts": 51 votes, In Review, over 3 years old, 1
+    merged post. A non-profit: "how many people are clicking where".
+  - "Custom reporting": 4 votes, In Review, 7 months old. Clicks and
+    engagement across channels.
