@@ -84,8 +84,9 @@ asking whether it can read Shorts' stayed-to-watch. Reported: median watch
 time of the first 10 rules-cut clips against 2.4 seconds. TikTok sounds (the boss
 asked, 10-20): no API tool can add one to a video; Buffer's Notify Me already
 does it through the boss's phone, about a minute a clip; the browser
-workarounds dodge TikTok's bot checks and aren't proposed. A sound test waits
-on the boss's yes, then the adversary.
+workarounds dodge TikTok's bot checks and aren't proposed. My advice (10-20):
+hold the sound test until 11-04's /tt read; then the boss's yes, then the
+adversary.
 
 Round 8 (plan/2026-10-20-x-vibe-coding.md): the boss reopened X for one case
 (10-20): "post there but only for that specific category", X's Vibe Coding

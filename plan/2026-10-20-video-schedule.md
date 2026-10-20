@@ -608,3 +608,8 @@ redirect from when the channel was its own. Zone log, 09-22 to 10-20:
   help, and the uploader repos. No API tool can add a TikTok sound to a video.
   Buffer's Notify Me already can, through the boss's phone. The browser
   workarounds dodge TikTok's bot checks: not proposed. Section above.
+- 12:59: the boss asked what I think. My view: don't switch tools, don't use the
+  workarounds, and hold the sound test until 11-04. Sounds can only add views,
+  and ~100 views a clip give ~0 visits. If /tt shows TikTok viewers tap
+  through, the sound test is next. If it shows 0, the boss's minutes go to
+  builder rooms instead.
