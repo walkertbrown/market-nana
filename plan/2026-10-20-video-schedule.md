@@ -270,6 +270,65 @@ about 09:30 10-20, alongside TikTok's average watch time.
     call, put to him on the list. The evidence says it neither helps nor
     hurts.
 
+## The first 3 seconds (the boss, 10-20 11:30; FACTS)
+
+"Should we try and figure out out how to make the first 3 seconds better? To
+keep people watching?" My answer is yes. It's the one lever on views that the
+studio controls. Views come before taps, and our clips stop at about 100.
+
+**Our clips against the benchmarks:**
+- [S] Buffer, 03-2025, 1.1M TikToks: the median watch time is 3.1 seconds for
+  5–10 second clips. From Buffer's stated ratios, it's about 4.1 for 10–30
+  seconds, 6.9 for 30–60, and 11.3 over 60.
+- Docent's clips run 17 to 54 seconds and get 1.44 to 3.79. So they're below
+  the median for clips a third their length.
+- **The best were** Sizecurve's sold-out size (3.79) and app idea, step 1
+  (3.34).
+- **The worst were** Close of Day (1.44), the Halloween tracing book (1.76)
+  and how vibe-cider built two apps (1.77).
+
+**How an opening can be measured:**
+- [P, quoted secondhand] YouTube ranks Shorts on "% of viewers who chose to
+  view, avg. view duration and avg. % viewed".
+- YouTube Studio shows "Viewed vs. swiped away" for Shorts. That's the
+  cleanest read of an opening there is.
+- Unofficial: under 60% "chose to view" does poorly, and 70–90% does better.
+  That's one study of 3.3B views. UNVERIFIED.
+- Ad vendors' figures for holding viewers to second 3 run from 50% to 90%.
+  There's no settled number.
+
+**What can't be done:**
+- **No same-clip A/B on TikTok:** I found no creator A/B tool, and posting
+  the same footage twice on one platform is penalized.
+- **Instagram's Trial Reels** send a Reel to non-followers first. Who can use
+  them is unclear (one source says 1,000 followers), so I'm not counting on
+  them.
+
+**Proposal for docent** (its cutter, its call):
+1. **Read our own clips first.** Take the 3 best and 3 worst by watch time,
+   and note what's on screen in seconds 0–3 of each. It costs nothing, and
+   it's our evidence, not a blog's.
+2. **Rules for an opening:**
+   - frame 1 is the payoff or a surprising number, never a logo, a title card
+     or a loading screen;
+   - something moves in the first second;
+   - one line of large text, 7 words or fewer, readable in a second;
+   - no fade-in and no intro.
+3. **Two opening styles, alternated across new clips** (no duplicates):
+   - A: the result first (the finished page, the chart);
+   - B: a number first ("2 in 3 stranded size runs were still stuck a month
+     later").
+4. **Measure:**
+   - TikTok's average watch time per clip (docent reads it);
+   - the boss's "chose to view" for the Shorts, optional, one screenshot.
+
+   A style that lifts the median watch time to 4.1 seconds or more (Buffer's
+   median for 10–30 second clips) is the one to keep.
+
+**A confound to watch:** docent added the address bar on every clip from
+10-20. Any change in watch time from then on mixes the bar with the openings.
+The bar could itself cost watch time if it reads as an ad.
+
 ## Adversary (10-20, 08:45 CDT)
 
 Verdict: **go with changes.** Its points, and what I changed:
@@ -383,3 +442,6 @@ redirect from when the channel was its own. Zone log, 09-22 to 10-20:
   subject, not cadence. Outbox files updated: /tt for TikTok's Website field,
   /ig as Instagram's first link, and /yt as the YouTube channel's first link.
   I didn't tap the paths, since that would count.
+- 11:37: the boss asked about the first 3 seconds. Researched (Buffer's
+  length study, YouTube's "Viewed vs. swiped away", Trial Reels, ad
+  benchmarks). Section added above. The adversary runs before docent gets it.

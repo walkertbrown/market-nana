@@ -132,3 +132,7 @@ expands, 0 profile visits, 1 link click, and 0 likes, reposts and replies.
 With it:
 
 - "It also seems that twitter might work for vibecider and bananafest. So I say we post there but only for that specific category"
+
+After docent's read (watch time 1.4 to 3.8 seconds):
+
+- "Should we try and figure out out how to make the first 3 seconds better? To keep people watching?"
