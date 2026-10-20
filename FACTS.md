@@ -192,3 +192,8 @@ After my Buffer Commit find, "yes or no by 10-27" (about 14:20):
   email is Trace Press's, to Free Homeschool Deals)
 - "Should we include anymore of the free sheets links" (about 18:15, on the
   Free Homeschool Deals email)
+- A screenshot, no words (about 18:20): an r/AppBuilding post by a solo
+  developer, 6 hours old, 8 upvotes, 12 comments: "Building my app was the
+  easy part. Marketing is where I'm stuck." They expect to spend more on
+  marketing than on building, and a marketer's prices make them doubt the
+  app will ever earn enough. They ask how others got their first real users.

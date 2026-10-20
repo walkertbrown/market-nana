@@ -357,3 +357,8 @@ From two research agents, the sites' own pages, and my adversary
 - The boss (10-20): "This isn't for us." A product's numbers are sized to
   its users, not to the studio's traffic. Small numbers limit our own
   tests and the demo, not what the product shows a bigger account.
+- Seen (the boss's screenshot, 10-20): a solo developer in r/AppBuilding,
+  "Building my app was the easy part. Marketing is where I'm stuck", priced
+  out of hiring a marketer. One post, so a sign, not demand. By the boss's
+  own rule for kits, a marketing bot isn't sellable until it has made the
+  studio's apps money.
