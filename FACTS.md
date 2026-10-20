@@ -190,3 +190,5 @@ After my Buffer Commit find, "yes or no by 10-27" (about 14:20):
 - "What email am I supposed to send for VibeCider" (about 18:10; none is
   VibeCider's. The list's "vibe-cider's graphic" read as the product. The
   email is Trace Press's, to Free Homeschool Deals)
+- "Should we include anymore of the free sheets links" (about 18:15, on the
+  Free Homeschool Deals email)

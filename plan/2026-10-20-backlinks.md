@@ -246,3 +246,12 @@ backlink play if the boss wants it.
   checked it live at phone size, and counts taps on it. So a visit from the
   listing and a download can both be seen. Nothing else changed.
 
+- 18:15: the boss asked whether to add more of the free sheets' links. Trace
+  Press's sitemap has about 20 free sets (alphabet, numbers, shapes,
+  cursive, preschool, Halloween, Thanksgiving, Christmas and more). FHD's
+  submit page sets no limit but asks for one post, one graphic, third
+  person. Kept to one freebie and one link: a post with several links reads
+  as a promo and may be trimmed or turned down. Added one line to the cover
+  note (not the post): free Thanksgiving, number and shape sets, each
+  offered as its own post, no links. All three load (checked). If FHD asks,
+  vibe-cider proofreads that set and makes its graphic first.
