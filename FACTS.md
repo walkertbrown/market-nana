@@ -140,3 +140,8 @@ After docent's read (watch time 1.4 to 3.8 seconds):
 After my first-3-seconds answer said every clip is silent (12:07):
 
 - "Docent is putting music into the clip"
+
+On TikTok sounds (12:08):
+
+- "Look into open source buffer alternatives and see if any of them have tiktok sounds/music"
+- "There are some that use workarounds to get tiktok music and sounds possibly"

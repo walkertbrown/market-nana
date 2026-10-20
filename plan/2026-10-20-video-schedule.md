@@ -412,6 +412,72 @@ paired test, if one runs, is judged on its own 10-point line once 10 pairs
 are in. The 13 queued clips run until about 10-27, so pairs can't start
 before then. Round 7 itself is still judged 11-04 on arrivals.
 
+## TikTok sounds (the boss, 10-20 12:08; FACTS)
+
+"Look into open source buffer alternatives and see if any of them have tiktok
+sounds/music", then "There are some that use workarounds to get tiktok music
+and sounds possibly". Research only. Docent runs the posting, and the tool is
+the boss's call.
+
+**TikTok's API, which every legitimate tool goes through:**
+- [S] A video Direct Post takes a caption, privacy, duet/stitch/comment
+  switches, a cover frame, branded-content flags and an AI label. There is no
+  field for a sound from TikTok's library. Photo posts have `auto_add_music`
+  ("recommended music will be automatically added to photos"), which the user
+  can change later.
+- [S] The other mode, Upload, sends the video to the account's TikTok inbox.
+  The owner taps the notification and finishes the post in the app, where a
+  sound can be added.
+- So no open-source tool can attach a TikTok sound to a video through the
+  API, because the API doesn't take one.
+
+**The open-source schedulers:**
+- [S] Postiz (AGPL): TikTok "Post directly" or "Upload without posting" (the
+  inbox; finish within 24 hours or it's discarded). Auto add music is for
+  photos only. Its docs don't mention sounds.
+- Self-hosting it means the studio's own TikTok developer app. [S] Until that
+  app passes TikTok's audit, every post is forced to private (SELF_ONLY), for
+  at most 5 users in 24 hours. It also needs a public HTTPS site with terms and
+  privacy pages to verify.
+- Mixpost (Laravel, free Lite edition) also connects TikTok, with the same
+  need for an own developer app. I didn't find sound support.
+
+**Buffer already has the official route.**
+- [S] Buffer's help: "We don't have access to TikTok's audio library."
+  Trending audio needs Notify Me: at the scheduled time, Buffer's phone app
+  sends a notification, a tap opens the post in TikTok, and the sound is added
+  there. Buffer's composer has a Music box to note which sound to add.
+- So switching tools gains nothing on sound and costs an audit.
+
+**The workarounds** are browser scripts that drive TikTok's website with a
+logged-in session, outside the API.
+- haziq-exe/TikTokAutoUploader (MIT) adds TikTok sounds by search or from
+  favorites, "working as of Feb 2026". Its README advertises "Bot detection
+  evasion baked in at the browser level" and "Bypass/Auto Solve Captchas".
+- Others (wkaisertexas/tiktok-uploader, makiisthenes/autotok) upload by
+  browser and cookies. I didn't see sound support in them.
+- Not proposed. They break whenever TikTok changes its pages. They work by
+  dodging TikTok's bot checks. The house TikTok is the studio's best video
+  channel, so getting flagged costs the one account that works. TikTok's terms
+  bar bots that extract content (§3.4); I didn't find a clause on bot posting
+  itself, so the account risk is the reason, not the terms.
+
+**Two limits on any sound:**
+- The house TikTok has a Website field. With few followers, that's a Business
+  account's feature, so it's probably Business. [P, third-party guides]
+  Business accounts get only the Commercial Music Library (over 1M cleared
+  tracks, but only some of what's trending).
+- No study measures what a trending sound adds. The lift figures (47%, 68%)
+  are vendor pages with no method. TikTok publishes none. UNVERIFIED.
+
+**If the boss wants to try it** (not proposed to docent yet; the adversary
+runs first): docent sets some TikTok posts to Notify Me. The boss taps each
+notification and adds a sound from the in-app library, about a minute per
+clip. Paired by product (one clip with an in-app sound, the next with docent's
+music), about 5 pairs, judged on TikTok views. A lift of the size vendors
+claim (half again or more) would show over the usual 82–135 views. A smaller
+one wouldn't.
+
 ## Adversary (10-20, 08:45 CDT)
 
 Verdict: **go with changes.** Its points, and what I changed:
@@ -537,3 +603,8 @@ redirect from when the channel was its own. Zone log, 09-22 to 10-20:
   said the clips were silent; that was the raw footage, not the cut.
   Corrected above, in LEARNED and in now.md. Length is the first lever now.
   Correction mailed to docent (thread video-openings, 2 of 6).
+- 12:13: the boss asked about open-source Buffer alternatives with TikTok
+  sounds, and workarounds. Read TikTok's API docs, Postiz's docs, Buffer's
+  help, and the uploader repos. No API tool can add a TikTok sound to a video.
+  Buffer's Notify Me already can, through the boss's phone. The browser
+  workarounds dodge TikTok's bot checks: not proposed. Section above.
