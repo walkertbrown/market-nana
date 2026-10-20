@@ -152,3 +152,8 @@ in the first email instead of a follow-up. That's the adversary's preferred
 headline, with the clearance objection answered as far as the data allows.
 Subjects changed to match. The follow-up template is deleted. A 10-27
 follow-up, if needed, is a one-line nudge with no new figures.
+
+**10-19, 23:22 CDT.** The boss sent pitch 1 (the DTC finance blog). It bounced.
+The only address the site publishes is a group mailbox that refuses outside
+mail. The only other route on the site is a sales form for its CFO service.
+Pitch 1 is parked; the form is optional, last. Pitches 2–4 go now.
