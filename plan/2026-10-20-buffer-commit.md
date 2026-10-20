@@ -260,3 +260,15 @@ taps. The demo shows the real count, even if it's 2.
     get the most clicks", which is per link, not per post. The adversary
     quoted a help page that says "analytics are not supported". Either way,
     nothing of Buffer's counts per post. The difference holds.
+- 16:37: the boss asked what else Buffer's API does. Read the API reference,
+  the developers home page and the roadmap. Points for the build:
+  - **Start Page is a channel the API can post to** (a
+    StartPagePostMetadataInput link field; a roadmap bug report on it). So an
+    entry could also post to a user's own Buffer bio page. The builder
+    decides whether that helps or overlaps.
+  - The roadmap lists "Link Shortening" and "API permissions / scopes" as
+    exploring, so the scopes may change during the contest.
+  - Instagram trending-audio search exists (experimental, needs Facebook
+    Login), but no post field attaches a sound. Audio still goes on through
+    the phone reminder, as on TikTok.
+
