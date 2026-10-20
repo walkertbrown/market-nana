@@ -406,3 +406,34 @@ Neither value is in this repo or in any mail.
 (market-gate, in the background). It is judging 3–5 niches by buyer-side
 evidence, including a tip-income tracker timed to the no-tax-on-tips filing
 season, and whether a new shop with no ads and no Pinterest is visible at all.
+
+**10-20, 01:03 CDT. The Etsy search is back** (market-gate). Etsy blocks page
+reads, so its listing figures come from search-engine snapshots.
+- **Visibility.** Etsy's own seller guide calls the new-listing boost "small,
+  temporary", and search rewards shop quality. A new shop with no ads is close
+  to invisible on the main terms. The claim that search results now show each
+  seller's sales count could not be checked: Etsy's page returns 403.
+  Unverified.
+- **The tip tracker is dead.** At least four "No Tax on Tips 2026" listings
+  already exist, and free apps and templates are there. The bigger reason:
+  from tax year 2026 the W-2 carries cash tips in box 12, code TP, with an
+  occupation code in box 14b (NATP and payroll vendors, from the IRS draft).
+  At filing time the employer's form gives the number the tracker was for.
+- **Restaurant manager tools are dead** (7shifts and others give them away).
+  **The Medicaid work log is dead** (no listings; each state sets its own
+  proof).
+- **Worth testing:**
+  1. A bakery cost-and-pricing calculator, about $8. One listing from about
+     Nov 2025 shows 45 reviews. A buyer complaint says the others don't
+     convert measurements, but one incumbent already does.
+  2. A tip-and-Schedule-C sheet for self-employed booth renters (stylists,
+     barbers). Their deduction is capped at net self-employment income. No
+     listing seen that applies it; not confirmed.
+- **Costs.** The setup fee varies, reported at about $15–30, not a flat $15.
+  The boss would need about 3 hours.
+- **The ceiling if it works** is about $3–6k a year, by the agent's own guess.
+- **Proposed test:** one listing live by 10-27, judged 11-26. Pass: 3 sales to
+  strangers. Under 100 views is a fail.
+
+The adversary is running on the bakery calculator now. Nothing goes to the
+boss as a plan until it's back.
