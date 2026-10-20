@@ -17,8 +17,13 @@ apps were making money". The story can't be monetized until a product works.
 - **The one sale came from search.** A KDP seller searched Google for a tool and
   paid 26 minutes later. The buyer already had the problem, already spent money
   on it, and found us by looking.
-- **The zoo log shows no demand test before a build.** "market-gate" and
-  "demand test" appear 0 times in it.
+- ~~**The zoo log shows no demand test before a build.**~~ **Wrong** (the
+  adversary). I searched for two words instead of reading what the bots did.
+  Since 10-02, cider2's rules say no app starts without a written case: who
+  buys, linked demand, reach, worth. cider2 ran shelf-first research on 10-02
+  to 10-05, and Close of Day and Flatdesk came out of it. Sizecurve (09-13) had
+  no such evidence. Puzzle Press's evidence was that rivals charge, and five
+  free generators turned out to compete with it.
 - **The boss's test for an idea** (zoo log): "something broad", with "a wide
   buyer pool and a thing people already pay for". Restaurant apps are out.
 
@@ -61,20 +66,90 @@ count of impressions and installs in the first 14 days.
 
 ## The number that says it worked
 
-**Leading:** a product bot takes up a candidate (says so by mail) by 10-26.
+(Changed after the adversary; see below.)
+
+**Leading:** Close of Day's and Flatdesk's first 14 days live against the bars
+cider2 writes down before launch. Also: how many new candidates carry a
+buyer-side fact that exists today.
 
 **Scoreboard:** a paid customer of a product chosen this way.
 
 ## Judged
 
-- 10-23: the brief is delivered.
-- 10-26: a bot has taken up a candidate, or hasn't.
+- 10-23: the brief (shelves cider2 didn't read, push before pain).
+- 14 days after Close of Day goes live, and 14 days after Flatdesk does.
 - 11-30: a paid customer, or not.
 
 ## Adversary
 
-(running)
+Run 2026-10-19. Verdict: **change it. This round has already been run**, by
+cider2, and its result isn't in yet.
+
+- **cider2's lessons, which the plan ignored:**
+  - Of about 2,200 Shopify apps launched in 2026 in 16 ops categories, 83% have
+    no review. The five fastest-growing follow a law, a platform tool ending,
+    or one outside network.
+  - Each 2026 regulation had a full page of apps before merchants finished
+    complaining.
+  - A rival with few reviews after a year in front of the people asking means
+    the pain doesn't convert to paying. So a complaint isn't a spec.
+- **The shelves are saturated:**
+  - Chrome Web Store listings 0–2 months old have a median of 4 users, and 74%
+    have no rating
+    ([exstats](https://exstats.com/blog/published-first-chrome-extension-now-what)).
+  - The Shopify App Store has 22.5k apps, 6k+ of them added in a year, and 51%
+    have no reviews
+    ([Revenue Hunt](https://revenuehunt.com/state-of-the-shopify-app-economy/)).
+  - Gumroad reportedly lists a product on Discover only after it has sales.
+  - "A new entrant gets found without outside marketing" probably passes no
+    shelf. Don't let the research lower the bar.
+- **A shelf brings impressions, not buyers.** Sizecurve ranks about #20 for
+  "size run". Its ad got 601 impressions, 2 clicks and 0 installs.
+- **Other ways to find out first:**
+  - Fake doors and pre-sales need traffic, which we lack.
+  - The $50 commission has had one abandoned checkout and no sale.
+  - Copying a proven product is what Puzzle Press was.
+  - Buying a small product that already has traffic is the only way to buy
+    distribution directly. A small one is a few thousand dollars; that's the
+    boss's call, rough terms only (§5).
+  - The bots' real edge is speed. Openings come from a law, a platform tool
+    ending, or a new network, and those shelves fill within weeks. Bots build
+    in days.
+- **The numbers were wrong:**
+  - "A bot takes up a candidate" measures how persuasive I am, not demand.
+  - "A paid customer by 11-30" can't tell a bad method from a slow shelf
+    (build, then review, then a median of 4 users).
+  - "No human in the loop" is false on Shopify: Flatdesk needed the boss's
+    screencast.
+- **The deciding question:** once Close of Day and Flatdesk, both picked by
+  this method, have been live 14 days, has App Store search brought them
+  installs that Sizecurve never got? If yes, scale the method. If no, more
+  shelves won't fix it.
+
+What I changed:
+
+1. **Judge the method that already ran.** I asked cider2 to write down, before
+   each goes live, what Close of Day's and Flatdesk's first 14 days must show
+   (listing views from search, installs, a paid shop), and which counts it can
+   read. Judged 14 days after each goes live.
+2. **Survey only the shelves cider2 didn't read.** That's the Chrome Web Store
+   first, then the others. Entry test: three 2026 launches that reached paying
+   users within 60 days with no outside push, with URLs. Otherwise the shelf is
+   dropped. The research agent was redirected to this.
+3. **Push before pain, not review mining.** Watch for laws taking effect,
+   platform tools or APIs being retired, and new networks with no app yet.
+   Score each opening by how soon a bot could be listed. If it earns its place,
+   this becomes a standing weekly watch, handed to the product bots.
+4. **Numbers:** every candidate carries one buyer-side fact that exists today
+   (a store-suggested search phrase, dated threads of people asking, or a 2026
+   entrant whose installs are growing), or it isn't passed on. The boss's hours
+   per listing are counted.
+5. **Buying a product with traffic** goes to the boss as an option, not a plan.
 
 ## Log
 
 **10-19, 21:20 CDT.** Planned. Research and adversary running in parallel.
+
+**10-19, 21:40 CDT.** Adversary done; plan changed (above). My claim that no
+bot tested demand was wrong, and I've corrected it to the boss. Mailed cider2
+for the 14-day bars. Redirected the research.
