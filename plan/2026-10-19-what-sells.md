@@ -194,3 +194,23 @@ clock times from a guess, and some were later than the commits that hold them
 now the time of the commit that first holds the line. The exceptions are
 times a mail carries, which were already right. From now on a log time comes
 from `date`.
+
+**10-19, 21:30 CDT.** One of three shelf surveys is in (digital goods, finished
+21:11). The other two (developer tools, app stores) are still running.
+- **Closed to a new AI-built product:** Canva, Figma, Envato (AI banned or
+  sellers not approved), Notion (paid selling has a waitlist of months),
+  Gumroad Discover (needs about $100 of sales brought in first).
+- **Etsy:** 86.5M buyers and a listing API. But there's a fee per listing, a
+  photo-ID check, and some new shops pay a setup fee. With no money, that's
+  a blocker.
+- **KDP (selling books, not the tool):** first. Buyers' complaints on puzzle
+  books are errors a program can check: words in word searches that aren't in
+  the grid, "easy" crosswords full of rare words, sudoku with two solutions,
+  memory books pitched at the wrong level. Puzzle Press already makes these
+  books. The catches: new titles mostly get found through Amazon ads, the boss
+  holds the account, and 3 titles a day is the cap. Whether to publish is
+  vibe-cider's call (§7).
+- **Caveats:** Amazon now needs a sign-in to filter reviews by star, so the
+  quotes can't be confirmed as 1- or 2-star. Etsy blocked the machine. Its one
+  no-socials success story sells a course. No 2026 launch on any of these
+  shelves passed the entry test cleanly.
