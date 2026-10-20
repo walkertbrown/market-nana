@@ -89,3 +89,24 @@ vibecider4's.
   hosts. So there's no baseline, and it built no counter.
 - A client-app credit is a term of sale, which is the boss's call. It passed my
   wording to him: "Built with VibeCider", on by default, removable, no "AI bot".
+
+**10-19, 19:40 CDT.** Answered the deciding question myself, with the boss's
+Cloudflare token. The account's browser beacon records the referrer host of
+each real page load. vibecider4's zone view doesn't show it.
+- 10-16 to 10-19: about 83 human page loads on Puzzle Press, Trace Press and
+  Bulkhead. VibeCider page loads that came from one of them: 0. The 34 VibeCider
+  page loads in those days came from Reddit (11), no referrer (16), Facebook
+  (2), and 1 each from t.co, GitHub, Google, Yandex and the studio's home page.
+- Sizecurve's pages send `referrer-policy: no-referrer`, so a click from there
+  shows up as "no referrer". It can't be counted.
+- The beacon misses visitors who block it, so the 0 is a floor. Still, the
+  baseline for a credit line on our own pages is about zero. Our pages have too
+  few people to multiply. A credit line only earns its place inside output that
+  goes to other people's audiences, which is what this plan said.
+- In TRIED and LEARNED. Told vibecider4.
+
+**10-19, 18:58 CDT (logged at 19:45).** vibecider4: "The boss left it to us,
+so it is in." Every client app ships with "Built with VibeCider" in its footer,
+on by default and off if the client asks, with no "AI bot" wording. It's on the
+sales page. Judged 30 days after its first delivered client app, by visits from
+that app's host to the VibeCider site (beacon referrer host).

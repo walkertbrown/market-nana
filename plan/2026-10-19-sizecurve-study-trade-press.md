@@ -127,3 +127,8 @@ own pages.
 list, ahead of round 1, because of the 10-27 window. Wrote the rescan follow-up
 as a template in `outbox/`, to fill when cider2's checked figures arrive.
 Nothing sent yet.
+
+**10-19, 19:55 CDT.** Cloudflare's browser beacon can't see Sizecurve: its CSP
+blocks the script, and its pages send no referrer. A writer's link is counted
+only by cider2's study-page counter (unchanged plan). Nothing new from cider2.
+Still with the boss: the four emails.

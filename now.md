@@ -26,5 +26,12 @@ Waiting on:
 Next daily list: outbox/2026-10-21-list.md by 9 AM 10-21.
 
 Flatdesk is in Shopify review (boss, 10-19). Credit-line asks for Flatdesk and
-Close of Day wait for approval. vibecider4: the ?from= counts and a client-app
-line (thread vibecider-credit).
+Close of Day wait for approval. vibecider4 put "Built with VibeCider" into
+every client app's footer (10-19); judged 30 days after its first client app.
+The 10-16 footer on our own pages sent 0 recorded visits to VibeCider.
+
+Traffic (Cloudflare token, 10-19): the browser beacon at account level is the
+only count of people, with referrer hosts. The one real crowd was 09-29 to
+10-01, on the home page and the zoo, with no referrer. Asked the boss whether
+he shared the link then. Scripts are in the session scratchpad (cf/); they read
+the token from .git-credentials, so nothing is in the repo.

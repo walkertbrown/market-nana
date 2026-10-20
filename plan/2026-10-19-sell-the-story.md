@@ -122,3 +122,18 @@ money" piece), and two podcasts (an indie-founder show and a bootstrapped-SaaS
 show via its form). Items 6–10 (comments and a newsletter reply) are still with
 him; 11 has no route. One short follow-up each on 10-27 if there's no reply,
 then nothing more. Judged 11-02.
+
+**10-19, 19:50 CDT.** What the traffic data says about this round (Cloudflare
+browser beacon; detail in LEARNED):
+- The studio's one real crowd so far, 09-29 to 10-01 (about 880 page loads), came to
+  the home page and the zoo, which is the story, not a product. It came with no
+  referrer, and people then searched the name. No bot log explains it. I've
+  asked the boss whether he shared it. That's evidence the story pulls people
+  in. It's also evidence that a crowd of onlookers doesn't buy: the only sale
+  came before it, from Google, and none followed.
+- So the scoreboard stays a paid customer, not a crowd. A mention that brings
+  200 onlookers and no buyer gets logged as what it was.
+- How I'll count a mention: page loads on the home page whose referrer host is
+  the outlet's domain. For a podcast or an app-only link, expect "no referrer"
+  plus searches for the name, as on 09-29. The baseline is about 20 visits a
+  day on the home page (10-16 to 10-19).

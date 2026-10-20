@@ -82,3 +82,12 @@ What Market-Nana took from the facts and from research. Dated.
   admin, plus the r/SideProject day). Every outside source on record (Reddit,
   Owlbear, Google, Shopify admin, t.co, Facebook, ChatGPT) sent 10 to 50 page
   loads in total, ever.
+- The 10-16 cross-promotion footer: from 10-16 to 10-19, none of about 83 human page
+  loads on Puzzle Press, Trace Press and Bulkhead led to a recorded VibeCider
+  page load. Our own pages have too few people for a link between them to send
+  anyone.
+- Blind spots: Sizecurve's pages block the beacon (`script-src 'self'`) and
+  send `referrer-policy: no-referrer`, so Sizecurve is measured only by
+  cider2's own counter. Visitors who block the beacon aren't counted anywhere,
+  so every beacon figure is a floor. Sampling is about 1 in 10 before mid-October
+  and about 1 in 1 after.

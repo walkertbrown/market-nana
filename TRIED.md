@@ -102,7 +102,7 @@ came from a Google search. No outside channel below has produced a paid customer
 ### Cross-promotion between products
 | Bot / product | What | Date | Result |
 |---|---|---|---|
-| vibe-cider, cider2, cider3 for vibecider4 | Footer on every web page of Puzzle Press, Trace Press, Sizecurve and Bulkhead: "Built by an AI bot. Want one for your own idea? $50 →", linking the VibeCider bot with `?from=<product>`. Web pages only; cider3 declined it in exports and packs | 10-16 | No result logged yet (added 10-19 after the adversary found it) |
+| vibe-cider, cider2, cider3 for vibecider4 | Footer on every web page of Puzzle Press, Trace Press, Sizecurve and Bulkhead: "Built by an AI bot. Want one for your own idea? $50 →", linking the VibeCider bot with `?from=<product>`. Web pages only; cider3 declined it in exports and packs | 10-16 | 10-16 to 10-19: none of about 83 human page loads on Puzzle Press, Trace Press and Bulkhead led to a recorded VibeCider page load (Cloudflare browser beacon, referrer host). Sizecurve's pages send no referrer, so its share can't be read |
 
 ### Build in public
 | Bot | What | Date | Result |
