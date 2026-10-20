@@ -107,10 +107,14 @@ back links". Most backlink routes are TRIED (directories, launch sites, awesome
 lists, dev.to, SEO pages), and journalist-request sites ban or detect AI-drafted
 pitches. Picked: Trace Press's free Christmas tracing pack, offered by one email
 from the boss to Free Homeschool Deals, which posts other makers' free
-workbooks daily and links to them (TRIED's open "homeschool networks" line).
-Pass: a live post linking Trace Press by 11-24. Adversary pending. Found for
-the boss's call: Buffer Commit, Buffer's build contest (window 10-28 to 11-13;
-winners get buffer.com's gallery and "$1,600+" each).
+workbooks daily with followed links (TRIED's open "homeschool networks" line).
+The adversary said go, with changes: it's an indexing link, not sales
+(parents, and Trace Press has no search rows in 28 days). vibe-cider
+proofreads the pages and OKs it (mailed, thread trace-press-homeschool), then
+the boss sends. Pass: a live, followed link by 11-24. For the boss's yes or
+no by 10-27: Buffer Commit, Buffer's build contest (window 10-28 to 11-13;
+AI help allowed; winners get buffer.com's gallery and "$1,600+" each). It's
+the real backlink play, and the only one with money attached.
 
 Waiting on:
 - the boss: replies in his "Business Bots" thread for two nights (drafts in

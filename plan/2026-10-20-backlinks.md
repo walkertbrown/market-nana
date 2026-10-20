@@ -3,9 +3,10 @@
 Round 9. The boss (FACTS, 10-20 about 13:02): "Ok. Figure out how to get some
 back links".
 
-Move: RULES §2.1, borrowing someone else's crowd. A site that already has the
-readers posts our free thing and links to it. Product: Trace Press (vibe-cider
-builds it). TRIED lists "teachers' and homeschool networks" as never tried by
+Move: an indexing link. A site Google already reads posts our free thing and
+links to it, so Google finds the page and trusts the subdomain a little more.
+It isn't §2.1 (borrowing a crowd): the site's readers are parents, nobody's
+buyers (the adversary). Product: Trace Press (vibe-cider builds it). TRIED lists "teachers' and homeschool networks" as never tried by
 any bot. vibe-cider's holiday pages (TRIED, search) were pages waiting for
 Google to find them. This round asks a site Google already reads to link to
 one of them.
@@ -65,15 +66,27 @@ it.
     download with no sign-up.
   - The pictures are Tabler Icons (MIT), not AI art. The page's footer says
     "Built by an AI bot".
-- **Christmas has a clock.** Freebie sites post holiday packs from November.
-  The submission goes before 11-01.
+- **Christmas is late here.** FHD's own Christmas batch, 12 posts, went out
+  on 09-30 (its posts feed, read 10-20). A November post would also miss this
+  season's KDP sellers: Trace Press's page tells them to submit by 10-30 for
+  Black Friday. What's left is an indexing link for next year.
 - **Trace Press's holiday pages are "mostly unknown to Google; 26 visitors in
   30 days"** (TRIED). A link from a site Google crawls every day is how a page
   gets found.
 
 **Who it reaches, plainly:** homeschool parents. They are not Trace Press's
 buyers, who are KDP sellers paying $19 to sell what they make. The link is the
-point. Parent visits are counted, but nobody expects them to buy.
+point. Parent visits are counted, but nobody expects them to buy. The PDF's
+last page ("Make your own A–Z tracing workbook and its cover for Amazon KDP")
+is the only bridge to a seller.
+
+**What Search Console says (vibe-cider's log, 10-17 to 10-20):** Trace Press
+has no query rows in 28 days: "Google has shown it to nobody." Puzzle Press's
+spine calculator averages position 16, but its buyer words ("spine size
+calculator") sit at 86–95; the near-top rows are fact-check searches. The
+only buyer word near page 1 is "print bleed calculator" (position 14, 4
+impressions), with /compare at 11.4 (9 impressions). No studio page is one
+link from page 1 on a word a buyer types.
 
 ## The cheapest real test
 
@@ -82,26 +95,36 @@ point. Parent visits are counted, but nobody expects them to buy.
    public address the boss can save. vibe-cider made 1000×1500 pins for
    Pinterest in September. I also ask whether it can read Trace Press's links
    in Search Console, as a baseline.
-2. **One email, sent by the boss** (`outbox/2026-10-20-fhd-freebie.md`): the
+2. **vibe-cider proofreads all 20 pages first.** Parents' anger at AI
+   worksheets in 2026 has been about errors (a Houston parent, 09-08). Page
+   1 (mug) and 2 (ball, drawn as a basketball, which the page admits) look
+   right.
+3. **One email, sent by the boss** (`outbox/2026-10-20-fhd-freebie.md`): the
    third-person post (150+ words), the link, the graphic attached, and a
-   line saying Market-Nana, the studio's marketing bot, drafted it. About 3
+   line saying Market-Nana, the studio's marketing bot, drafted it. The post
+   says the pictures are from Tabler, an open-source icon set. About 3
    minutes of his time, once the graphic exists.
-3. **Nothing else this round.** Homeschool Printables for Free shows no address
+4. **Nothing else this round.** Homeschool Printables for Free shows no address
    on its submit page, and Thrifty Homeschoolers' page wasn't readable. If FHD
-   posts it, the next try uses the same post on those.
+   posts it, the next try offers the year-round name-tracing generator to
+   those.
 
 ## The number that says it worked
 
 - **Pass:** a post on freehomeschooldeals.com linking to a Trace Press page,
-  live by 11-24.
+  live and followed by 11-24. FHD's 10-19 tracing-workbook post links out
+  with `rel="noopener"` only, no nofollow (its posts feed, read 10-20). I read
+  ours the same way, so nobody waits on Search Console.
 - **Reported, not judged:**
   - visits from freehomeschooldeals.com on the beacon (Trace Press);
-  - whether the link is followed (rel);
   - whether Google lists the Christmas page by 12-08;
-  - any Trace Press sale (none expected).
-- **Fail:** no post by 11-24, or a reply refusing it. If they refuse because
-  an AI made it, that goes in LEARNED: homeschool sites shut AI tools out, as
-  Teachers Pay Teachers began to in 10-2026.
+  - any Trace Press sale (none expected);
+  - any article from rounds 1 and 3 that links a studio page, counted here as
+    a backlink too.
+- **Fail:** no post by 11-24, or a reply refusing it. A "no" will most likely be
+  silence. If they say no because an AI made it, that goes in LEARNED.
+  Teachers Pay Teachers announced (town hall 10-08, reported 10-15) that it
+  will ban AI-generated resources, with no start date yet.
 
 ## Judged
 
@@ -130,16 +153,68 @@ Read 10-20 at buffer.com/api/commit and buffer.com/resources/buffer-commit:
   the winners each. Winners are announced 12-07.
 - **The link:** winners get "A spotlight in the project gallery" and "A
   mention in our wrap-up blog post". The page doesn't say non-winners are shown.
-- **Not addressed:** whether AI-built entries are allowed.
+- **AI is allowed** (terms §6): the entry must be the entrant's "own original
+  work (including any portions created with the help of AI tools", which the
+  entrant has the right to submit.
+- **What it asks of the boss** (terms): he is the entrant, on his own Buffer
+  account. Buffer may use his name, likeness and voice in promotion (§8). It
+  gets a perpetual, transferable licence to use the entry, and he keeps
+  ownership (§6). Winners may sign an affidavit; Buffer issues tax forms such
+  as a 1099 where required (§5, §11). More than one entry is allowed if each
+  is "substantially different" (§1).
+- **Dates** (terms §2, §11): judging about 11-16 to 11-20; winners told about
+  12-04 to 12-07; announced about 12-07.
 - Why it matters here: the studio's bots already post through Buffer's API,
   and the whole studio builds in public. An existing product (VibeCider, or
   docent's per-platform posting) could add a Buffer connection in the window.
-- Whose call: the boss registers and approves the bots' time. A product bot
-  builds it. I don't build, register or enter anything.
+- **The walls:** any Buffer user must be able to connect through Buffer
+  OAuth, so docent's in-house posting doesn't qualify as it stands. And only
+  work built 10-28 to 11-13 is judged.
+- **Odds:** unknown. The adversary guesses 5–15% for a real entry. Even 5% of
+  $1,600 is more than the studio's $18.09 lifetime revenue, and the gallery
+  is read by Buffer's users, store owners among them.
+- **Whose call:** the boss says yes or no by 10-27, before the window opens.
+  If yes, the product bots choose what to build. I don't build, register or
+  enter anything.
 
-## Adversary
+## Adversary (10-20, finished by 13:33 CDT)
 
-(pending)
+Verdict: **go, with changes.** Its points, checked where I could, and what I
+changed:
+
+1. **The link is real and followed.** FHD's 10-19 tracing-workbook post links
+   out with `rel="noopener"` only (I read its posts feed). But the site only
+   restarted in September (62 posts since 09-16, one author, often seconds
+   apart), so its readership is unknown. Its Christmas batch went out 09-30
+   (I counted 12 that day). Changed: Christmas called late.
+2. **It barely connects to money.** Parents don't buy Trace Press, and a
+   November post misses this season's KDP sellers (the page says submit by
+   10-30). Changed: the round is called an indexing link, not §2.1.
+3. **The AI risk is in the pages, not the disclosure line.** Parents' anger
+   is about AI worksheets full of errors. My "Teachers Pay Teachers began to"
+   was wrong: it announced a ban with no start date. Changed: vibe-cider
+   proofreads all 20 pages; the post names the Tabler icons; the TpT line is
+   fixed. The adversary also suggests the page put the download at the top,
+   since half of it is for KDP sellers. That's vibe-cider's page: passed on
+   as a suggestion.
+4. **No better item this season.** The year-round name-tracing generator goes
+   to the other two sites later. Changed.
+5. **Base rate unknown;** it guesses 30–50% for a submission in FHD's own
+   template, with "no" as silence. Changed: the pass is "live and followed",
+   read from the page itself.
+6. **Buffer Commit is the bigger miss.** Its terms do cover AI (§6), and it's
+   the only item with money attached. Changed: the "Not addressed" line is
+   struck, the terms that matter to the boss are listed, and it goes to him
+   as a yes or no by 10-27.
+7. **Missed:** round 1's press coverage is the best link source, since an
+   article links the main site. Changed: any article from rounds 1 and 3 is
+   counted here as a backlink too.
+
+**The question that decides it** (the adversary's): does Trace Press's Search
+Console show any searches from KDP sellers? Answered from vibe-cider's log: no
+query rows at all in 28 days. So the email is a 3-minute indexing favour,
+worth sending because it costs so little, and Buffer Commit is the real
+backlink play if the boss wants it.
 
 ## Log
 
@@ -151,3 +226,8 @@ Read 10-20 at buffer.com/api/commit and buffer.com/resources/buffer-commit:
   Printables for Free's submit page, Trace Press's Christmas page, Buffer's
   coding.kitty case study (no route to be featured), and Buffer Commit's two
   pages. Plan written; the adversary sent at 13:26.
+- 13:33: the adversary: go, with changes (above). Checked FHD's posts feed
+  (the link's rel, the 09-30 Christmas batch), Buffer Commit's terms, Trace
+  Press's page (the 10-30 KDP date), the PDF (21 pages, a footer on each, a
+  KDP page last) and vibe-cider's Search Console notes. Plan, draft and mail
+  revised.

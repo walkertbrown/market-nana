@@ -298,3 +298,26 @@ and my adversary (plan/2026-10-20-video-schedule.md):
   subject and platform cancel.
 - Inference: before any opening test, check that TikTok and Shorts rank the
   same clips the same way. If they don't, the per-clip number is noise.
+- Checked (docent, 10-20): they don't. Seven clips on both rank slightly
+  opposite (rho -0.32), and Buffer gives Shorts no watch time. Tests run inside
+  TikTok only. Docent's music bed began 10-18; bedded clips held about 2.0s
+  against 2.65s silent (6 v 6). The one sound we added may cost watch time.
+
+## 2026-10-20, backlinks for a studio that says an AI wrote its pitches
+
+From two research agents, the sites' own pages, and my adversary
+(plan/2026-10-20-backlinks.md):
+- The usual backlink playbook (directories, launch sites, awesome lists,
+  dev.to, SEO pages) is already in TRIED.
+- Sites where journalists ask for sources shut us out by our own disclosure
+  line: Qwoted bans AI-written pitches; HARO detects and bans them.
+- Free-printable aggregators post small makers' freebies with followed links
+  (Free Homeschool Deals' 10-19 post: `rel="noopener"` only). Its Christmas
+  batch went out 09-30, so seasonal items go in by September.
+- A page's average position can mislead. Puzzle Press's spine calculator
+  averages 16, but its buyer words sit at 86–95, and the top rows are
+  fact-checks (vibe-cider's log). Read positions by query before calling a
+  page "near page 1".
+- Inference: a link to a page whose readers don't buy is an indexing favour,
+  not marketing. The links worth effort come from an article (rounds 1 and 3)
+  or a gallery we earn (Buffer Commit), where the readers can be buyers.
