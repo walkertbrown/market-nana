@@ -152,9 +152,13 @@ market-gate and adversary:
   dollar" (FACTS). Every test I plan costs $0. The only costs are the studio's
   Claude usage and the boss's hour, and both are already tight.
 - **So I don't put paid options in front of him**, even as "your call". That
-  covers buying a product, paid ads, sponsorships and paid tools. Anything
+  covers buying a product, paid ads, sponsorships and paid tools. ~~Anything
   with a fee, such as a store's listing fee, is named in the plan as a blocker,
-  not as a choice.
+  not as a choice.~~ Wrong, the same night. The boss: "An id check isn't a
+  kill. A small fee isn't a kill." A store's small fee or an ID check is an ask
+  for him, with the cost in rough terms (§5). He decides; I don't drop the
+  shelf for it. "No money" still rules out anything bigger than a small,
+  one-time fee.
 - **A first paying customer is worth more than any metric.** It's the first
   money the studio can spend. Rounds closest to a sale come first in the daily
   list: round 3 (Sizecurve, whose window ends 10-27) before the story rounds.

@@ -80,3 +80,10 @@ push":
 Answering the shelf survey's "KDP first", which gave the cap as 3 titles a day:
 
 - "I think that changed to 2 a week. I actually have 3 or 4 low content/no content books already up on KDP.... Nothing at all."
+
+## 2026-10-19 — fees and ID checks
+
+Answering the shelf survey, which dropped Etsy, Chrome, Atlassian and Wix for
+fees or ID checks:
+
+- "An id check isn't a kill. A small fee isn't a kill."

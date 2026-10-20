@@ -254,3 +254,27 @@ so far are 0 of 3 or 4. KDP stays in the brief only as "a new book is seen
 within 72 hours", not as "it sells". One fact would settle more: what his
 books were and when they went up. A blank journal is the most crowded shelf on
 Amazon; a logbook is next door to the tip log. Asked.
+
+**10-19, 21:44 CDT.** The boss: "An id check isn't a kill. A small fee isn't a
+kill." (FACTS). The survey dropped four shelves for exactly that, so they're
+back:
+- **Etsy:** the biggest buyer pool (86.5M). A small fee per listing, sometimes
+  a small setup fee, and an ID check.
+- **Chrome Web Store:** a small one-time fee. But no 2026 extension with proof
+  of paying users was found. That was the real reason, so it stays weak.
+- **Atlassian Marketplace:** ID and company details. And it has the best
+  push-before-pain opening the survey found. Connect, the old way to build
+  Jira and Confluence apps, loses support on 2027-01-31. 20 paid apps still
+  run on it, about 15,100 installs between them, with no release since
+  September 2025. If their makers don't move them, those customers already
+  pay for something that's about to stop. That's cider2's strongest pattern
+  (a platform tool ending). Calling them abandoned is still a guess.
+- **Wix:** ID and company details. No opening found yet.
+
+Still out, for reasons other than a small fee or ID: Google Workspace and the
+Gmail replacement (a paid security assessment, not small), Gumroad Discover
+(sales first), Notion (a waitlist of months), Figma (no new sellers), VS Code
+and Raycast (no paid listings), WordPress.org (no locked paid features).
+
+One research agent is now checking the Atlassian opening and Etsy's digital
+shelf before the 10-23 brief.
