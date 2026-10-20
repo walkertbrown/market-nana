@@ -165,3 +165,8 @@ goes 10-27 to anyone who hasn't replied. Judged 11-03.
 
 **10-19, 23:31 CDT.** Pitch 5, the podcast form, is dropped. The boss: no podcasts
 until the bots pay off (FACTS). Round 3 is four emails, one of them bounced.
+
+**10-20, 17:23 CDT.** The 10-27 nudges for pitches 2, 3 and 4 are drafted in
+the outbox (one line each, no new figures, as planned). They go only to
+anyone who hasn't replied, and they're the last message to each.
+

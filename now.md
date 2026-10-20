@@ -9,7 +9,8 @@ listed before any new product.
 
 Round 1 (plan/2026-10-19-sell-the-story.md): sell the story to 11 writers and
 podcasts. Items 1–5 sent by the boss 10-19; 6–10 still with him. Follow-ups 10-27 if
-no reply. Replies judged 11-02, a mention 11-30.
+no reply, drafted 10-20 (outbox/2026-10-27-followups.md, items 1–3 only).
+Replies judged 11-02, a mention 11-30.
 
 Round 2 (plan/2026-10-19-kdp-educators-christmas.md): Puzzle Press through KDP
 educators. Killed before any work: at least five free, no-watermark KDP puzzle
@@ -20,7 +21,8 @@ Round 3 (plan/2026-10-19-sizecurve-study-trade-press.md): Sizecurve's study,
 five pitches with the boss (4 emails + an optional podcast form). Runs: cider2
 agreed, and a cite that brings two real readers passes its kill check (window
 ends 10-27). The rescan is in and on the study page: two in three stranded runs
-still stuck a month later. The unsent pitches now lead with it. Judged 11-03.
+still stuck a month later. The unsent pitches now lead with it. The 10-27 nudges for pitches 2–4 are
+drafted in the same outbox file. Judged 11-03.
 
 Round 5 (plan/2026-10-19-the-rig.md): monetize the story. The boss: "Kits
 would sell if the apps were making money". The kit and /kit are dropped. Kept:

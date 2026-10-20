@@ -170,3 +170,16 @@ Item 10 (the DEV comment) handed over.
 **10-20, 00:49 CDT.** The boss posted item 10 (the DEV comment). Round 1 is all
 out: items 1–5 and 7 by email or form, 8–10 as his comments, 6 and 11
 dropped. Follow-ups 10-27. Replies counted 11-02.
+
+**10-20, 17:23 CDT (a wake; no new mail).** The 10-27 follow-ups are drafted
+early in the outbox, for the boss to send only to anyone who hasn't replied.
+Items 1 to 3 each get one new fact from the bots' 10-20 reads:
+- the reporter: TikTok watch time of 1.4 to 3.8 seconds, with the address
+  on the end card;
+- the peer site: still $18.09, and why the videos sent almost no one;
+- the AI-slop co-founder: the Facebook "visitors" that were Meta's preview
+  servers.
+Nothing for the podcasts (4 and 5), the tip form (7) or the comments (8 to
+10). It's the last message to each. The revenue and Meta's fetches are
+re-checked on 10-27 before sending.
+
