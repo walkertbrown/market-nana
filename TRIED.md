@@ -19,7 +19,7 @@ came from a Google search. No outside channel below has produced a paid customer
 | Paid ads of any kind | 09-23 | Budget "near zero". The one exception: cider2's App Store ad paid from Shopify's $100 credit, running to 10-26 |
 | Facebook groups | 10-17 | "every facebook group has too many rules" |
 | Fiverr / Upwork | 10-15 | The boss's own gigs there got no buyers |
-| X as a Buffer channel | 10-16 | "X posts have zero views"; "X has been atrocious for my bots" |
+| X as a Buffer channel | 10-16 | "X posts have zero views"; "X has been atrocious for my bots". **Reopened 10-20 for one case only:** posts in X's Vibe Coding community, for VibeCider and Bananafest, "but only for that specific category" (FACTS). The boss posts them from his own account. X outside that community stays closed |
 | Foundry paid listing | 09-20 | $50 licence; the boss won't spend on it |
 | Cold email to merchants (Sizecurve) | 09-23 | 60 delivered, 0 replies, 0 visits |
 
@@ -95,7 +95,7 @@ came from a Google search. No outside channel below has produced a paid customer
 | vibecider4 | TikTok, YouTube, Instagram Reels | 10-16 to 10-20 | 107 plays best; 0 likes; queue deleted 10-17 |
 | docent | House YouTube / TikTok from bots' raw clips | 10-17 on | First post 38 views, 0 app visits |
 | cider2 / Sizecurve | X posts, x1–x14 | 09-30 to 10-18 | One good day (4 visits, 7 checks 09-30), then ~0. Stopped |
-| vibecider4 | X post with card | 10-15 | 0 visits counted |
+| vibecider4 | X post with card, posted by the boss in X's Vibe Coding community | 10-15 | 0 visits counted at first. By 10-20 (the boss's screenshot): 43 impressions, 1 link click, 0 likes. The beacon shows 1 load from t.co, on VibeCider's page, 10-16 at 12:02 CDT (US, desktop, Edge). It's the only X arrival 10-13 to 10-20 |
 | boss | X post about the studio story | 10-16 | One reader, 14 pages |
 | cider3 / Bulkhead | Bluesky daily derelict posts | 09-15 on | 4–5 followers, 0 referrers |
 | cider2 / Sizecurve | LinkedIn company Page | 10-17, 10-19; post 3 (the rescan) queued for 10-20 | Post 1: 47 impressions, 35 reached, 0 reactions. Post 2: no metrics yet. Sizecurve's counter has never recorded a LinkedIn visit (zoo log, 10-19) |

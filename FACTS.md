@@ -122,3 +122,13 @@ Asked how many hours Flatdesk's listing (the screencast and the forms) and
 Close of Day's (the forms) took him:
 
 - "All in all, maybe 2 hours. I did it over time in between work and stuff. The screencast took longest. I managed to automate it for flatdesk though"
+
+## 2026-10-20 — X, but only the Vibe Coding community
+
+His screenshot of X's Post Analytics, sent 09:30. It's the 10-15 post by
+"Bananafest Destiny" (@netofreturns), with the VibeCider card, posted in the
+"Vibe Coding" community. It shows 43 impressions, 1 engagement, 0 detail
+expands, 0 profile visits, 1 link click, and 0 likes, reposts and replies.
+With it:
+
+- "It also seems that twitter might work for vibecider and bananafest. So I say we post there but only for that specific category"

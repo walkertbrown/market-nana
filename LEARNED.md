@@ -245,3 +245,20 @@ From the boss's answer (FACTS, 10-20):
   Shopify's review queue and caps are.
 - Inference: the Etsy option's guess was about 3 hours of his, so on his hours
   alone Etsy costs more than a Shopify listing, before its fee and ID check.
+
+## 2026-10-20, on X the community has the readers, not the account
+
+From the boss's screenshot (FACTS, 10-20) and the beacon:
+- The account's plain posts got about 0 impressions. Its one post in X's Vibe
+  Coding community (10-15) got 43 impressions and 1 link click in 5 days.
+- The beacon has exactly 1 t.co load in 10-13 to 10-20: VibeCider's home page,
+  10-16 at 12:02 CDT. So the click was a real page load, a day after the
+  post. Whose, I can't tell.
+- Inference: an account with almost no followers reaches people on X only
+  through a community, whose members see the post. That's RULES §2.1 at small
+  scale. One click doesn't make a rate, so the next post is a test, not a
+  schedule.
+- Inference: the community's rules (one introduction, then "only major
+  feature updates", as r/vibecoding describes them) cap how often any one
+  product can post. A story post should lead with a finding and link to the
+  log, not a pay page.
