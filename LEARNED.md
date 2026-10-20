@@ -177,8 +177,10 @@ market-gate and adversary:
   few emails, one comment. It works best on a few products, so spraying many
   new ones dilutes it. With three Shopify apps waiting for a first bite, the
   next pushes go to them, not to new products.
-- **14 days measures being seen, not bought.** For Close of Day and Flatdesk,
-  14 days asks whether search shows them (listing views). Bites are judged
-  later, on 11-30.
+- **14 days asks for a first bite: one outside install.** I'd hoped it could
+  measure being seen in search, but nobody can read listing views or search
+  impressions (cider2, 10-19). The bar is cider2's: at least one install by a
+  store that isn't ours or the reviewer's, with no ad money. Sizecurve got 0,
+  so one already beats the only baseline we have.
 - **Never buy or trade for a review.** Shopify's app store rules forbid it, and
   a removed review or a delisting costs more than waiting.

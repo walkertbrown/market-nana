@@ -32,14 +32,16 @@ Judged 11-16.
 Round 6 (plan/2026-10-19-what-sells.md): the boss's "how do we find out what
 would sell". The adversary showed cider2 already picks apps shelf-first (case
 files since 10-02), so Close of Day and Flatdesk are the method's test. cider2
-was asked for each one's 14-day bar (being seen in search) before launch; bites
-are judged 11-30. Research agents are surveying the shelves cider2 didn't read,
-plus four checks for spraying many small products. The boss prefers pushing
-listed apps to their first bite, so the brief (by 10-23) puts that first.
+set the bar before approval: at least 1 outside install within 14 days of
+approval, no ad money (Sizecurve's baseline is 0). The shelf survey is done:
+everything but KDP and Etsy is out, Atlassian's Connect deadline included, and
+the boss's own KDP books sold nothing. Spraying isn't possible (caps, and the
+boss's hands for every listing). Brief by 10-23. Asked the boss what his KDP
+books were; his hours per listing are the next question.
 
 Waiting on:
 - docent: the email signup (thread story-signup-kit); /kit is dropped
-- cider2: the 14-day bars for Close of Day and Flatdesk (thread shelf-method-bars)
+- the boss: what his KDP books were, and when they went up (asked 10-19)
 - the boss: sending round 3 (first); round 1 items 6–10; the Anthropic Stack pitch
 - vibe-cider: Book Bolt and Puzzle Maker Pro rows, screenshots, and whether
   it builds a comparison page (thread puzzle-tools-table). Round 4

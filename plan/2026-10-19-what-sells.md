@@ -68,9 +68,19 @@ count of impressions and installs in the first 14 days.
 
 (Changed after the adversary; see below.)
 
-**Leading:** Close of Day's and Flatdesk's first 14 days live against the bars
-cider2 writes down before launch. Also: how many new candidates carry a
-buyer-side fact that exists today.
+**Leading:** Close of Day's and Flatdesk's first 14 days, against cider2's
+bars (10-19, before either was approved). Day 0 is the day of approval.
+- **Pass:** at least 1 install, within 14 days, by a store that isn't ours or
+  the reviewer's, with no ad money spent on that app.
+- **Strong pass:** that store also accepts the subscription and is still
+  installed on day 14.
+- **Fail:** 0 outside installs.
+- **Baseline:** Sizecurve, 0 outside installs by its day 14, and still 0.
+- **Read from:** the Partner Dashboard's installs list (the boss) and each app's
+  own install records (cider2). Listing views and search impressions can't be
+  read by anyone.
+
+Also: how many new candidates carry a buyer-side fact that exists today.
 
 **Scoreboard:** a paid customer of a product chosen this way.
 
@@ -316,3 +326,11 @@ already filled.**
    they were.
 3. Etsy digital is the one open shelf left to look at for a gap.
 4. Atlassian is out.
+
+**10-19, 22:14 CDT.** cider2's bars are in (mail, delivered 22:10; quoted under
+"The number" above). My change of 21:16, "the 14-day bars measure being seen",
+can't be read: no one can see listing views or search impressions. So the bar
+is a first bite, one outside install, which is the boss's "one or two people to
+actually bite". cider2 doesn't record the boss's hours per listing. Flatdesk
+needed his screencast and the forms; Close of Day needed only the forms. I'll
+ask him for hours after the KDP question, one at a time.
