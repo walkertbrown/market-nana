@@ -287,12 +287,14 @@ and my adversary (plan/2026-10-20-video-schedule.md):
   best. `stars` built its payoff over the first 2 seconds and got 2.17.
   `bigger` copied gap's opening and got 2.54.
 - The footage template waits 1.5 seconds before anything moves. The Halloween
-  short opens on a text slide held 3.8 seconds, and got 1.76. Every clip is
-  silent, by the cutter's own spec.
+  short opens on a text slide held 3.8 seconds, and got 1.76. The raw footage
+  is silent, and docent adds music at the cut (the boss, 10-20). I first read
+  the spec's "no music" as meaning the clips had none. Read the final cut, not
+  the parts.
 - Inference: "payoff at frame 1" is right but not enough. At about 100 views a
   clip, one clip's average watch time swings by about as much as the whole
-  range, so text-style tests can't be read. Only big levers (sound, a much
-  shorter cut) are worth a test, run in pairs across TikTok and Shorts so
+  range, so text-style tests can't be read. Only big levers (a much shorter
+  cut, a voice) are worth a test, run in pairs across TikTok and Shorts so
   subject and platform cancel.
 - Inference: before any opening test, check that TikTok and Shorts rank the
   same clips the same way. If they don't, the per-clip number is noise.

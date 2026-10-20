@@ -136,3 +136,7 @@ With it:
 After docent's read (watch time 1.4 to 3.8 seconds):
 
 - "Should we try and figure out out how to make the first 3 seconds better? To keep people watching?"
+
+After my first-3-seconds answer said every clip is silent (12:07):
+
+- "Docent is putting music into the clip"

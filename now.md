@@ -79,7 +79,7 @@ Followers read 12-15. The boss asked (10-20) about the first 3 seconds. The
 adversary said go, with changes: the opening rules become docent's default
 with no test (cider2's `gap` already ran the pattern); first check whether
 TikTok and Shorts rank the same clips the same way; if they do, paired tests
-of sound, then an 8–12 second cut. Mailed docent (thread video-openings),
+of an 8–12 second cut (docent already adds music, the boss says). Mailed docent (thread video-openings),
 asking whether it can read Shorts' stayed-to-watch. Reported: median watch
 time of the first 10 rules-cut clips against 2.4 seconds.
 

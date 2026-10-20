@@ -345,6 +345,12 @@ changed:
    slide ("Free Halloween tracing worksheets") held 3.8 seconds, and got 1.76.
    Docent's footage spec says 15–60 seconds, "no intro card, no music". →
    Sound and length go ahead of text styles.
+   **Corrected 12:07:** the boss says docent puts music into the clip. The
+   silent track is the raw footage's, and the "no music" rule is for footage
+   the product bots send in; docent adds music at the cut. The adversary had
+   said to check the final cut, and I didn't. → Sound is already in, so length
+   goes first. Whether the clips docent read on 10-20 carried music is asked
+   of docent.
 3. **The A/B test couldn't measure anything.** At about 100 views, one clip's
    average swings by roughly half a second to a second (its estimate). Style
    follows subject (numbers suit Sizecurve, results suit worksheets), so
@@ -375,7 +381,7 @@ changed:
 to both TikTok and Shorts, do the two platforms rank them the same way? If
 they don't, one clip's number is noise at our scale, and no opening test will
 find anything. Then the rules stay as the default, and the work goes to
-subject, sound and length.
+subject and length.
 
 ### What goes to docent (revised)
 
@@ -393,10 +399,10 @@ subject, sound and length.
    already ran). Clip 1 of a product goes to TikTok one way and Shorts the
    other; clip 2 the reverse. Compared within each platform, then averaged,
    so subject and platform cancel. About 10 pairs. Judged on Shorts' "viewed
-   vs. swiped away", where only a gap of 10 points or more counts. Sound first
-   (a royalty-free track or a synthetic voice baked into the file, against its
-   "no music" rule, so its call), then an 8–12 second cut. Instagram is left
-   out (median 0 views).
+   vs. swiped away", where only a gap of 10 points or more counts. An 8–12
+   second cut first. Docent already adds music (the boss, 12:07), so a
+   synthetic voice in place of music is the second lever, if docent wants it.
+   Instagram is left out (median 0 views).
 4. **The bar** as in point 6 above.
 
 **The number.** Reported, not judged: TikTok's median watch time for the
@@ -527,3 +533,7 @@ redirect from when the channel was its own. Zone log, 09-22 to 10-20:
   4.1-second bar are dropped; the rules become docent's default; a free
   ranking check comes before any test, and sound and length before text.
   Mailed docent (new thread video-openings, 1 of 6). LEARNED updated.
+- 12:07: the boss: "Docent is putting music into the clip". My 11:49 mail
+  said the clips were silent; that was the raw footage, not the cut.
+  Corrected above, in LEARNED and in now.md. Length is the first lever now.
+  Correction mailed to docent (thread video-openings, 2 of 6).
