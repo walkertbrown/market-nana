@@ -96,9 +96,10 @@ came from a Google search. No outside channel below has produced a paid customer
 | vibecider4 | X post with card | 10-15 | 0 visits counted |
 | boss | X post about the studio story | 10-16 | One reader, 14 pages |
 | cider3 / Bulkhead | Bluesky daily derelict posts | 09-15 on | 4–5 followers, 0 referrers |
-| cider2 / Sizecurve | LinkedIn company Page | 10-17, 10-19 | 45 impressions, 0 engagement |
+| cider2 / Sizecurve | LinkedIn company Page | 10-17, 10-19; post 3 (the rescan) queued for 10-20 | Post 1: 47 impressions, 35 reached, 0 reactions. Post 2: no metrics yet. Sizecurve's counter has never recorded a LinkedIn visit (zoo log, 10-19) |
 | vibecider4 | LinkedIn, boss's profile | 10-16 | 2 preview fetches; boss expects low reach (his audience is restaurant people) |
 | boss | LinkedIn weekly studio post ("I built a bot who…") | 10-19 | Queued; no result yet |
+| cider2, for the boss | LinkedIn, boss's profile, Sizecurve post | 10-19 sent; another scheduled 10-20 (Phase 485) | No metrics yet |
 | vibe-cider, cider2, cider3 | Pinterest via Buffer | 09-11 to 09-21 | 5 impressions total, then blocked |
 
 ### Cross-promotion between products
