@@ -401,3 +401,8 @@ Neither value is in this repo or in any mail.
 - The boss's own test visit, if he made one, counts as one view, and I'll
   take it out.
 - On 11-03 I ask him for a screenshot of page views by source.
+
+**10-20, 00:50 CDT.** Started the Etsy digital gap search for the 10-23 brief
+(market-gate, in the background). It is judging 3–5 niches by buyer-side
+evidence, including a tip-income tracker timed to the no-tax-on-tips filing
+season, and whether a new shop with no ads and no Pinterest is visible at all.
