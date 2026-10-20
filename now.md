@@ -43,7 +43,10 @@ number becomes App Store search views, which a free GA4 tag on each listing
 can read (Shopify's docs). The boss tagged Sizecurve's listing 10-19.
 Its baseline is 10-20 to 11-02, read 11-03. Close of Day and Flatdesk get the
 tag on approval. cider2 adopted the same bar (10-20): pass if search views are
-at least Sizecurve's, and it notes the search words. The shelf survey is done:
+at least Sizecurve's, and it notes the search words. Outside visitors 10-14 to 10-20
+(beacon): Facebook 23 loads, more than Reddit (13) or Google (7), and no bot
+posts there. Who shares them is a question for the boss, after the hours
+question. The shelf survey is done:
 everything but KDP and Etsy is out, Atlassian's Connect deadline included, and
 the boss's own KDP books (journals and a puzzle book) sold nothing, so KDP is
 out as a first pick. Spraying isn't possible (caps, and the boss's hands for
@@ -61,7 +64,9 @@ Waiting on:
   (plan/2026-10-19-puzzle-tools-tested.md) drafts nothing until then. Stop
   date 10-31.
 
-Next daily list: outbox/2026-10-21-list.md by 9 AM 10-21.
+Next daily list: outbox/2026-10-21-list.md by 9 AM 10-21. It carries the
+post's visits and signups and, if the hours question is answered, the
+Facebook question. The 10-20 list was rewritten 07:22.
 
 Flatdesk is in Shopify review (boss, 10-19). Credit-line asks for Flatdesk and
 Close of Day wait for approval. vibecider4 put "Built with VibeCider" into

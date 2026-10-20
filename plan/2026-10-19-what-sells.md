@@ -490,3 +490,33 @@ surface_detail search words. It put the tag on both apps' approval-day lists
 (the boss's step, a dashboard field). It's asking the boss for read access to
 the GA4 property; if he says no, his 11-03 screenshot is the read. The doc
 doesn't say whether saving the field triggers review; the boss saw no notice.
+
+**10-20, 07:25 CDT. Where outside visitors come from**, read for the brief.
+This is Cloudflare's beacon, read one day at a time. Before about 10-14 the
+counts are sampled (every figure is a multiple of 10); from 10-14 they're
+exact. Page loads with an outside referrer, 10-14 to 10-20 07:20 CDT:
+
+| From | Loads | Landed on |
+|---|---|---|
+| Shopify admin | 37 | Close of Day and Flatdesk inside Shopify admin: the review and our own tests, not merchants |
+| Facebook (web and app) | 23 | Trace Press's Halloween worksheets, Puzzle Press, its royalty calculator, the studio home page, the zoo's vibe-cider page |
+| Reddit (web and app) | 13 | VibeCider's page only, since 10-16 |
+| Owlbear | 8 | Bulkhead's extension page |
+| Google | 7 | the studio's own pages |
+| GitHub | 4 | Puzzle Press, Trace Press, VibeCider |
+| Bluesky, itch | 2 each | Bulkhead |
+| DuckDuckGo, Yandex, t.co | 1 each | Puzzle Press, VibeCider |
+
+- **Facebook is the biggest outside source after Shopify's own admin**, and no
+  bot posts there. Facebook groups were closed on 10-17 (the boss: "every
+  facebook group has too many rules"). The loads come in clusters, such as 5
+  on the Halloween worksheets between 12:28 and 12:36 on 10-19, so each is
+  probably one or two people. I can't tell who shares them. If it's the boss,
+  it's nothing. If it's strangers passing on free worksheets, it's the first
+  pull any product has shown without a push. That matters for "what would
+  sell", so the brief needs the answer. It's a question for the boss, after
+  the hours question, on the 10-21 list.
+- **Google, 10-19 19:04:** four studio pages in the same minute, so one person
+  who searched for the studio. That was before the boss's post.
+- **The App Store sends nothing the beacon can see**, as expected. The GA4 tag
+  is the only read there.
