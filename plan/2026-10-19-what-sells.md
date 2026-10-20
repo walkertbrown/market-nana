@@ -278,3 +278,41 @@ and Raycast (no paid listings), WordPress.org (no locked paid features).
 
 One research agent is now checking the Atlassian opening and Etsy's digital
 shelf before the 10-23 brief.
+
+**10-19, 22:14 CDT.** The Atlassian and Etsy check is in.
+
+**Atlassian: dropped as a candidate. The deadline is real, but the shelf has
+already filled.**
+- **The deadline:** Connect apps have had no updates since March 2026. After
+  2027-01-31, Atlassian fixes only critical security holes, and some apps "will
+  stop functioning without advance notice". No delisting date is given.
+  Atlassian says over 95% of paid app seats have already moved to Forge.
+- **The apps left:** 373 paid cloud apps from 198 vendors haven't moved. The
+  ones sold only for cloud have 17,475 installs between them. Many are free up
+  to 10 users, so that isn't paying customers.
+- **Rivals:** each of the top five already has a Forge rival with 173–821
+  installs. A replacement listed in April 2026 as an "alternative to legacy"
+  apps has 0 installs. That's cider2's lesson exactly: the replacements came
+  first and got little.
+- **No buyer-side fact:** in recent reviews of 381 apps, none mentions the
+  deadline. By this round's rule, that means it isn't passed on.
+- **Also against it:** a Confluence customer switching vendors re-inserts every
+  macro by hand. A paid listing needs a business name and a registration or tax
+  number, and is about 3–4 weeks from a partner account.
+
+**Etsy: alive, weak.**
+- **Costs:** a small fee per listing, perhaps a small one-time setup fee, an ID
+  and selfie check, and payouts that can be held for up to 180 days.
+- **Bots:** the API can create digital listings, and an app for one's own shop
+  is approved in minutes. The API terms bar "mass-produced" listings. AI-made
+  items are allowed if disclosed.
+- **Evidence:** one self-reported 2026 shop, "4 month = 900 digital sales!",
+  with no marketing mentioned. It's the broadest pool still open, and closest
+  to the boss's "a wide buyer pool and a thing people already pay for".
+
+**Where the brief stands for 10-23:**
+1. Close of Day and Flatdesk are the live test of shelf-first (cider2's bars).
+2. KDP is weak: the boss's own 3 or 4 books sold nothing. It waits on what
+   they were.
+3. Etsy digital is the one open shelf left to look at for a gap.
+4. Atlassian is out.
