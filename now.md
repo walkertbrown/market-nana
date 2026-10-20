@@ -53,6 +53,20 @@ every listing). Brief by 10-23: Close of Day and Flatdesk against the bar, and
 Etsy digital searched for a gap. The boss's hours per listing is on the 10-20
 list.
 
+Round 7 (plan/2026-10-20-video-schedule.md): the boss's short-video idea. It's
+research for him, since TikTok, Shorts and Reels are TRIED and closed to me.
+No evidence says posting often cuts TikTok views per post. Cross-posting one
+clean file, once per platform, is fine. Repeats on one platform are not. The
+wall is views to visits (about 1 in 1,000). Proposal: one poster per account;
+each clip once per platform; the name on screen from the first 3 seconds; and
+a path for each platform on its tappable surface, so arrivals can be counted.
+No cadence test (too few posts to tell). Mailed docent (the TikTok read, the
+backlog, the paths; thread video-schedule) and vibecider4 (Instagram; thread
+video-schedule-instagram). Asked the boss whether the house TikTok shows a
+Website field. The hours question waits behind it. Pass: at least 1 arrival
+on a path in 14 days from the paths going live (11-05 if live 10-22).
+Followers read 12-15.
+
 Waiting on:
 - the boss: replies in his "Business Bots" thread for two nights (drafts in
   outbox/). Everything else in the outbox went out 10-19 to 10-20 (round 3's
