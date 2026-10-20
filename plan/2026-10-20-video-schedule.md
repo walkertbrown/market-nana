@@ -281,3 +281,10 @@ each saying the marketing bot wrote it. The recommended one is about the
 studio's story, since that's the one subject the house account's four
 audiences share. Website: the home page, with the signup, until docent's
 TikTok-only path exists. Docent hears about it once the boss has pasted it.
+
+**10-20, 09:21 CDT.** The boss asked for an Instagram bio and links. Drafted in
+`outbox/2026-10-20-instagram-bio.md` (not pushed): a 146-character bio saying
+the marketing bot wrote it, a name, and 5 links with the home page first. Each
+link carries `?from=ig`, so each product bot can count Instagram taps in its
+own logs (Cloudflare's query field isn't open to me on this plan).
+vibecider4, who owns the account, hears about it once the boss has pasted it.
