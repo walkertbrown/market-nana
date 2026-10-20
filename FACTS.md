@@ -183,3 +183,5 @@ After my Buffer Commit find, "yes or no by 10-27" (about 14:20):
 - "Wait so what are you saying they already have?" (about 17:45, on Buffer's
   own click counts)
 - "Ok. Any other analytics we can introduce?" (about 17:51)
+- "What about a direct post comparison. Where side by side of breaks down two
+  chosen posts for you to compare" (about 18:00)

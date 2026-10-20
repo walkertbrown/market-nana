@@ -408,3 +408,22 @@ taps. The demo shows the real count, even if it's 2.
     still read true as a plain count? Anything that needs a chart goes
     under next steps.
   - Goes to the builders with the counted-links change when one answers.
+- 18:00: the boss: a side-by-side comparison of two chosen posts.
+  - Read: Buffer Insights (which replaced Analyze) compares channels side by
+    side, not posts, as far as its page and help say. Its Posts tab is a
+    table to sort by hand. Its "Takeaways" already suggest reposting a post
+    with strong engagement, so the loop's difference is that it goes by
+    people who arrived, not engagement.
+  - What the card can hold: people (taps) on each, days to the first tap,
+    channel, day and time sent, video or image, caption length, hashtags,
+    and whether it's a re-queued copy. No views, likes or watch time (the
+    API wall).
+  - The natural pair is the loop's: a post and its re-queued copy on
+    another channel. Same clip, so only the channel and the time differ.
+    The app picks that pair itself, and it becomes how "the loop's result"
+    is shown, so it adds a view, not a feature.
+  - Small numbers: counts side by side, and "too few people to tell" until
+    about 20 between them. No winner badge.
+  - Checked against the adversary's deciding question (does it read true as
+    a plain count with three people?): it does, with the "too few" line. No
+    new adversary run. Placed after days to tap, as the loop's result.
