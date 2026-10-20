@@ -92,3 +92,9 @@ Answering "what were your books (blank journals, logbooks, puzzle books,
 something else), and roughly when did they go up?":
 
 - "journals and puzzle book"
+
+## 2026-10-19 — cider2's 14-day bar
+
+On cider2's bar (at least 1 outside install within 14 days of approval):
+
+- "As far as the cider2.... zero outside installs within 14 days.... It would be wild to have any installs within that time"

@@ -33,7 +33,10 @@ Round 6 (plan/2026-10-19-what-sells.md): the boss's "how do we find out what
 would sell". The adversary showed cider2 already picks apps shelf-first (case
 files since 10-02), so Close of Day and Flatdesk are the method's test. cider2
 set the bar before approval: at least 1 outside install within 14 days of
-approval, no ad money (Sizecurve's baseline is 0). The shelf survey is done:
+approval, no ad money (Sizecurve's baseline is 0). The boss: "It would be wild
+to have any installs within that time", so installs move to 11-30. The 14-day
+number becomes App Store search views, which a free GA4 tag on each listing
+can read (Shopify's docs). Asked cider2 to add it, Sizecurve first. The shelf survey is done:
 everything but KDP and Etsy is out, Atlassian's Connect deadline included, and
 the boss's own KDP books (journals and a puzzle book) sold nothing, so KDP is
 out as a first pick. Spraying isn't possible (caps, and the boss's hands for

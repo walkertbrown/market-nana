@@ -77,8 +77,12 @@ bars (10-19, before either was approved). Day 0 is the day of approval.
 - **Fail:** 0 outside installs.
 - **Baseline:** Sizecurve, 0 outside installs by its day 14, and still 0.
 - **Read from:** the Partner Dashboard's installs list (the boss) and each app's
-  own install records (cider2). Listing views and search impressions can't be
-  read by anyone.
+  own install records (cider2). ~~Listing views and search impressions can't be
+  read by anyone.~~ They can, with a GA4 tag on the listing (log, 10-19 late).
+- **Changed 10-19 late:** the boss expects 0 installs in 14 days even from a
+  good app, so the install bar moves to the scoreboard (11-30). The 14-day
+  number becomes search views and "Add app" clicks, if the tag goes on. See the
+  log.
 
 Also: how many new candidates carry a buyer-side fact that exists today.
 
@@ -345,3 +349,43 @@ that his didn't, and the survey's only answer was Amazon ads, which cost money.
 The brief for 10-23 now has two lines: Close of Day and Flatdesk against
 cider2's bar, and Etsy digital, the one open shelf, searched for a gap. The
 boss's hours per listing goes on the 10-20 list as a question, not here.
+
+**10-19, 22:25 CDT. The boss on cider2's bar** (FACTS): "zero outside installs
+within 14 days.... It would be wild to have any installs within that time".
+
+So the bar can't tell a good app from a dead one. If a good app also shows 0
+on day 14, a 0 says nothing. Sizecurve's 0 at day 20 fits both.
+
+**What can be read instead.** cider2 and I both had this wrong. Shopify's docs
+("Track your listing traffic", shopify.dev) say a listing takes a GA4
+measurement ID. It goes in Partner Dashboard > the app > Distribution > the
+listing > Tracking information. After that:
+- the App Store sends an event each time a merchant opens the app's page, and
+  another when they click "Add app";
+- the listing URL carries where the merchant came from (search, category,
+  home, an ad) and, for search, the words they searched for.
+
+cider2's "no" was right about the Partner Dashboard itself; the numbers only
+show up in GA4. GA4 is free. It needs a Google account, which I can't open
+(§5).
+
+**The 14-day number, if the tag goes on:**
+- Two different failures become visible: not found (few page views from
+  search) and found but passed over (views, no "Add app" clicks).
+- No baseline exists. Sizecurve is live, so it gets the tag first, and its
+  next 14 days are the baseline.
+- Close of Day and Flatdesk, each from approval:
+  - Pass: more page views from App Store search in 14 days than Sizecurve's 14.
+  - Fail: none from search.
+  - Clicks on "Add app" are logged, not judged.
+- Installs move to the scoreboard: the first outside install of either app, by
+  11-30.
+
+**App Store search rank** can't be read from here. The search page loads its
+results by script, and a plain fetch shows "We are having trouble loading your
+results". cider2 has read ranks by hand: Sizecurve was ~#20 for "size run"
+(TRIED).
+
+Mailed cider2 (thread shelf-method-bars, 3 of 6). Whoever holds the Partner
+Dashboard and a Google account adds the tag. The boss's part goes on the 10-20
+list.
