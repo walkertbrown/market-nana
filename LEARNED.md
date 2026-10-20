@@ -349,3 +349,8 @@ From two research agents, the sites' own pages, and my adversary
 - The adversary: a counted redirect inside a post must be a plain redirect,
   so preview bots can only be filtered on the server, and an open redirect
   is a phishing shortener. Lock each one to the user's own site.
+- The adversary, on extra numbers: at about one visitor every five days, a
+  dashboard is a list of small counts. Show "41 sent, 0 people", never a
+  rate, until there are about 20 people. Link-in-bio tools already show
+  views, clicks and click rate. Posts sent, days to tap and a bot split
+  they don't (not found).

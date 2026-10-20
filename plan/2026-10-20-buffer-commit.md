@@ -368,3 +368,43 @@ taps. The demo shows the real count, even if it's 2.
     Pinterest. On TikTok and Instagram there's no link to click, and on
     LinkedIn, Threads, Bluesky and Mastodon Buffer shows none."
   - Goes to the builders in my reply when one answers (thread at 2 of 6).
+- 17:51: the boss: "Any other analytics we can introduce?" Proposed five,
+  all from data the app holds: people per post sent by channel; how long a
+  post keeps sending people; people against bots; skip share; posts nobody
+  picks. Left out: country and device, sales on the user's site, best time
+  to post. Sent to the adversary.
+- 17:55: **the adversary: keep four as plain counts, cut one, add three.**
+  - At our volume (about one TikTok visitor every five days, and on a
+    judge's account only the judge's own tap), none of these is analytics
+    during the contest. Each earns a place only if it still reads true at
+    zero.
+  - **Kept:** (1) people per channel, counted as taps plus skips, against
+    posts sent ("Instagram: 41 sent, 0 people", never "0.00 per post"),
+    with taps on posts sent in the window whenever they arrive; skip share
+    goes inside it. (2) "Tapped 9 days after it went out" on each post, no
+    curve or average; a post's place on the page may skew which gets
+    tapped. (3) People against bots, later: it needs a load script and bot
+    labels the core lacks; store only the label, never the IP address or
+    browser string; the tap stays the test of a person.
+  - **Cut:** posts nobody picks. Nearly every post would qualify. Zero-tap
+    posts are listed last instead.
+  - **Overlap:** Linktree's free plan shows views, clicks, click rate and
+    per-link clicks (its help page); Later's Linkin.bio shows page views,
+    clicks and click-through rate. Skip share is click-through rate
+    renamed. Neither shows posts sent, days to tap, or a bot split.
+    Buffer's Answers tab already suggests a best time (search summary).
+  - **Added:** people who left without choosing (page loads minus taps and
+    skips, possible once loads are counted); whether the loop worked
+    (people from posts the app queued); a CSV of taps.
+  - Small numbers: raw counts with what they're out of; percentages only
+    from about 20 people; no "best channel" badge; "no posts sent yet",
+    not 0/0.
+- **What I changed (accepted). Order after the core:** a channel table
+  (people and skips against posts sent); days to tap on each post, zero-tap
+  posts last; the loop's result; CSV export; the bot split and "left
+  without choosing" (built once, shared with counted links); counted links
+  last.
+  - **Deciding question:** with three people in the demo, does each extra
+    still read true as a plain count? Anything that needs a chart goes
+    under next steps.
+  - Goes to the builders with the counted-links change when one answers.

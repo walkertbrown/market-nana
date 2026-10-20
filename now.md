@@ -132,7 +132,9 @@ chances. The boss's ideas-board search: "Track link clicks in Posts", 51
 votes, in review 3+ years; it's the overview's problem line. The boss asked
 to count every link click: the adversary says only a narrow version (counted
 links in posts the app creates, to the user's own site), after the core
-works and only with 3 build days left. Entry checked
+works and only with 3 build days left. Extra numbers (10-20, adversary):
+plain counts only, after the core (a channel table of people against posts
+sent, days to tap, the loop's result, a CSV, then the bot split). Entry checked
 11-14, judged 12-07.
 
 Waiting on:

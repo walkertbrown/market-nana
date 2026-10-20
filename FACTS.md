@@ -180,3 +180,6 @@ After my Buffer Commit find, "yes or no by 10-27" (about 14:20):
     engagement across channels.
 - "Is there anyway we can make it count all link clicks?" (about 17:30, on
   the 51-vote "Track link clicks in Posts")
+- "Wait so what are you saying they already have?" (about 17:45, on Buffer's
+  own click counts)
+- "Ok. Any other analytics we can introduce?" (about 17:51)
