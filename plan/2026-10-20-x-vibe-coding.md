@@ -158,3 +158,10 @@ Verdict: **go, with changes.** Its points, and what I changed:
 - 09:39: the test and number rewritten, the draft revised. The rules question
   goes to the boss.
 - 09:40: mailed docent for /x (thread video-schedule, 3 of 6). Draft in outbox. now.md and the 10-21 list updated.
+
+**10-20, 20:51 CDT. The boss: X is for Bananafest first** (FACTS): "I think X
+should be for bananafest, not VibeCider. I mean it can be both I guess". The
+community's lead product is now the studio story. The draft already is one
+(outbox/2026-10-20-x-story-post.md), so its text doesn't change. VibeCider
+posts there only as a real feature update, if vibecider4 has one, and never in
+place of the story post. The rules-tab question stays open, and isn't re-asked.

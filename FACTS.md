@@ -220,3 +220,10 @@ Run as a copy on his Mac, with his Chrome:
   broad keywords)
 - "So even though the app is helpful and solves a problem. It is a problem
   people don't realize they need help with?" (on Sizecurve's search terms)
+
+## 2026-10-20, night — the rounds he asked about
+
+- "4. What does it need to do? Get it going" (about 20:45)
+- "6. How is brief being done?" (about 20:45)
+- "8. I think X should be for bananafest, not VibeCider. I mean it can be both
+  I guess" (about 20:45)

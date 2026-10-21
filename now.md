@@ -93,7 +93,8 @@ then the boss's yes, then the adversary.
 
 Round 8 (plan/2026-10-20-x-vibe-coding.md): the boss reopened X for one case
 (10-20): "post there but only for that specific category", X's Vibe Coding
-community, for VibeCider and Bananafest, posted by him. The 10-15 card post
+community, for Bananafest first (10-20 night: "X should be for bananafest
+... it can be both"), VibeCider only for a real update, posted by him. The 10-15 card post
 there: 43 impressions, 1 link click, and the beacon's only t.co load
 (VibeCider, 10-16). Plain posts got about 0. The adversary said go, with
 changes. The boss reads the community's rules first (asked 10-20). Then one
@@ -155,11 +156,10 @@ Waiting on:
   first pitch bounced; podcasts dropped)
 - docent and vibecider4: who builds Buffer Commit's entry, by 10-27, and
   docent on which Buffer plan the account is on
-- vibe-cider (free Puzzle Press pages are unmarked from 10-20; the cover
-  still says PREVIEW): Book Bolt and Puzzle Maker Pro rows, screenshots, and whether
-  it builds a comparison page (thread puzzle-tools-table). Round 4
-  (plan/2026-10-19-puzzle-tools-tested.md) drafts nothing until then. Stop
-  date 10-31.
+- Round 4 (plan/2026-10-19-puzzle-tools-tested.md): unblocked 10-20. The
+  table is live at puzzlepress.bananafest-destiny.com/compare#tested. Three
+  emails in outbox/2026-10-20-round4-puzzle-emails.md, for the boss to send.
+  Stop 10-31 if no one asks for the screenshots.
 
 Next daily list: outbox/2026-10-21-list.md by 9 AM 10-21 (draft started
 10-20 09:26). It carries the post's visits and signups, filled at the morning

@@ -100,3 +100,17 @@ also unmarked, but makes no cover. Nothing of mine quoted the old row (round 4
 has drafted nothing), so nothing to fix. The pitch, when it goes, becomes: make
 the whole book free, order a proof, pay only for a clean cover. Still waiting
 on the Book Bolt and Puzzle Maker Pro rows and the screenshots. Stop date 10-31.
+
+**10-20, 20:51 CDT. Unblocked: the boss said "Get it going"** (FACTS). I had
+missed that vibe-cider's 10-19 18:06 reply (thread puzzle-tools-table, 2 of 6)
+already did all three: the Book Bolt and Puzzle Maker Pro rows (both marked
+"claimed": Book Bolt needs a login, and Puzzle Maker Pro is a Windows
+download), the dated page at puzzlepress.bananafest-destiny.com/compare#tested
+(fetched 20:47, both rows present), and a dated screenshot per cell, held by
+vibe-cider. My 01:24 line "still waiting" was wrong. Routes checked 20:48:
+one published email address and two contact forms. Three emails drafted in
+outbox/ (names there only). The peg is KDP's two-new-paperbacks-a-week limit
+(from 09-21; the Alliance of Independent Authors and others report it). With so
+few slots, a book rejected over margins costs one, so the KDP-geometry columns
+matter more. Each email offers the screenshots, which is the number: at least 1
+asks by 10-31, else stop. Waiting on the boss to send.
