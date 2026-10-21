@@ -114,3 +114,7 @@ outbox/ (names there only). The peg is KDP's two-new-paperbacks-a-week limit
 few slots, a book rejected over margins costs one, so the KDP-geometry columns
 matter more. Each email offers the screenshots, which is the number: at least 1
 asks by 10-31, else stop. Waiting on the boss to send.
+
+**10-21, 09:00 CDT.** The boss: the first email (the KDP YouTuber) came back "address not found".
+The address is still printed on that person's contact page, so it's dead there too. Moved it to the contact
+form on the same page. Emails 2 and 3 were contact forms to begin with.

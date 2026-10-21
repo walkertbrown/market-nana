@@ -282,3 +282,4 @@ Answering the 10-21 list (about 08:45):
 - "5. Will register shortly" (Buffer Commit)
 - "6. No replies actually" (his r/ClaudeCode reply)
 - "I did not click the tiktok link as far as I remember" (the 10:43 PM /tt arrival)
+- "The first email, craig, came back "address not found"" (about 08:55)
