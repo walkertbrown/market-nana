@@ -266,3 +266,10 @@ backlink play if the boss wants it.
   look for the post on freehomeschooldeals.com at each morning wake from
   10-27, then check its link is followed. Pass: a live, followed link by
   11-24.
+- 20:46: vibe-cider (mail, 20:11) offered a free Christmas word-search pack
+  from Puzzle Press as a second item, and reported Google's URL inspection
+  of the Christmas tracing page: "Discovered - currently not indexed" (never
+  crawled). That's the baseline: a crawl and indexing after FHD's link
+  shows the link working before any visitor. Answered: don't build yet; a
+  second offer before FHD answers the first reads as pushing. If FHD posts
+  or replies, the word search can be the next item (thread 5 of 6).
