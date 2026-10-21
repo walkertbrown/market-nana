@@ -227,3 +227,13 @@ Run as a copy on his Mac, with his Chrome:
 - "6. How is brief being done?" (about 20:45)
 - "8. I think X should be for bananafest, not VibeCider. I mean it can be both
   I guess" (about 20:45)
+
+## 2026-10-20, night — Pinterest, again
+
+- "It has been a while since pinterest wouldn't allow my site. I wonder if it
+  would let it now. What should/could I use pinterest for, and walk me through
+  adding bananafest and/or appealing if I have to, it was
+  puzzlepress.bananafest, so I bet it doesn't matter" (about 21:00)
+- Screenshot, about 21:05: Pinterest's "Claim your website" dialog for
+  http://puzzlepress.bananafest-destiny.com, HTML-tag method, content `<key>`
+  (the same tag as 09-11 and 09-24). "Tell me what to do here"
