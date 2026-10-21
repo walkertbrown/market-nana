@@ -290,3 +290,4 @@ Answering the 10-21 list (about 08:45):
 - "this is the lat 24 hours" (about 11:18), with Cloudflare's dashboard for bananafest-destiny.com, 10-20 11:17 to 10-21 11:17 CDT, as a PDF (read in LEARNED, 10-21).
 - "I just added the youtube link a few minutes ago" (about 11:25)
 - "Check.mail. I want the Hullbound clip posted in an hour" (about 13:03)
+- "Tell sitebot we don't need AI content disclosure on tiktok. I just read the site. It says for realistic looking people and things. This passes not.havinf it" (about 13:11; sitebot is docent)
