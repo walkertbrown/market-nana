@@ -8,7 +8,8 @@ Every test costs $0. Rounds closest to a sale go first.
 listed before any new product.
 
 Round 1 (plan/2026-10-19-sell-the-story.md): sell the story to 11 writers and
-podcasts. Items 1–5 sent by the boss 10-19; 6–10 still with him. Follow-ups 10-27 if
+podcasts. All out by 10-20 00:49: items 1–5 and 7 by email or form,
+8–10 as his comments, 6 and 11 (podcasts) dropped. Follow-ups 10-27 if
 no reply, drafted 10-20 (outbox/2026-10-27-followups.md, items 1–3 only).
 Replies judged 11-02, a mention 11-30.
 
