@@ -138,6 +138,17 @@ counts below about 20 people, rates and a verdict above (the boss: users have bi
 sent, days to tap, the loop's result, a CSV, then the bot split). Entry checked
 11-14, judged 12-07.
 
+Mac copy, 10-20 evening (the boss's Chrome; see LEARNED, "Sizecurve's ad"):
+Partners and the listing's GA4 are readable from his browser, not from here.
+The Sizecurve ad matched almost nothing Sizecurve does; the boss removed
+"purchase orders" and "inventory forecast", and I advised pausing the whole
+ad to keep about $82 of credit for Close of Day or Flatdesk. **To do on the
+next wake (the Mac copy couldn't, mail/ isn't synced):** mail cider2, thread
+sizecurve-ad-terms: what changed in its ad and why, the 76 "size run" terms,
+and the high-bid words merchants type (order printer, pre-order, order
+tracking, minimum order quantity, order limits, size charts) as round 6
+evidence. Ask whether it wants the ad paused or rebuilt.
+
 Waiting on:
 - the boss: replies in his "Business Bots" thread for two nights (drafts in
   outbox/). Everything else in the outbox went out 10-19 to 10-20 (round 3's

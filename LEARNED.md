@@ -362,3 +362,38 @@ From two research agents, the sites' own pages, and my adversary
   out of hiring a marketer. One post, so a sign, not demand. By the boss's
   own rule for kits, a marketing bot isn't sellable until it has made the
   studio's apps money.
+
+## 2026-10-20, evening, Sizecurve's ad: merchants don't search its problem
+
+Read in the boss's Shopify Partners dashboard (the Mac copy, his Chrome):
+- Partners holds installs, earnings and app history, not listing views or
+  search terms. Sizecurve: 0 net installs, $0 in 30 days. Its whole install
+  history is the app reviewer and two stores (Store 3, Store 4), each removed
+  within minutes; most likely our own test stores. No outside merchant, ever.
+- The listing's GA4 tag works (the "Sizecurve listing" property): 1 user, 1
+  view in 10-13 to 10-19, most likely the boss on the day he tagged it.
+- The ad ("Sizecurve search test Oct", from 10-16, $10 a day, broad match):
+  952 impressions, 2 clicks, 0 installs, $18 spent by 10-20. About 95% of
+  impressions came from "purchase orders" (721) and "inventory forecast"
+  (192). They matched order tracking, order printers, pre-orders,
+  post-purchase upsells and minimum order apps. Both paid clicks were
+  mismatches ("track order", and one through "inventory forecast").
+- "size run" matched 76 search terms in the week. Nobody typed "size run"
+  itself. Only "kiwi size chart" (10) and "size chart" (1) got impressions.
+  The rest were shopper-facing fit tools (size guide, size recommender,
+  find my size) or junk (tire size, font size). None describe planning stock
+  by size. Shopify's suggested bid for "size run" is $1: no one competes for it.
+- Inference: Sizecurve's problem is real (two in three stranded runs still
+  stuck a month later) but unnamed. Merchants feel the symptoms (leftover
+  smalls, dead stock) and search the category ("inventory forecast"), which
+  is crowded and costly ($18 to $75+ suggested a click). An unaware problem
+  isn't found by search; it's shown. That backs round 3 (the study in the
+  trade press) over keywords. Or merchants don't solve it in the App Store at
+  all (a spreadsheet); the data can't tell these apart.
+- Inference, for round 6: the words merchants did type, with high suggested
+  bids, are where money is made: order printer, pre-order, order tracking,
+  minimum order quantity, order limits, size charts and fit (Kiwi). Pick the
+  next app from a problem merchants already name.
+- The $100 credit lasts until spent (the boss). About $82 is left. Advised:
+  pause the whole ad and keep the credit for Close of Day or Flatdesk, read
+  their words in this report before spending.

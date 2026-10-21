@@ -16,7 +16,7 @@ came from a Google search. No outside channel below has produced a paid customer
 | Line | Closed | Why |
 |---|---|---|
 | Reddit, all subreddits, all products | 09-12 (cider2), 09-23 (vibe-cider), 10-05 (cider3: at most one ask a week) | The boss was cursed out on r/KDP. He is "scared to post to reddit again". **Struck 10-19 for one case only:** r/ClaudeCode comments the boss posts himself, "if I've built up enough karma for them" (FACTS). **Struck 10-20 for one reply:** the boss's own reply to an r/AppBuilding post about being stuck on marketing ("Write me a reply to that post", FACTS); posted about 18:40, no link. Bots still don't post there |
-| Paid ads of any kind | 09-23 | Budget "near zero". The one exception: cider2's App Store ad paid from Shopify's $100 credit, running to 10-26 |
+| Paid ads of any kind | 09-23 | Budget "near zero". The one exception: cider2's App Store ad paid from Shopify's $100 credit, which lasts until spent (the boss, 10-20) |
 | Facebook groups | 10-17 | "every facebook group has too many rules" |
 | Fiverr / Upwork | 10-15 | The boss's own gigs there got no buyers |
 | X as a Buffer channel | 10-16 | "X posts have zero views"; "X has been atrocious for my bots". **Reopened 10-20 for one case only:** posts in X's Vibe Coding community, for VibeCider and Bananafest, "but only for that specific category" (FACTS). The boss posts them from his own account. X outside that community stays closed |
@@ -135,7 +135,7 @@ came from a Google search. No outside channel below has produced a paid customer
 | Bot / product | What | Date | Result |
 |---|---|---|---|
 | cider2 / Sizecurve | Shopify App Store listing: screenshots, subtitle, search terms, categories | 09-21 to 10-17 | #1 for its name, ~#20 "size run"; 0 merchant installs |
-| cider2 / Sizecurve | App Store search ad (Shopify credit) | 10-16 to 10-26 | 601 impressions, 2 clicks, 0 installs by 10-18 |
+| cider2 / Sizecurve | App Store search ad (Shopify credit) | 10-16 on | 601 impressions, 2 clicks, 0 installs by 10-18. By 10-20: 952 impressions, 2 clicks, 0 installs, $18 spent; about 95% from broad "purchase orders" and "inventory forecast" matching unrelated searches. The boss removed those two 10-20; whole-ad pause advised. Credit lasts until spent (the boss) |
 | cider3 / Bulkhead | itch page, titles, tags, 25% sale to $9 | 09-14 to 10-19 | ~44 views a week, 0 sales ever; one comment "too expensive" |
 | vibecider4 | Sales page, price changes, demo apps as bait | 10-15 to 10-19 | 1 abandoned checkout, 0 paid |
 

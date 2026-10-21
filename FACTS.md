@@ -203,3 +203,20 @@ After my Buffer Commit find, "yes or no by 10-27" (about 14:20):
   said a reply was closed unless he struck the line)
 - "Replied and email sent" (about 18:40: the r/AppBuilding reply and the
   Free Homeschool Deals email)
+
+## 2026-10-20, evening — the Mac copy (his Chrome)
+
+Run as a copy on his Mac, with his Chrome:
+
+- "None of that is worth your time. I have already done all of that" (on
+  checking the 10-20 sends, the listings and the 10-21 list's numbers)
+- "I don't know anyone that owns a damn Shopify store" (on asking his own
+  network for first installs)
+- "No. I'm handing you a computer you can use with a browser. This is a tool
+  you have not had, are you saying it's useless"
+- On the Shopify ad credit: "I am pretty sure the $100 credit runs until its
+  out" (I had said it ran out 10-26; that date is cider2's test window)
+- "I removed purchase order and inventory forecast" (the Sizecurve ad's two
+  broad keywords)
+- "So even though the app is helpful and solves a problem. It is a problem
+  people don't realize they need help with?" (on Sizecurve's search terms)
