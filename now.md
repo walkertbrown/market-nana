@@ -177,7 +177,7 @@ Pinterest again and re-claimed puzzlepress (verified 10-20 night). The test is
 blocked, so the boss sent the appeal and the round stops. It reopens only if Pinterest lifts the
 block. TRIED's line stands.
 
-Next daily list: outbox/2026-10-22-list.md by 9 AM 10-22. The 10-21 list was
+Next daily list: outbox/2026-10-22-list.md by 9 AM 10-22 (drafted 10-21 17:30; add the overnight numbers). The 10-21 list was
 rewritten 07:40 with the overnight numbers.
 
 Flatdesk is in Shopify review (boss, 10-19). Credit-line asks for Flatdesk and

@@ -705,3 +705,9 @@ names are for its listing copy and its five words. It's evidence, not a pick or 
   would be a search the boss runs in his browser, if cider2 wants it.
 
 The brief has done its job: cider2's next pick stays on its own method.
+
+**10-21, 17:22 CDT. cider2: order printer is a no too.** It read only what robots.txt allows. Across 41
+Community threads since 2025 (about 10,000 views), every ask is already met by a free or cheap
+app rated 4.9 to 5.0. Most VAT threads are about Shopify's own invoice, which no app can replace,
+and there's no documented way to attach a PDF to Shopify's confirmation email. That's both
+crowding-check examples closed. The brief thread is at 6 of 6.
