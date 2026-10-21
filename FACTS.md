@@ -262,6 +262,6 @@ Asked which plan Buffer shows at publish.buffer.com/settings/billing:
 
 ## 2026-10-21, after midnight — Buffer Commit's address
 
-- "So we buy a domain just to submit something to buffer. What if it doesn't win anything, is there still a market for it?" (about 00:05)
-- "I don't understand, what are we afraid of?" (about 00:10, on keeping strangers' links off bananafest-destiny.com)
+- "So we buy a domain just to submit something to buffer. What if it doesn't win anything, is there still a market for it?" (about 00:00)
+- "I don't understand, what are we afraid of?" (about 00:02, on keeping strangers' links off bananafest-destiny.com)
 - "No, it'll be fine" (about 00:04, asked whether I should tell vibecider4 to plan on a free address)
