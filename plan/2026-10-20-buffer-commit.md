@@ -465,3 +465,10 @@ from 10-28 to 11-13, design only until then, with docent's handover as written,
 and it designs around the Free limits. Left for the boss: the domain (his
 money; docent and I both advise a new, cheap one, not a free subdomain), and
 the rate-limit question at the 10-27 Q&A. Both are on the 10-21 list.
+
+**10-21, 00:04 CDT.** The boss asked whether there's a market if it doesn't win. My
+answer: barely (51 votes in 3 years; Later's Linkin.bio and Linktree cover most of
+it). It's a free lottery ticket, not a product, and it stops if it loses. No paid
+domain: the terms ask only that it be public. On the spam risk (strangers' links
+getting the whole domain flagged, as Pinterest did): "No, it'll be fine". I'm not
+mailing vibecider4. Where the entry is hosted is his call with vibecider4.
