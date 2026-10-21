@@ -495,3 +495,30 @@ Sizecurve's ad showed merchants typing. "Small" means under 50 reviews.
   Shopify admin 2. Signups 0.
 - **Rule:** the dashboard's "visits" are about 40× the people. Quote the beacon's number, minus
   Facebook, and never the dashboard's, in lists, mail or posts.
+
+## 2026-10-21 — Close of Day's and Flatdesk's shelves, before approval (App Store search, top 10)
+
+Close of Day (daybook.bananafest-destiny.com: Shopify's old printed Financial Summary,
+per location, as a PDF or CSV, or by morning email):
+- **"end of day report":** #1 TillClose: End of Day Report (launched 2026-07-23, 0 reviews, paid
+  plans only); #3 Z Reports ‑ POS End of Day (2026-07-31, 0 reviews, free plan). The rest are
+  general export and report tools with 250 to 2,000 reviews.
+- **"z report":** #1 Z Reports (0 reviews); then fiscal-printer and GST apps, and the same export tools.
+- **"daily sales report":** #1 DailyOverview (2024, 3 reviews, emails a daily report); Z Reports #4.
+- **"financial summary":** #1 Suma: Daily Finance Report (0 reviews); the rest are unrelated
+  (finance dashboards, AI review summaries). No app with real reviews.
+- **"cash drawer":** CashUp Cash Counter (2024, 0 reviews) #1, TillClose #6; the rest are cart drawers.
+- **"sales summary":** accounting syncs and profit dashboards (A2X, Xero, TrueProfit), up to 2,061 reviews.
+- **Read:** at least three apps went for the same gap this summer (TillClose, Z Reports, Suma),
+  probably because of the same May 2025 admin change. None has a review. The words are
+  winnable on page 1, but Close of Day won't be alone there. TillClose and Z Reports lean on
+  POS. Close of Day's "Shopify's own definitions, every channel, per location" is the difference
+  to show on the first screenshot. None of this was in cider2's public record (zoo-data).
+
+Flatdesk (helpdesk.bananafest-destiny.com: a support inbox in the admin, with orders beside each ticket):
+- **"help desk", "customer support", "support inbox":** Gorgias (706), Chatty (1,884), Richpanel
+  (137), Re:amaze (181), Commslayer (237), and Shopify Inbox, which is free and has 5,806 reviews. A few
+  small entrants have 1 to 14 reviews (ShieldDesk "AI Support Inbox", MX, Copiwin, Voria).
+  "ticketing" is event tickets. **Read:** a crowded shelf, and Shopify gives a free inbox away.
+  Page 1 for 2 of 5 words in 14 days is much less likely than for Close of Day. Flatdesk's
+  first merchants come from people we go to, as cider2's record already says.

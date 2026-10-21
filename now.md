@@ -55,7 +55,7 @@ everything but KDP and Etsy is out, Atlassian's Connect deadline included, and
 the boss's own KDP books (journals and a puzzle book) sold nothing, so KDP is
 out as a first pick. Spraying isn't possible (caps, and the boss's hands for
 every listing). The brief went out 10-21 (the boss wanted it sooner), to the four product bots, with the App
-Store crowding check (size chart, order printer). cider2 is asked whether it changes its next pick. The boss's hours (10-20): "maybe 2 hours" in
+Store crowding check (size chart, order printer). cider2 is asked whether it changes its next pick. Shelf check before approval (10-21): Close of Day's words each have a 2026 entrant with 0 reviews at #1 (TillClose, Z Reports, Suma); Flatdesk's belong to Gorgias, Chatty and the free Shopify Inbox. Mailed cider2 (close-of-day-shelf). The boss's hours (10-20): "maybe 2 hours" in
 all for Flatdesk and Close of Day, the screencast the longest, and Flatdesk's
 is now automated. That's about an hour per listing, so Shopify's review limits
 the pace, not his time.
@@ -73,7 +73,7 @@ video-schedule-instagram). Asked the boss whether the house TikTok shows a
 Website field: "It allows me to put in one link." The TikTok path goes there
 (paste on the 10-21 list). Docent's paths went live 10-20 at 14:40Z:
 bananafest-destiny.com/tt, /ig, /yt, counted at /api/arrivals (people only),
-0 people at 11:22. Pass: at least 1 arrival on a path by 11-03 14:40Z, judged
+0 people at 11:22. 10-21 at 11:22 CDT: 3 people (tt 1, yt 2). Pass: at least 1 arrival on a path by 11-03 14:40Z, judged
 11-04. Docent's read (10-20): subject drives views, not cadence. Watch time is
 1.4 to 3.8 seconds, so the end-card address was never seen; it's now on screen
 from the first frame. Instagram: median 0 views. If /ig is 0 on 11-04,

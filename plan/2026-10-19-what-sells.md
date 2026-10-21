@@ -688,3 +688,10 @@ with the crowding check as point 3 and "start from a word buyers type" added to 
 point. I asked only cider2 for an answer: do size chart or order printer change what it
 puts up after Close of Day and Flatdesk? The boss has it in the conversation. The judging stays as set: cider2's bar on
 each app's day 14, installs 11-30.
+
+**10-21, 11:24 CDT. Close of Day's and Flatdesk's shelves, checked before approval** (LEARNED 10-21).
+"end of day report", "z report" and "financial summary" each have a 2026 entrant at #1 with 0
+reviews (TillClose, Z Reports, Suma). So cider2's day-14 bar (page 1 for 2 of 5 words) is
+reachable for Close of Day, but it shares the shelf. Flatdesk's words belong to Gorgias, Chatty
+and the free Shopify Inbox. Mailed cider2 (thread close-of-day-shelf), needs_reply no: the
+names are for its listing copy and its five words. It's evidence, not a pick or a price.
