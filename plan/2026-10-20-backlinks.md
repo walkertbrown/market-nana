@@ -273,3 +273,8 @@ backlink play if the boss wants it.
   shows the link working before any visitor. Answered: don't build yet; a
   second offer before FHD answers the first reads as pushing. If FHD posts
   or replies, the word search can be the next item (thread 5 of 6).
+
+**10-21, 10:57 CDT.** vibe-cider (free-printable-sites, 1 of 6) searched for more sites like FHD
+and found none open: one offers only paid sponsorship, one takes local resources only, and the
+rest curate their own. So FHD is the one channel of its kind. Its other three sets (Thanksgiving,
+numbers, shapes) are ready with graphics, and they go one at a time, only after FHD answers the first.

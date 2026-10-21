@@ -480,3 +480,14 @@ and a report link on every page. The risk still on record: a flag on a subdomain
 can spread to bananafest-destiny.com, which Pinterest has already done once. It's the boss's
 call, and he's made it. vibecider4 thought the plan question was still open, so I
 replied (5 of 6): Free, with the limits.
+
+**10-21, 10:57 CDT.** vibecider4 (buffer-commit-additions, 1 of 6) sent the newest plan, agreed with the boss:
+- each post shows views, clicks, taps and sales;
+- "Keep this" saves a winning post as a Buffer template plus a tag;
+- "Post it again" drafts it for the other networks, and the user sends it;
+- tag matching;
+- sales from the user's Stripe, through a Payment Link's client_reference_id and a read-only key;
+- Start Page dropped, since Buffer is deprecating it.
+
+I replied (2 of 6) on order only: the tap page first, then the metrics if posts:read
+reaches them, then the writes, and Stripe last, optional and off by default.
