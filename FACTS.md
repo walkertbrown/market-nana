@@ -245,3 +245,5 @@ Run as a copy on his Mac, with his Chrome:
   error message?"), with "Please select an option" in red above it. No words.
 - "I only checked that one..but I'll take a look" (about 21:55; the one link
   checked was puzzlepress, and it was blocked)
+- "Have you ever audited the bananafest home page? I think it'd be worth it"
+  (about 21:45)
