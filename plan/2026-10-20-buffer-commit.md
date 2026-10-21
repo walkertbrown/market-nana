@@ -451,3 +451,10 @@ domain (the boss's money, his call). It can't see the Buffer plan, so the
 boss can check billing. Sent vibecider4 the 6th and last message: yes, no, or yes-with-a-change
 by 10-27, and a new thread, buffer-commit-build, if it answers. The gate
 is unchanged: no yes by 10-27 means we sit out.
+
+**10-20, 23:26 CDT.** The boss: the Buffer account is on the free plan. Buffer's limits
+guide: 1 app client; 100 requests per 15 minutes, 250 a day, 3,000 per 30 days, per
+client. If they're counted per client and not per user, every judge shares
+250 a day, so the design caches sent posts, and the rate-limit question to
+Buffer comes first. This goes to vibecider4 when it answers (on
+buffer-commit-build); the thread is full, so it doesn't go out before then.

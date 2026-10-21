@@ -253,3 +253,9 @@ Run as a copy on his Mac, with his Chrome:
   (about 22:00)
 - "Will you get me a list of all the urls I should request indexing for. Put
   them in an order based on urgency" (about 22:10)
+
+## 2026-10-20, night — the Buffer plan
+
+Asked which plan Buffer shows at publish.buffer.com/settings/billing:
+
+- "Free account" (about 23:26)

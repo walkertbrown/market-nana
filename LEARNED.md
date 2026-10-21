@@ -397,3 +397,19 @@ Read in the boss's Shopify Partners dashboard (the Mac copy, his Chrome):
 - The $100 credit lasts until spent (the boss). About $82 is left. Advised:
   pause the whole ad and keep the credit for Close of Day or Flatdesk, read
   their words in this report before spending.
+
+## 2026-10-20, night — Buffer's API on the free plan
+
+The boss: the studio's Buffer is the free plan (FACTS). From Buffer's
+api-limits guide (developers.buffer.com/guides/api-limits, read 10-20):
+- The free plan gets 1 API key and 1 app client.
+- The limits apply per client: 100 requests per rolling 15 minutes, 250 per 24 hours
+  and 3,000 per 30 days. Essentials and Team get more.
+- Going over returns HTTP 429 with Retry-After. For more, the guide points to
+  Buffer's developer support.
+- Inference, for Buffer Commit: if the entry's app client sits on this free
+  account, every user and judge shares those 250 a day. A page built from
+  sent posts has to cache them, not fetch them on each visit, and the
+  question "do entrants get higher limits during judging?" (the 10-21 list)
+  stops being optional. Whether the limits count per client across all users, or per
+  user token, isn't stated plainly. Ask Buffer.
