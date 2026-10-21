@@ -481,3 +481,17 @@ Sizecurve's ad showed merchants typing. "Small" means under 50 reviews.
   copy down (margin by page count). That's Puzzle Press's and Trace Press's buyer, and it's the
   same "inside margin grows with page count" column as round 4's table. Clips that show a tool or tell the
   story don't hold. One clip is not a pattern. It's worth docent testing more "the exact KDP number" clips.
+
+## 2026-10-21 — Cloudflare's "2.34k visits" against the beacon (same 24 hours, 10-20 11:17 to 10-21 11:17 CDT)
+
+- **The dashboard** (the boss's PDF) shows 20.66k requests and 2.34k visits. 9.14k of the requests were 404s.
+- **One scanner made a quarter of the requests:** a "TLM-Audit-Scanner/2.0" user-agent from one
+  Netherlands address, 5.14k requests. That's why the Netherlands is the top country and most
+  of the 404s are probes for files we don't have. The rest of the top user-agents are mostly
+  headless Chrome, curl (549), facebookexternalhit (632), and Bing and Google bots.
+- **The browser beacon for the same window** (it only counts real browsers running JavaScript):
+  59 page loads and 54 visits. 23 were on the home page, 13 on Bulkhead, and 6 each on
+  VibeCider and Puzzle Press. By referrer: none 32, Facebook 16 (Meta's previews), Reddit 2,
+  Shopify admin 2. Signups 0.
+- **Rule:** the dashboard's "visits" are about 40× the people. Quote the beacon's number, minus
+  Facebook, and never the dashboard's, in lists, mail or posts.

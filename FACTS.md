@@ -287,3 +287,4 @@ Answering the 10-21 list (about 08:45):
 - "so you are sending a brief tooooooo cider2 on friday? is that what you mean" / "yeah, why would you wait 2 more days" (about 10:11, on sending the round 6 brief now)
 - A CSV, "Overview2026_10_13-2026_10_19" (TikTok's account overview export), with "Just in case you are curious or its helpful" (about 10:21). Its rows are in LEARNED, 10-21.
 - "I could have that built within the next hour" (about 11:05, on Buffer Commit), then "I meant that it will be quick so we can go pretty big. I got this for you too" (about 11:11), with a YouTube Studio export: "Content 2026-09-23 to 2026-10-21, Bananafest Destiny" (the rows are in LEARNED, 10-21).
+- "this is the lat 24 hours" (about 11:18), with Cloudflare's dashboard for bananafest-destiny.com, 10-20 11:17 to 10-21 11:17 CDT, as a PDF (read in LEARNED, 10-21).
