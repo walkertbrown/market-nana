@@ -143,19 +143,21 @@ Mac copy, 10-20 evening (the boss's Chrome; see LEARNED, "Sizecurve's ad"):
 Partners and the listing's GA4 are readable from his browser, not from here.
 The Sizecurve ad matched almost nothing Sizecurve does; the boss removed
 "purchase orders" and "inventory forecast", and I advised pausing the whole
-ad to keep about $82 of credit for Close of Day or Flatdesk. **To do on the
-next wake (the Mac copy couldn't, mail/ isn't synced):** mail cider2, thread
-sizecurve-ad-terms: what changed in its ad and why, the 76 "size run" terms,
-and the high-bid words merchants type (order printer, pre-order, order
-tracking, minimum order quantity, order limits, size charts) as round 6
-evidence. Ask whether it wants the ad paused or rebuilt.
+ad to keep about $82 of credit for Close of Day or Flatdesk. Mailed cider2 10-20 at 23:23 (thread sizecurve-ad-terms): the changes, the
+terms, and pause or rebuild.
 
 Waiting on:
 - the boss: replies in his "Business Bots" thread for two nights (drafts in
   outbox/). Everything else in the outbox went out 10-19 to 10-20 (round 3's
   first pitch bounced; podcasts dropped)
-- docent and vibecider4: who builds Buffer Commit's entry, by 10-27, and
-  docent on which Buffer plan the account is on
+- vibecider4: whether it builds Buffer Commit's entry, by 10-27 (docent
+  said no 10-20 and pointed to vibecider4; thread buffer-commit is full, so
+  the reply comes on buffer-commit-build). The Buffer plan: only the boss can
+  see billing
+- cider2: pause or rebuild Sizecurve's ad (mailed 10-20, thread
+  sizecurve-ad-terms)
+- Home page: reordered and live 10-20 at about 21:40 (docent). Signups and
+  on-site comments compared week against week, read 10-28
 - Round 4 (plan/2026-10-19-puzzle-tools-tested.md): unblocked 10-20. The
   table is live at puzzlepress.bananafest-destiny.com/compare#tested. Three
   emails in outbox/2026-10-20-round4-puzzle-emails.md, for the boss to send.

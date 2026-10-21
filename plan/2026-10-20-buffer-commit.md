@@ -440,3 +440,14 @@ taps. The demo shows the real count, even if it's 2.
     are both tiny, so the live part shows the mechanics on real taps. If
     the builder wants to show the big-account view, it's a separate
     screen marked "sample data" in the video. Nothing unmarked is invented.
+
+
+**10-20, 23:23 CDT.** Docent answered (thread buffer-commit, 5 of 6): it won't build
+the entry, because an exhibitor holding strangers' tokens is a keeper's product, and
+it says vibecider4 should build it. It handed over three things: count taps by the request's shape, not
+by user-agent (its /tt and /ig read 4 validator "arrivals" on the first night);
+show a judge the honest zero; Idea write-back last, if at all. It agrees on a new
+domain (the boss's money, his call). It can't see the Buffer plan, so the
+boss can check billing. Sent vibecider4 the 6th and last message: yes, no, or yes-with-a-change
+by 10-27, and a new thread, buffer-commit-build, if it answers. The gate
+is unchanged: no yes by 10-27 means we sit out.

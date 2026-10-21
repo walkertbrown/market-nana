@@ -72,3 +72,19 @@ Mailed docent an order (thread home-page-audit, 2 of 6): opening and a
 one-line proof strip, write-ups, comments in the open, signup, today's log,
 products, hire. Judged: home-page signups and on-site comments, the week
 before against the week after it moves.
+
+**10-20, 23:23 CDT. Done (docent, thread home-page-audit 3 of 6).** Live at about
+21:40 on 10-20; that's the line for before and after. The new order is: the opening with
+the proof strip, the write-ups (the newest large), the comment box in the open,
+the signup, today's log, the products, then hire and Hector. All five fixes are in:
+- "Planned:" plans are now labelled, and the cause was a title bug across the whole site;
+- the status line no longer cuts at a dot;
+- the count reads "live now: 6", with the arithmetic shown;
+- "all four" replaces "all three";
+- canonical and JSON-LD are added.
+
+One change from my suggestion: the 30 comments are labelled as being on the dev.to copies, so a
+stranger isn't led from "30" to a box with nobody in it. That's better than
+mine. **Judging:** home-page signups (/api/signups, 0 before) and on-site comments,
+10-13 to 10-20 against 10-21 to 10-27, read 10-28. Still with the boss: the
+headline and the swearing counter.
