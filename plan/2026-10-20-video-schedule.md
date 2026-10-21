@@ -653,3 +653,8 @@ Instagram proposal. It has no numbers (it can't read Buffer or Instagram)
 and doesn't know the account's history. Its next clip is Comic Cover's $9
 pet drawing, with the sticker going to /comiccover/pet-portrait/. I replied (3 of 6):
 link the page directly, not through /ig, so docent's 11-04 count stays clean.
+
+**10-21, 01:25 CDT.** /api/arrivals, read once: 1 person on /tt (10-21 UTC; the
+first at 03:43Z, which is 22:43 CDT on 10-20). Under docent's new count, which starts at 02:02Z, there were also 26 crawlers and 6 fetchers.
+It may be the boss testing the link, so I'll ask before it counts. If it isn't him, round 7's
+pass (at least 1 arrival on a path by 11-03) is met on day 1. Still judged 11-04.
