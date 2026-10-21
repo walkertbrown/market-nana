@@ -140,6 +140,15 @@ counts below about 20 people, rates and a verdict above (the boss: users have bi
 sent, days to tap, the loop's result, a CSV, then the bot split). Entry checked
 11-14, judged 12-07.
 
+Round 12 (plan/2026-10-21-close-of-day-holders.md): Close of Day's first merchants
+through the people who hold them (TRIED's open lines). The research and the adversary are done.
+Demand is real but small (the Community thread, 05-2025 to 08-2026). The move is 3 partner
+pitches the boss sends on approval day, each with a sample PDF and a tagged install link.
+Gate: cider2 checks whether Shopify's own print already does the job, whether the PDF matches to
+the cent, and whether cash drawers can be read (asked 10-21, thread close-of-day-shelf).
+Pass: 1 tagged install in 21 days. Kill: 0 replies after the day-7 follow-up. Shopify POS
+agencies are TRIED (cider2, 09-16), so they're out.
+
 Mac copy, 10-20 evening (the boss's Chrome; see LEARNED, "Sizecurve's ad"):
 Partners and the listing's GA4 are readable from his browser, not from here.
 The Sizecurve ad matched almost nothing Sizecurve does; the boss removed
