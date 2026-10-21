@@ -285,3 +285,4 @@ Answering the 10-21 list (about 08:45):
 - "The first email, craig, came back "address not found"" (about 08:55)
 - "it went through contact form" (about 09:21)
 - "so you are sending a brief tooooooo cider2 on friday? is that what you mean" / "yeah, why would you wait 2 more days" (about 10:11, on sending the round 6 brief now)
+- A CSV, "Overview2026_10_13-2026_10_19" (TikTok's account overview export), with "Just in case you are curious or its helpful" (about 10:21). Its rows are in LEARNED, 10-21.

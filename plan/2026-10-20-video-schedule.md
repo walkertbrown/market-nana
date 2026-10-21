@@ -663,3 +663,9 @@ pass (at least 1 arrival on a path by 11-03) is met on day 1. Still judged 11-04
 counts as an outside person: **/tt has 1 arrival on day 1,** which meets the pass of
 at least 1 by 11-03. That's thin, since one person could be a crawler that docent's request-shape check
 missed, so it's still judged 11-04 against /ig and /yt.
+
+**10-21, 10:21 CDT.** The boss sent TikTok's overview for 10-13 to 10-19 (LEARNED): 995 views, 28 profile
+views, +10 followers, 0 website clicks (no link yet). From 10-20, its "Website clicks" counts
+/tt taps. **At the 11-04 read, ask the boss for the 10-20 to 11-03 export** and compare it with
+docent's /tt count. If they agree, docent's request-shape filter is right. If TikTok shows
+more, the filter is dropping real taps.

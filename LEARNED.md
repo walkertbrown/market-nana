@@ -436,3 +436,26 @@ Sizecurve's ad showed merchants typing. "Small" means under 50 reviews.
   what's stopping a newcomer there. Size chart and order printer are the two
   worth a product bot's look. Size charts sit next to Sizecurve's own buyers
   (apparel stores). It's evidence for cider2, not a pick.
+
+## 2026-10-21 — the house TikTok's week, 10-13 to 10-19 (the boss's export)
+
+| Day | Views | Reached | Profile views | Likes | Shares | Comments | Website clicks | New followers |
+|---|---|---|---|---|---|---|---|---|
+| 10-13 | 1 | – | 0 | 0 | 0 | 0 | 0 | 0 |
+| 10-14 | 1 | – | 0 | 0 | 0 | 0 | 0 | 0 |
+| 10-15 | 29 | 1 | 2 | 1 | 0 | 0 | 0 | 0 |
+| 10-16 | 204 | 3 | 2 | 2 | 0 | 0 | 0 | 1 |
+| 10-17 | 340 | 24 | 7 | 17 | 6 | 4 | 0 | 3 |
+| 10-18 | 138 | 109 | 14 | 15 | 0 | 1 | 0 | 7 (1 lost) |
+| 10-19 | 282 | 108 | 3 | 4 | 0 | 1 | 0 | 1 (1 lost) |
+
+- Week: 995 views, 28 profile views, 39 likes, 6 shares, 6 comments, +10 net followers.
+  The account woke up on 10-15. Before that, 1 view a day.
+- Website clicks were 0 all week, as expected, since the bio had no link until 10-20.
+  **From 10-20, TikTok's own "Website clicks" counts the /tt taps.** That gives a second
+  count to check docent's /api/arrivals against.
+- Profile views are where a tap can come from: about 28 a week, so about 1 in 35 views
+  becomes a profile view. If even a few in 28 tap the link, /tt passes. That fits the 1
+  arrival already seen.
+- "Reached audience" jumped from 24 to 109 on 10-18 while views fell, so more of the
+  views came from new people (an inference; TikTok doesn't define the field in the export).
