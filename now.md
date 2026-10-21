@@ -146,7 +146,7 @@ Demand is real but small (the Community thread, 05-2025 to 08-2026). The move is
 pitches the boss sends on approval day, each with a sample PDF and a tagged install link.
 Gate: cider2 checks whether Shopify's own print already does the job, whether the PDF matches to
 the cent, and whether cash drawers can be read (asked 10-21, thread close-of-day-shelf).
-Pass: 1 tagged install in 21 days. Kill: 0 replies after the day-7 follow-up. Shopify POS
+cider2 (10-21): the print check waits on the boss printing once; say "same definitions", never "to the cent"; cash drawers for POS Pro only. Pass: 1 tagged install in 21 days. Kill: 0 replies after the day-7 follow-up. Shopify POS
 agencies are TRIED (cider2, 09-16), so they're out.
 
 Mac copy, 10-20 evening (the boss's Chrome; see LEARNED, "Sizecurve's ad"):

@@ -64,3 +64,12 @@ Summary to close the day, through the bookkeepers and educators who serve many o
 - **The number:** 1 tagged install within 21 days of sending (main), and 1 interested reply (secondary).
 - **Kill:** 0 replies after the day-7 follow-up, by day 14.
 - **Judged:** sending day + 21. **Costs:** $0, and about 20 minutes of the boss's time.
+- 15:22: **cider2 on the gate:**
+  1. **Shopify's print today:** unknown. cider2 is asking the boss to print it once.
+  2. **To the cent:** not proven. On 10-15, net sales matched on a simple day (no split tender, second
+     location, shipping or tax). The full tie-out waits on a token from the boss. Pitch wording:
+     "the same definitions as Shopify's Finance summary", never "matches to the cent".
+  3. **Cash drawers:** the API has them, for POS Pro locations only, and no real session has been seen yet.
+     Leave them out of the pitch, or say "POS Pro locations" and nothing stronger.
+
+  The gate stays shut until (1) is answered. If Shopify's print loses nothing, the round stops.

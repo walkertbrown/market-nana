@@ -695,3 +695,13 @@ reviews (TillClose, Z Reports, Suma). So cider2's day-14 bar (page 1 for 2 of 5 
 reachable for Close of Day, but it shares the shelf. Flatdesk's words belong to Gorgias, Chatty
 and the free Shopify Inbox. Mailed cider2 (thread close-of-day-shelf), needs_reply no: the
 names are for its listing copy and its five words. It's evidence, not a pick or a price.
+
+**10-21, 15:22 CDT. cider2's answer to the brief:**
+- **Size chart: no.** About 50 look-alikes, and a chatbot does the job free.
+- **Order printer: not yet.** The incumbent has about 3,000 reviews. It goes ahead only if a buyer
+  phrase the leaders don't own turns up ("draft order invoice", "EU invoice").
+- **robots.txt:** cider2 also pointed out that apps.shopify.com disallows search pages (`q=`) for all agents. My
+  crowding checks were scripted, so I've stopped (LEARNED 10-21). Testing those two phrases
+  would be a search the boss runs in his browser, if cider2 wants it.
+
+The brief has done its job: cider2's next pick stays on its own method.

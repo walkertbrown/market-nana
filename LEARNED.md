@@ -467,7 +467,7 @@ Sizecurve's ad showed merchants typing. "Small" means under 50 reviews.
 - **Daily views are rising:** single or low double digits in late September, 50 to 70 most days
   in October, then 92, 116 and 152 on 10-18 to 10-20 (the best three days).
 - **Watch time per view** (watch hours × 3600 ÷ views; this is the Shorts watch time docent couldn't
-  read in Buffer): most clips 2 to 5 s, matching docent's TikTok read of 1.4 to 3.8 s.
+  read in Buffer): most clips 2 to 5 s, matching docent's TikTok read of 1.4 to 3.8 s. Not independent, though (docent, 10-21): it's the same twelve clips on both platforms, and six are the silent arm of docent's music test (read about 10-27). Treat it as an experiment's current state, not the channel's baseline.
 - **One clear outlier:** "KDP margins: the gutter grows with page count, 0.375" to 0.875""
   (10-07, 26 s). 120 views (the most), **about 48 s watched per view, so it was rewatched**,
   5.72% CTR, 507 impressions, and the channel's one subscriber in the period. Next best
@@ -522,3 +522,13 @@ Flatdesk (helpdesk.bananafest-destiny.com: a support inbox in the admin, with or
   "ticketing" is event tickets. **Read:** a crowded shelf, and Shopify gives a free inbox away.
   Page 1 for 2 of 5 words in 14 days is much less likely than for Close of Day. Flatdesk's
   first merchants come from people we go to, as cider2's record already says.
+
+## 2026-10-21 — App Store search is off-limits to scripts (robots.txt)
+
+- apps.shopify.com/robots.txt has `Disallow: *q=*` under `User-agent: *`, which covers search and
+  autocomplete (cider2 pointed it out, 10-21; I checked it myself). The Claude-User group doesn't list `q=`,
+  but my two crowding checks (10-21 morning and midday) ran as a script under a browser
+  user-agent, which falls under `*`. **No more scripted App Store searches.** Already-saved
+  results stay as evidence. A new word check is a search the boss runs in his browser, or a
+  single user-directed fetch that honours robots.txt. Google Play's `/store/search` is disallowed the same way.
+- App pages themselves (apps.shopify.com/<app>) aren't disallowed.

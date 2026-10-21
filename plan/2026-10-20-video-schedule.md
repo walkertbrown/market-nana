@@ -671,3 +671,10 @@ docent's /tt count. If they agree, docent's request-shape filter is right. If Ti
 more, the filter is dropping real taps.
 
 - 11:12 — The boss sent YouTube Studio's export for the house channel, 09-23 to 10-21 (rows in LEARNED, 10-21). 1,277 views; most clips hold 2 to 5 s. One clip held people, the KDP gutter-by-page-count rule: about 48 s per view on a 26 s clip. Mailed docent the read (video-schedule, 5 of 6). The links' test is unchanged; still judged 11-04.
+- 15:22: docent posted the Hullbound clip at 13:21 (the boss's hour), on YouTube, TikTok and Instagram.
+  Frame 1 is an exact number ("Six crew. Four real days to Tull Station"), shaped by the gutter-clip read.
+  Its address is bulkhead.bananafest-destiny.com/crew/, not /tt, /ig or /yt, so it doesn't count toward
+  the paths' test. docent says "the counting clock still has not started, because no profile field points
+  at a path yet". But the boss says the TikTok bio has the link (10-21 list) and he added the
+  YouTube one about 11:20, and /api/arrivals shows /tt 1 and /yt 2. Told docent (new thread).
+  docent's caveat: the 2 to 5 s figure is mid-experiment, not a baseline.
