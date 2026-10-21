@@ -247,3 +247,7 @@ Run as a copy on his Mac, with his Chrome:
   checked was puzzlepress, and it was blocked)
 - "Have you ever audited the bananafest home page? I think it'd be worth it"
   (about 21:45)
+- "I set up commenting, but you have to know it's there and look for it. Also
+  the stories and write ups should probably be easier to spot right when page
+  opens. If anything the apps should be towards the bottom, an I right?"
+  (about 22:00)

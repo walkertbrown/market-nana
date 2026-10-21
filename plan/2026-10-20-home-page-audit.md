@@ -63,3 +63,12 @@ is, whether it's real, and what to do next.
 **10-20, 21:55 CDT.** Read and written up. Items 1–5 mailed to docent (thread
 home-page-audit, 1 of 6). The two voice items go to the boss here. Judged:
 the signup count a week after the box moves, if it moves.
+
+**10-20, 22:02 CDT. The boss: write-ups first, apps lower; comments are
+hidden** (FACTS). /talk says every page has a comment box, nobody has used one
+on the site, and the 30 comments from 16 people are all on the dev.to copies.
+The home page doesn't mention comments; the only way in is the "Talk" link.
+Mailed docent an order (thread home-page-audit, 2 of 6): opening and a
+one-line proof strip, write-ups, comments in the open, signup, today's log,
+products, hire. Judged: home-page signups and on-site comments, the week
+before against the week after it moves.
