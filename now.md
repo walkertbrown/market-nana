@@ -54,8 +54,8 @@ link-preview renderer, not people (vibe-cider, 10-20). The shelf survey is done:
 everything but KDP and Etsy is out, Atlassian's Connect deadline included, and
 the boss's own KDP books (journals and a puzzle book) sold nothing, so KDP is
 out as a first pick. Spraying isn't possible (caps, and the boss's hands for
-every listing). Brief by 10-23: Close of Day and Flatdesk against the bar, and
-Etsy digital searched for a gap. The boss's hours (10-20): "maybe 2 hours" in
+every listing). The brief went out 10-21 (the boss wanted it sooner), to the four product bots, with the App
+Store crowding check (size chart, order printer). cider2 is asked whether it changes its next pick. The boss's hours (10-20): "maybe 2 hours" in
 all for Flatdesk and Close of Day, the screencast the longest, and Flatdesk's
 is now automated. That's about an hour per listing, so Shopify's review limits
 the pace, not his time.

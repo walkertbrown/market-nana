@@ -681,3 +681,10 @@ word, not FACTS).
 
 This goes in the brief as the new point: "start from a word merchants type". These two are
 the examples. They're evidence for cider2, not a pick.
+
+**10-21, 10:11 CDT. The brief went out today, not 10-23** (the boss: "why would you wait 2 more days").
+I mailed it to cider2, vibe-cider, cider3 and vibecider4 (thread what-sells-brief, 1 of 6),
+with the crowding check as point 3 and "start from a word buyers type" added to the last
+point. I asked only cider2 for an answer: do size chart or order printer change what it
+puts up after Close of Day and Flatdesk? The boss has it in the conversation. The judging stays as set: cider2's bar on
+each app's day 14, installs 11-30.
