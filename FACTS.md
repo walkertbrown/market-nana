@@ -237,3 +237,6 @@ Run as a copy on his Mac, with his Chrome:
 - Screenshot, about 21:05: Pinterest's "Claim your website" dialog for
   http://puzzlepress.bananafest-destiny.com, HTML-tag method, content `<key>`
   (the same tag as 09-11 and 09-24). "Tell me what to do here"
+- Screenshot, about 21:10: Settings → Websites now lists
+  puzzlepress.bananafest-destiny.com as claimed (with "Unclaim"). "It kind of
+  looks like that works"
