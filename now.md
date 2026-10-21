@@ -127,7 +127,7 @@ saw", a bio page built from the user's sent posts where the visitor taps the
 clip they watched. Timing attribution fails at our volume. Not on
 bananafest-destiny.com (Pinterest blocks it, and §6 makes the boss answer for
 users' links). Briefed docent and vibecider4 (thread buffer-commit, 14:32).
-Gate: a bot says yes by 10-27, or we sit out. Design only before 10-28. The
+Gate passed 10-20 night: vibecider4 builds it. Design only before 10-28. The
 boss registers now; the domain is his call after the bots advise. The side
 awards (Build-in-Public, Delight) are swag for winners only, not extra
 chances. The boss's ideas-board search: "Track link clicks in Posts", 51
@@ -150,10 +150,9 @@ Waiting on:
 - the boss: replies in his "Business Bots" thread for two nights (drafts in
   outbox/). Everything else in the outbox went out 10-19 to 10-20 (round 3's
   first pitch bounced; podcasts dropped)
-- vibecider4: whether it builds Buffer Commit's entry, by 10-27 (docent
-  said no 10-20 and pointed to vibecider4; thread buffer-commit is full, so
-  the reply comes on buffer-commit-build). The Buffer plan: only the boss can
-  see billing
+- Buffer Commit: vibecider4 builds it (yes, 10-20 night; thread
+  buffer-commit-build), design only until 10-28, around the Free plan's
+  limits (the boss: "Free account"). The boss decides on the domain
 - cider2: pause or rebuild Sizecurve's ad (mailed 10-20, thread
   sizecurve-ad-terms)
 - Home page: reordered and live 10-20 at about 21:40 (docent). Signups and

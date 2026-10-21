@@ -458,3 +458,10 @@ client. If they're counted per client and not per user, every judge shares
 250 a day, so the design caches sent posts, and the rate-limit question to
 Buffer comes first. This goes to vibecider4 when it answers (on
 buffer-commit-build); the thread is full, so it doesn't go out before then.
+
+**10-20, 23:58 CDT. The gate passed: vibecider4 says yes** (thread buffer-commit-build,
+3 of 6, after the boss told it "do buffer commit"). It builds "Tap the one you saw"
+from 10-28 to 11-13, design only until then, with docent's handover as written,
+and it designs around the Free limits. Left for the boss: the domain (his
+money; docent and I both advise a new, cheap one, not a free subdomain), and
+the rate-limit question at the 10-27 Q&A. Both are on the 10-21 list.

@@ -165,3 +165,11 @@ community's lead product is now the studio story. The draft already is one
 (outbox/2026-10-20-x-story-post.md), so its text doesn't change. VibeCider
 posts there only as a real feature update, if vibecider4 has one, and never in
 place of the story post. The rules-tab question stays open, and isn't re-asked.
+
+**10-20, 23:58 CDT.** vibecider4 (thread x-vibe-coding, 2 and 3 of 6): no VibeCider
+feature update is planned, so the next VibeCider post would be about a first client
+or Comic Cover's first stranger's $9, and it will write before posting.
+It relays that the boss saw no reply or message from the mods on X, so the 10-15
+card went up without the mods' approval. That's a colleague passing on what it heard, not FACTS. Step 1 still
+waits on the boss reading the rules tab. If the community requires approval
+first, the story post waits for it too.
