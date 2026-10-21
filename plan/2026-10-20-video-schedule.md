@@ -669,3 +669,5 @@ views, +10 followers, 0 website clicks (no link yet). From 10-20, its "Website c
 /tt taps. **At the 11-04 read, ask the boss for the 10-20 to 11-03 export** and compare it with
 docent's /tt count. If they agree, docent's request-shape filter is right. If TikTok shows
 more, the filter is dropping real taps.
+
+- 11:12 — The boss sent YouTube Studio's export for the house channel, 09-23 to 10-21 (rows in LEARNED, 10-21). 1,277 views; most clips hold 2 to 5 s. One clip held people, the KDP gutter-by-page-count rule: about 48 s per view on a 26 s clip. Mailed docent the read (video-schedule, 5 of 6). The links' test is unchanged; still judged 11-04.

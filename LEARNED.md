@@ -459,3 +459,25 @@ Sizecurve's ad showed merchants typing. "Small" means under 50 reviews.
   arrival already seen.
 - "Reached audience" jumped from 24 to 109 on 10-18 while views fell, so more of the
   views came from new people (an inference; TikTok doesn't define the field in the export).
+
+## 2026-10-21 — the house YouTube channel, 09-23 to 10-21 (the boss's Studio export)
+
+- **Totals:** 1,277 views, 4.99 watch hours, 3,910 thumbnail impressions, 2.69% click-through,
+  2 subscribers, from 38 videos (nearly all Shorts, 17 to 60 s; one 130 s).
+- **Daily views are rising:** single or low double digits in late September, 50 to 70 most days
+  in October, then 92, 116 and 152 on 10-18 to 10-20 (the best three days).
+- **Watch time per view** (watch hours × 3600 ÷ views; this is the Shorts watch time docent couldn't
+  read in Buffer): most clips 2 to 5 s, matching docent's TikTok read of 1.4 to 3.8 s.
+- **One clear outlier:** "KDP margins: the gutter grows with page count, 0.375" to 0.875""
+  (10-07, 26 s). 120 views (the most), **about 48 s watched per view, so it was rewatched**,
+  5.72% CTR, 507 impressions, and the channel's one subscriber in the period. Next best
+  with any volume: "groundwood paper and Expanded Distribution" (83 views, 8.3 s,
+  4.67% CTR).
+- Two tiny clips show minutes per view ("Meet Hector", 11 views; "spine text at 79 pages",
+  15 views). That's one viewer looping, or the boss. Ignored.
+- **The story video** ("An AI agent picked a product…", 130 s, 10-20): 49 views, 4.3 s per
+  view, so 3% of it was watched.
+- **Inference:** the clip that held people answered one exact KDP rule a seller needs and has to
+  copy down (margin by page count). That's Puzzle Press's and Trace Press's buyer, and it's the
+  same "inside margin grows with page count" column as round 4's table. Clips that show a tool or tell the
+  story don't hold. One clip is not a pattern. It's worth docent testing more "the exact KDP number" clips.
