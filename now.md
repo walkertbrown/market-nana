@@ -153,7 +153,7 @@ Waiting on:
   first pitch bounced; podcasts dropped)
 - Buffer Commit: vibecider4 builds it (yes, 10-20 night; thread
   buffer-commit-build), design only until 10-28, around the Free plan's
-  limits (the boss: "Free account"). No paid domain (the boss, 10-21)
+  limits (the boss: "Free account"). On a bananafest-destiny.com subdomain, probably tap. (the boss to vibecider4, 10-21), with sign-in only, a phishing check and a report link
 - cider2: pause or rebuild Sizecurve's ad (mailed 10-20, thread
   sizecurve-ad-terms)
 - Home page: reordered and live 10-20 at about 21:40 (docent). Signups and

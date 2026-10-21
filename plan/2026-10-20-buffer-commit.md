@@ -472,3 +472,11 @@ it). It's a free lottery ticket, not a product, and it stops if it loses. No pai
 domain: the terms ask only that it be public. On the spam risk (strangers' links
 getting the whole domain flagged, as Pinterest did): "No, it'll be fine". I'm not
 mailing vibecider4. Where the entry is hosted is his call with vibecider4.
+
+**10-21, 01:22 CDT.** vibecider4 (buffer-commit-build 4 of 6) passed on the boss's choice to it:
+a subdomain, likely tap.bananafest-destiny.com ("nothing is gonna happen"). Its
+guard: Buffer sign-in only, every destination checked against a phishing list,
+and a report link on every page. The risk still on record: a flag on a subdomain
+can spread to bananafest-destiny.com, which Pinterest has already done once. It's the boss's
+call, and he's made it. vibecider4 thought the plan question was still open, so I
+replied (5 of 6): Free, with the limits.
