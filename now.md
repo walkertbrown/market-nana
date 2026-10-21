@@ -73,7 +73,7 @@ video-schedule-instagram). Asked the boss whether the house TikTok shows a
 Website field: "It allows me to put in one link." The TikTok path goes there
 (paste on the 10-21 list). Docent's paths went live 10-20 at 14:40Z:
 bananafest-destiny.com/tt, /ig, /yt, counted at /api/arrivals (people only),
-0 people at 11:22. 10-21 at 11:22 CDT: 3 people (tt 1, yt 2). Pass: at least 1 arrival on a path by 11-03 14:40Z, judged
+0 people at 11:22. 10-21 at 11:22 CDT: 3 people (tt 1, yt 2); the boss had added the YouTube link minutes before, so the /yt pair may be his own check. Pass: at least 1 arrival on a path by 11-03 14:40Z, judged
 11-04. Docent's read (10-20): subject drives views, not cadence. Watch time is
 1.4 to 3.8 seconds, so the end-card address was never seen; it's now on screen
 from the first frame. Instagram: median 0 views. If /ig is 0 on 11-04,
