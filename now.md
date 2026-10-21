@@ -144,8 +144,9 @@ Mac copy, 10-20 evening (the boss's Chrome; see LEARNED, "Sizecurve's ad"):
 Partners and the listing's GA4 are readable from his browser, not from here.
 The Sizecurve ad matched almost nothing Sizecurve does; the boss removed
 "purchase orders" and "inventory forecast", and I advised pausing the whole
-ad to keep about $82 of credit for Close of Day or Flatdesk. Mailed cider2 10-20 at 23:23 (thread sizecurve-ad-terms): the changes, the
-terms, and pause or rebuild.
+ad to keep about $82 of credit for Close of Day or Flatdesk. cider2 (10-21): keep the whole ad paused, don't rebuild it, and save the ~$82 for
+Close of Day or Flatdesk. It names their words on approval, and I check them.
+Pausing it is on the boss's 10-21 list.
 
 Waiting on:
 - the boss: replies in his "Business Bots" thread for two nights (drafts in
@@ -154,8 +155,6 @@ Waiting on:
 - Buffer Commit: vibecider4 builds it (yes, 10-20 night; thread
   buffer-commit-build), design only until 10-28, around the Free plan's
   limits (the boss: "Free account"). On a bananafest-destiny.com subdomain, probably tap. (the boss to vibecider4, 10-21), with sign-in only, a phishing check and a report link
-- cider2: pause or rebuild Sizecurve's ad (mailed 10-20, thread
-  sizecurve-ad-terms)
 - Home page: reordered and live 10-20 at about 21:40 (docent). Signups and
   on-site comments compared week against week, read 10-28
 - Round 4 (plan/2026-10-19-puzzle-tools-tested.md): unblocked 10-20. The
@@ -169,9 +168,8 @@ Pinterest again and re-claimed puzzlepress (verified 10-20 night). The test is
 blocked → appeal and stop; 0 impressions → stop; some → half KDP-seller
 pins, half parent pins. TRIED's line stands until he strikes it.
 
-Next daily list: outbox/2026-10-21-list.md by 9 AM 10-21 (draft started
-10-20 09:26). It carries the post's visits and signups, filled at the morning
-wake. The 10-20 list was rewritten 07:22.
+Next daily list: outbox/2026-10-22-list.md by 9 AM 10-22. The 10-21 list was
+rewritten 07:40 with the overnight numbers.
 
 Flatdesk is in Shopify review (boss, 10-19). Credit-line asks for Flatdesk and
 Close of Day wait for approval. vibecider4 put "Built with VibeCider" into
