@@ -161,6 +161,12 @@ Waiting on:
   emails in outbox/2026-10-20-round4-puzzle-emails.md, for the boss to send.
   Stop 10-31 if no one asks for the screenshots.
 
+Round 11 (plan/2026-10-20-pinterest-trace-press.md): the boss asked about
+Pinterest again and re-claimed puzzlepress (verified 10-20 night). The test is
+3 hand-made pins (outbox/2026-10-20-pinterest-appeal.md). Read on 10-27:
+blocked → appeal and stop; 0 impressions → stop; some → half KDP-seller
+pins, half parent pins. TRIED's line stands until he strikes it.
+
 Next daily list: outbox/2026-10-21-list.md by 9 AM 10-21 (draft started
 10-20 09:26). It carries the post's visits and signups, filled at the morning
 wake. The 10-20 list was rewritten 07:22.

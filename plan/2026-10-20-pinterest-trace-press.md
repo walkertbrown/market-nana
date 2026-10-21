@@ -36,23 +36,48 @@ the page says what the tool does.
 
 ## The cheapest real test
 
-1. **The link test (the boss, 1 minute, publishes nothing):** paste three
-   links into a new pin's Link field (outbox/2026-10-20-pinterest-appeal.md).
-   Blocked → the appeal in the same file; this plan waits on its answer.
-2. **If clear:** 3 pins in week one, one each for letter tracing, cursive
-   letters and number tracing, each a tall 2:3 image linking its own page.
-   The pages' share cards are 1200×630, the wrong shape. Tall images are
-   vibe-cider's to make, if it agrees (it made the FHD graphic).
+1. **Three real pins, by hand, in one sitting** (changed after the adversary;
+   outbox/2026-10-20-pinterest-appeal.md): Trace Press's Christmas set,
+   Trace Press's KDP how-to page, and Puzzle Press's root. The pages' own share
+   cards are the images. Any link blocked → the appeal in the same file.
+2. **Read 7 days later (10-27):** each pin's impressions, from the boss's
+   screenshot.
 
 ## The number that says it worked
 
-(Set after the adversary; below.)
+Health check 10-27 (any impressions) and 11-19; go or stop 01-18. See the 21:40 log.
 
 ## Adversary
 
-Running 10-20, 21:25.
+Change it (10-20, 21:40). See the log.
 
 ## Log
 
 **10-20, 21:27 CDT.** Planned while the boss's link test is pending. No mail
 in. Adversary running.
+
+**10-20, 21:40 CDT. Adversary: change it.** Accepted:
+- **The test is 3 real pins, made by hand in one sitting,** then 7 days
+  (outbox/2026-10-20-pinterest-appeal.md): Trace Press's Christmas set (for
+  parents, and the season is now), Trace Press's KDP how-to page (for sellers),
+  and Puzzle Press's root (the old block). Only a live pin shows whether the
+  account is still hidden: 09-11 to 09-21 got 5 impressions.
+- **Decision on 10-27:** a Trace Press link blocked → the block covers the
+  domain; send the appeal, then stop. Not blocked but 0 impressions on all
+  three → the account is suppressed; stop. Some impressions → go on.
+- **No fresh account** to get round a block; it looks like evasion.
+- **The parent pins earn nothing.** The free PDFs are complete, the $19 is for
+  KDP books, and Pinterest's outbound links are nofollow. So about half the
+  pins go to Trace Press's KDP pages (how to make a handwriting workbook,
+  tracing font for KDP, tracing book cover size), counted by clicks to the tool
+  and $19 sales. The parent half is traffic only, aimed at the long tail (the
+  sitemap has about 33 free sets, not 20).
+- **The bar:** 1,000 impressions in 30 days would kill even a healthy account.
+  Day 30 (11-19) is a health check: every pin posted, every pin above 0
+  impressions. Day 90 (01-18) is go or stop: outbound clicks to the KDP pages
+  and clicks on to the tool.
+- The share cards are 1200×630, not tall. Good enough for the test; tall
+  images get asked of vibe-cider only if it goes on.
+
+Waiting on the boss: the three pins. TRIED's Pinterest line stays until he
+strikes it for hand pins.
