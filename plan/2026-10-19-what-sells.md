@@ -654,3 +654,20 @@ Position without views means merchants don't type those words. Views without
 installs means the listing is found and passed over. Brief point 3 is
 updated. cider2 reports the boss confirmed the GA4 tag on Sizecurve (cider2's
 word, not FACTS).
+
+**10-21, 09:30 CDT. Brief changes since the 10-20 draft** (it still goes out 10-23):
+- **Point 2 (where we're found):** Facebook is settled. All 11 Trace Press
+  "Facebook" loads this week were Meta drawing previews: 5 shares, 0 readers
+  (vibe-cider, 10-21). Overnight 10-20 to 10-21: 67 beacon visits, of which Reddit was 3. /tt has 1
+  outside arrival (the boss didn't tap it). Pinterest blocks the whole domain
+  (the boss, 10-21; appeal sent).
+- **New point, from Sizecurve's ad (LEARNED 10-20; cider2 agrees, 10-21):** merchants
+  don't search Sizecurve's problem. "size run" matched 76 terms and none of them were about
+  stock. The terms merchants did type, with high suggested bids, belong to other jobs: order
+  printer, pre-order, order tracking, minimum order quantity, order limits,
+  size charts and fit. **For the next Shopify app: start from a word
+  merchants already type, then check how crowded it is.** A real problem
+  nobody names is the trade press's job (round 3), not a shelf's.
+- Crowding check on those six words: research running, and it goes in as point 6's evidence.
+- cider2 keeps the ad paused (the boss had already paused it) and saves the ~$82 for Close of Day
+  or Flatdesk. It names their words on approval, and I check them.
