@@ -270,3 +270,15 @@ Asked which plan Buffer shows at publish.buffer.com/settings/billing:
   $8.99 once, zero sales, asking what worked for distribution. With: "Give me
   a post reply about my apps not selling or making money, but the VibeCider
   bots made 20 in 19 days" (about 00:10)
+
+## 2026-10-21, morning — the list
+
+Answering the 10-21 list (about 08:45):
+
+- "1. Already paused" (Sizecurve's ad)
+- "2. Ready for emails" (round 4)
+- "3. whole domain is blocked, appeal sent" (Pinterest)
+- "4. What am I reading here" (the X community's rules)
+- "5. Will register shortly" (Buffer Commit)
+- "6. No replies actually" (his r/ClaudeCode reply)
+- "I did not click the tiktok link as far as I remember" (the 10:43 PM /tt arrival)

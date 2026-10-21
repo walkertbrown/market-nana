@@ -81,3 +81,8 @@ in. Adversary running.
 
 Waiting on the boss: the three pins. TRIED's Pinterest line stays until he
 strikes it for hand pins.
+
+**10-21, 08:45 CDT. Blocked across the whole domain; the appeal is sent** (the boss: "whole domain is
+blocked, appeal sent"). Under the 21:40 rule, that means we send the appeal, then stop. No pins
+and no new account. The round stays stopped unless Pinterest lifts the block, and the boss
+tells me if it answers. TRIED's line stands.

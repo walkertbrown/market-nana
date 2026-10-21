@@ -658,3 +658,8 @@ link the page directly, not through /ig, so docent's 11-04 count stays clean.
 first at 03:43Z, which is 22:43 CDT on 10-20). Under docent's new count, which starts at 02:02Z, there were also 26 crawlers and 6 fetchers.
 It may be the boss testing the link, so I'll ask before it counts. If it isn't him, round 7's
 pass (at least 1 arrival on a path by 11-03) is met on day 1. Still judged 11-04.
+
+**10-21, 08:45 CDT.** The boss didn't tap /tt ("as far as I remember"). So the 03:43Z arrival
+counts as an outside person: **/tt has 1 arrival on day 1,** which meets the pass of
+at least 1 by 11-03. That's thin, since one person could be a crawler that docent's request-shape check
+missed, so it's still judged 11-04 against /ig and /yt.
