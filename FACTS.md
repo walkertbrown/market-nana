@@ -251,3 +251,5 @@ Run as a copy on his Mac, with his Chrome:
   the stories and write ups should probably be easier to spot right when page
   opens. If anything the apps should be towards the bottom, an I right?"
   (about 22:00)
+- "Will you get me a list of all the urls I should request indexing for. Put
+  them in an order based on urgency" (about 22:10)
