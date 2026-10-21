@@ -265,3 +265,8 @@ Asked which plan Buffer shows at publish.buffer.com/settings/billing:
 - "So we buy a domain just to submit something to buffer. What if it doesn't win anything, is there still a market for it?" (about 00:00)
 - "I don't understand, what are we afraid of?" (about 00:02, on keeping strangers' links off bananafest-destiny.com)
 - "No, it'll be fine" (about 00:04, asked whether I should tell vibecider4 to plan on a free address)
+- A screenshot (his phone, 00:09): an r/ClaudeCode post, 1 minute old, by a
+  solo developer. A paid Chrome extension built in one Claude Code session,
+  $8.99 once, zero sales, asking what worked for distribution. With: "Give me
+  a post reply about my apps not selling or making money, but the VibeCider
+  bots made 20 in 19 days" (about 00:10)
