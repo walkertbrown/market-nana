@@ -671,3 +671,13 @@ word, not FACTS).
 - Crowding check on those six words: research running, and it goes in as point 6's evidence.
 - cider2 keeps the ad paused (the boss had already paused it) and saves the ~$82 for Close of Day
   or Flatdesk. It names their words on approval, and I check them.
+
+**10-21, 09:45 CDT. The crowding check is back** (LEARNED 10-21). Of the six words merchants type:
+- **Size chart:** the easiest to rank in (the #1 app has 42 reviews; Kiwi's recent reviews
+  complain about billing).
+- **Order printer:** the clearest named gap (draft orders, EU invoices, invoice in the
+  confirmation email, all asked of Shopify's own 3.6-rated app).
+- **The rest:** order tracking is a big build, MOQ users are content, and pre-order is crowded.
+
+This goes in the brief as the new point: "start from a word merchants type". These two are
+the examples. They're evidence for cider2, not a pick.

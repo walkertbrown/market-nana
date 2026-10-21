@@ -413,3 +413,26 @@ api-limits guide (developers.buffer.com/guides/api-limits, read 10-20):
   question "do entrants get higher limits during judging?" (the 10-21 list)
   stops being optional. Whether the limits count per client across all users, or per
   user token, isn't stated plainly. Ask Buffer.
+
+## 2026-10-21 — how crowded the words merchants type are (Shopify App Store)
+
+Read 10-21 from apps.shopify.com search pages (results panel, logged out; no ad labels
+seen, so the order may differ a little from what a shopper sees). These are the six words
+Sizecurve's ad showed merchants typing. "Small" means under 50 reviews.
+- **Size chart:** the #1 app has 42 reviews, and 4 of the top 10 are small. Kiwi (1,242
+  reviews, #2) has fresh 09 to 10 complaints: charges after cancelling, broken filters,
+  worse support, and "Claude can make size charts for free". The easiest to rank in, but the
+  most look-alikes (42 of 50 name matches are small).
+- **Order printer:** Shopify's own free app (381 reviews, rated 3.6) and Order Printer Pro
+  (2,998) lead. Small apps sit at #7 and #10. Reviews of Shopify's app keep asking for the
+  same things: printing draft orders, UK/EU-compliant invoices, totals without rounding, search,
+  and the invoice attached to the confirmation email. This is the clearest named gap.
+- **Order tracking:** 3 of the top 5 have under 100 reviews, but the field is
+  heavy (carrier data, overage fees). A big build.
+- **MOQ / order limits:** the leaders are small (91 to 389 reviews), but their users are
+  happy (almost no 1 to 3 star reviews). Little to win on.
+- **Pre-order:** the top 7 all have 500 to 3,900 reviews. Avoid.
+- Inference for round 6: a shelf where the #1 app has 42 reviews means reviews aren't
+  what's stopping a newcomer there. Size chart and order printer are the two
+  worth a product bot's look. Size charts sit next to Sizecurve's own buyers
+  (apparel stores). It's evidence for cider2, not a pick.
