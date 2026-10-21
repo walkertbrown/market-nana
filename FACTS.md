@@ -243,3 +243,5 @@ Run as a copy on his Mac, with his Chrome:
 - Screenshot, about 21:50: Pinterest's support form (Subject, Description,
   "What's the link to the page or Pin we should look at?", "Did you get an
   error message?"), with "Please select an option" in red above it. No words.
+- "I only checked that one..but I'll take a look" (about 21:55; the one link
+  checked was puzzlepress, and it was blocked)
