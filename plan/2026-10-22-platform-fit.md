@@ -46,3 +46,14 @@
 - **New accounts:** only for an audience that wins on TikTok and is drowned out on the shared account.
 
 **Not measured here:** Shopify App Store search, where the Shopify apps are most likely found. "Listing tweaks" is closed in TRIED unless the boss strikes it.
+
+## 01:36: the boss's call: split now, read weekly
+- The boss: "2 weeks is a lot of time we could be build audience on a platform."
+- The split starts now:
+  - sizecurve: Shopify apps only;
+  - a new KDP and teachers TikTok (opened 10-22);
+  - YouTube: the KDP how-tos;
+  - round robin, comic covers and VibeCider off TikTok.
+- Mailed docent (tiktok-likes, 2 of 6).
+- Read weekly from 10-29; judged by audience 11-05.
+- Made a sizecurve profile picture from the App Store icon with the word "sizecurve" (outbox). Display name "Sizecurve · Shopify apps".
