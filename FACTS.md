@@ -303,3 +303,4 @@ Answering the 10-21 list (about 08:45):
 - "KDP account is a go" (about 01:36)
 - "I meed a good logo" (about 01:30; for the KDP TikTok). "tell docent whats happening" (about 01:46)
 - "I forgot to post it. Whats the post again?"; "I need a picture to go with it"; "That community is just for builds, not a story" (about 02:12; the Vibe Coding community)
+- Screenshot, about 08:29: round 4's activity-book kit seller replied to the boss at 08:18 that the tools table is very helpful and she will share it with her audience.

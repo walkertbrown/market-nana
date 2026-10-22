@@ -125,3 +125,9 @@ confirmed yet.
 **10-21, 21:42 CDT.** The boss: "I did all of round 4", so all three are sent: the first by contact
 form after the bounce, and the other two by contact form. The clock runs: at least 1 asks for the screenshots by
 10-31, or the round stops. No follow-up is planned. Replies come to the boss.
+
+**10-22, 08:29 CDT.** A reply. The activity-book kit seller (no name here) wrote back to the boss at 08:18:
+the table is "very helpful", and she "will share that with my audience". The early stop (no reply by 10-31) is passed.
+- Next judging: a mention by 11-07, a paid unlock by 11-30.
+- Watching: visits to puzzlepress /compare and their referrers on the beacon.
+- A short thank-you for the boss is in outbox/ (offers the dated screenshots, asks where it goes out). Nothing else is sent.
