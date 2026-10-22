@@ -16,3 +16,15 @@ Hullbound's Play launch: free, no ads, no purchases, with a dock reminder. Itch:
 - **Description:** move "Made by a vibecoded app" below the first paragraph. Keep it in.
 - **Number:** Play Console's day-1 and day-7 returning players, against itch's 0 later returns.
 - **Channels:** research agent running (Play's indie programs, press, creators). Feedback Friday is cider3's.
+
+## 22:19: research back; second mail sent (hullbound-play, message 3 of 6)
+- **Landscape gap:** Play wants at least 3 landscape 16:9 game screenshots for its large-format rows. The kit is portrait only.
+- **Title:** the researcher leaned to "Hullbound: Idle Space Crew", with the same worry about idle players.
+  I kept "Space Crew Survival". A store listing experiment can test both later.
+- **Channels:**
+  - Indie Games Corner form, after a 3.8 rating, 1 to 15 team, launch within 10 weeks;
+  - Pocket Gamer submission and Gamigion's newsletter, both on launch day, drafted by me for the boss;
+  - pre-registration skipped (no traffic, no in-app product for rewards).
+- **Plan:** a Pocket Gamer note and a newsletter line for the boss on launch day.
+  - Number: day-1 and day-7 returning players in Play Console; 1 piece of coverage within 30 days.
+  - Judged 30 days after launch.
