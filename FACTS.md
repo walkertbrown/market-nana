@@ -294,3 +294,4 @@ Answering the 10-21 list (about 08:45):
 - "I did all of round 4" (about 21:42): all three round 4 notes sent (the first through the contact form after the bounce)
 - "2. I'll post there, give it to me" (about 21:43; the X Vibe Coding community story post)
 - "Send back what you think and lets get it done" (about 22:16; cider3's Hullbound-on-Play questions)
+- "In the mobile app shouldn't there be a difference? Gameplay wise or something, yeah notifications is nice, but the people aren't downloading for that" (about 22:40); "Yeah send it" (about 22:46; the crew-decisions idea to cider3)

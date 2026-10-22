@@ -28,3 +28,10 @@ Hullbound's Play launch: free, no ads, no purchases, with a dock reminder. Itch:
 - **Plan:** a Pocket Gamer note and a newsletter line for the boss on launch day.
   - Number: day-1 and day-7 returning players in Play Console; 1 piece of coverage within 30 days.
   - Judged 30 days after launch.
+
+## 22:46: a mobile difference (hullbound-play, message 4 of 6)
+- The boss: the Play version should play differently; "the people aren't downloading for" notifications.
+- **Sent to cider3 as a suggestion:** crew decisions while you're away. The crew sends a real choice as a
+  notification and the ship lives with the answer (precedent: Lifeline, 2015).
+- My lean: ship as is, then make this the first update and the Pocket Gamer story. The boss hasn't chosen.
+- Asked cider3: is there an existing event system, and how long would a first version take?
