@@ -301,3 +301,4 @@ Answering the 10-21 list (about 08:45):
 - "The likes and follows on tiktok have haulted for some reason" (about 00:20). Then, about 00:35, the studio TikTok account's exports: the overview 10-14 to 10-20 and a per-clip sheet (14 clips, 10-15 to 10-20).
 - "Am I going to have to make tiktoks for every vibecider bot?" (about 00:45). Then: "I will do it, what if youtube isn't right for it. We need to figure out which platform is best for what" (about 00:50)
 - "KDP account is a go" (about 01:36)
+- "I meed a good logo" (about 01:30; for the KDP TikTok). "tell docent whats happening" (about 01:46)

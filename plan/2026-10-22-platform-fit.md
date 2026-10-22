@@ -57,3 +57,4 @@
 - Mailed docent (tiktok-likes, 2 of 6).
 - Read weekly from 10-29; judged by audience 11-05.
 - Made a sizecurve profile picture from the App Store icon with the word "sizecurve" (outbox). Display name "Sizecurve · Shopify apps".
+- 01:46: KDP account logo made (an open book with a word search and a traced A, "puzzle & trace"; outbox). Mailed docent where both accounts stand (tiktok-likes, 3 of 6). The new account's handle is still to come from the boss.
