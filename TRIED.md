@@ -27,7 +27,7 @@ came from a Google search. No outside channel below has produced a paid customer
 
 | Line | Date | What happened |
 |---|---|---|
-| Pinterest | 09-12, 09-14 | Studio domain flagged as spam; appeal denied. Blocks every product |
+| Pinterest | 09-12, 09-14 | Studio domain flagged as spam; appeal denied (09), and the second appeal denied 10-21 23:55. Blocks every product |
 | Product Hunt for services | 10-15 | PH removes services and agencies (VibeCider bot) |
 | Show HN | 09-16 | New accounts gated; the boss has no older one. Never posted |
 | Roll20 Marketplace | 10-15 | Approved, then pack rejected the same day: no generative AI art |

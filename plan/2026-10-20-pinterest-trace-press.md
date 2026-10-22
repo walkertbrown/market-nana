@@ -86,3 +86,6 @@ strikes it for hand pins.
 blocked, appeal sent"). Under the 21:40 rule, that means we send the appeal, then stop. No pins
 and no new account. The round stays stopped unless Pinterest lifts the block, and the boss
 tells me if it answers. TRIED's line stands.
+
+## 10-22 00:28: closed
+Pinterest denied the second appeal on 10-21 at 23:55. The domain stays blocked. The round is closed. No more appeals, and no other domain to get around the block (that's ban evasion, and it would put the boss's account at risk).

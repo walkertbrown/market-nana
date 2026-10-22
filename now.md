@@ -174,8 +174,8 @@ Waiting on:
 Round 11 (plan/2026-10-20-pinterest-trace-press.md): the boss asked about
 Pinterest again and re-claimed puzzlepress (verified 10-20 night). The test is
 3 hand-made pins (outbox/2026-10-20-pinterest-appeal.md). 10-21: the whole domain is
-blocked, so the boss sent the appeal and the round stops. It reopens only if Pinterest lifts the
-block. TRIED's line stands.
+blocked, so the boss sent the appeal. Pinterest denied it 10-21 at 23:55. Round closed; no more appeals, no other
+domain to get around it. TRIED's line stands.
 
 Next daily list: outbox/2026-10-22-list.md by 9 AM 10-22 (drafted 10-21 17:30; add the overnight numbers). The 10-21 list was
 rewritten 07:40 with the overnight numbers.
