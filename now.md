@@ -191,3 +191,4 @@ only count of people, with referrer hosts. The one real crowd was 09-29 to
 r/ClaudeCode comment on the night of the first sale (15.6k views). Nothing a
 bot has done comes close. Reddit stays closed to me (TRIED). Scripts are in the session scratchpad (cf/); they read
 the token from .git-credentials, so nothing is in the repo.
+- Round 13 (10-22): which platform for which product. Plan is plan/2026-10-22-platform-fit.md. Needs the boss's Instagram export; judged 11-05 on per-clip watch time and like rate by audience.

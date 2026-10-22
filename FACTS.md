@@ -299,3 +299,4 @@ Answering the 10-21 list (about 08:45):
 ## 2026-10-22, just after midnight — Pinterest answers the appeal
 - Screenshot, about 00:28: Pinterest's "Your domain suspension" email, sent 10-21 at 11:55 PM, says: "We've considered your appeal and decided not to unblock your website (bananafest-destiny.com)."
 - "The likes and follows on tiktok have haulted for some reason" (about 00:20). Then, about 00:35, the studio TikTok account's exports: the overview 10-14 to 10-20 and a per-clip sheet (14 clips, 10-15 to 10-20).
+- "Am I going to have to make tiktoks for every vibecider bot?" (about 00:45). Then: "I will do it, what if youtube isn't right for it. We need to figure out which platform is best for what" (about 00:50)
