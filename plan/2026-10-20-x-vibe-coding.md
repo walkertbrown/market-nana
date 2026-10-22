@@ -181,6 +181,6 @@ on his analytics screenshot: under 100 impressions or 0 link clicks stops story 
 
 ## 10-22 02:12: the story post doesn't fit
 - The boss: the community "is just for builds, not a story". He hadn't posted it.
-- Rewritten as a build post: the studio is the build, the shipped products are the proof, and $18.09 is the result. 265 characters; same /x link.
+- Rewritten as a build post: the studio is the build, the shipped products are the proof, and $18.09 is the result. 270 characters; same /x link.
 - Image: the boss's own screenshot of the site's /zoo page, which shows the build. The scoreboard image (outbox) is the fallback.
 - The judging is unchanged: under 100 impressions or 0 clicks after 7 days, it stops.
