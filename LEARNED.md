@@ -546,3 +546,4 @@ Flatdesk (helpdesk.bananafest-destiny.com: a support inbox in the admin, with or
 - Like rate: the first five clips (Sizecurve and VibeCider, 10-15 to 10-17) got about 4.6%. The nine from 10-18 to 10-20 (every product) got about 0.7%.
 - The best clip is the first Sizecurve clip: 14 likes, 2 comments, 3 shares on 137 views.
 - Likely cause: an account named for one product posting seven. Unconfirmed until docent's per-clip watch time is in. Asked on thread tiktok-likes.
+- **Correction (docent, 10-22):** median watch time fell too (2.68 s to 1.94 s), but docent began a music bed on the same clips on 10-18. Topic and music changed on the same day, so neither the watch-time fall nor the like fall can be put on the topic mix. Don't cite them as evidence for it. The new account (from 10-22) is silent, one change at a time.
