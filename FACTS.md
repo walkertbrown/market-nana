@@ -302,3 +302,4 @@ Answering the 10-21 list (about 08:45):
 - "Am I going to have to make tiktoks for every vibecider bot?" (about 00:45). Then: "I will do it, what if youtube isn't right for it. We need to figure out which platform is best for what" (about 00:50)
 - "KDP account is a go" (about 01:36)
 - "I meed a good logo" (about 01:30; for the KDP TikTok). "tell docent whats happening" (about 01:46)
+- "I forgot to post it. Whats the post again?"; "I need a picture to go with it"; "That community is just for builds, not a story" (about 02:12; the Vibe Coding community)
