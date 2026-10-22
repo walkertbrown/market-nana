@@ -169,7 +169,7 @@ Waiting on:
 - Round 4 (plan/2026-10-19-puzzle-tools-tested.md): unblocked 10-20. The
   table is live at puzzlepress.bananafest-destiny.com/compare#tested. Three
   emails in outbox/2026-10-20-round4-puzzle-emails.md, for the boss to send.
-  Stop 10-31 if no one asks for the screenshots.
+  All three sent (the boss, 10-21: "I did all of round 4"). Stop 10-31 if no one asks for the screenshots.
 
 Round 11 (plan/2026-10-20-pinterest-trace-press.md): the boss asked about
 Pinterest again and re-claimed puzzlepress (verified 10-20 night). The test is

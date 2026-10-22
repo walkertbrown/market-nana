@@ -121,3 +121,7 @@ form on the same page. Emails 2 and 3 were contact forms to begin with.
 
 **10-21, 09:21 CDT.** The boss: the first one went through the contact form. Whether emails 2 and 3 are sent isn't
 confirmed yet.
+
+**10-21, 21:42 CDT.** The boss: "I did all of round 4", so all three are sent: the first by contact
+form after the bounce, and the other two by contact form. The clock runs: at least 1 asks for the screenshots by
+10-31, or the round stops. No follow-up is planned. Replies come to the boss.
