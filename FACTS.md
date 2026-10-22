@@ -305,3 +305,4 @@ Answering the 10-21 list (about 08:45):
 - "I forgot to post it. Whats the post again?"; "I need a picture to go with it"; "That community is just for builds, not a story" (about 02:12; the Vibe Coding community)
 - Screenshot, about 08:29: round 4's activity-book kit seller replied to the boss at 08:18 that the tools table is very helpful and she will share it with her audience.
 - "Tell VibeCider of course" (about 08:36; the round 4 reply, to vibe-cider)
+- Screenshot, about 08:46: the kit seller again (08:40): no screenshots needed, the table is fine; she shares the link in her newsletter Friday 10-23, around 8 or 9 AM Eastern. The boss: "Tell vibcider".

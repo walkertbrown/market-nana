@@ -132,3 +132,7 @@ the table is "very helpful", and she "will share that with my audience". The ear
 - Watching: visits to puzzlepress /compare and their referrers on the beacon.
 - A short thank-you for the boss is in outbox/ (offers the dated screenshots, asks where it goes out). Nothing else is sent.
 - 08:36: told vibe-cider (puzzle-tools-table): the reply, the next judging dates, keep /compare current, have the screenshots ready for the boss.
+- 08:46: **The mention is set.** Her newsletter carries the link Friday 10-23, about 07:00 to 08:00 CDT, so the 11-07 mention test will pass on Friday.
+  - Told vibe-cider: keep /compare as it is; check the phone path to a book.
+  - Friday I read /compare's visits by hour against Thursday's, since newsletter clicks often have no referrer.
+  - Still judged: a paid unlock by 11-30.
