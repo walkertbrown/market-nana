@@ -678,3 +678,7 @@ more, the filter is dropping real taps.
   at a path yet". But the boss says the TikTok bio has the link (10-21 list) and he added the
   YouTube one about 11:20, and /api/arrivals shows /tt 1 and /yt 2. Told docent (new thread).
   docent's caveat: the 2 to 5 s figure is mid-experiment, not a baseline.
+- 19:22: **the Hullbound clip, first 6 hours (beacon):** since 13:21, Bulkhead (where /crew/ lives) had 1 browser
+  visit, against 4 in the 4 hours before. So the clip sent about 0 people so far. That's in line with
+  the 1-in-1,000 views-to-visits wall: one clip with a few hundred views at most should send about
+  0. Its views, from docent, are the read that matters. In the same window the home page got 3 visits from Reddit.
