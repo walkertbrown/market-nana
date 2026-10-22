@@ -539,3 +539,10 @@ Flatdesk (helpdesk.bananafest-destiny.com: a support inbox in the admin, with or
 - Indie Games Corner: a request form; teams of 1 to 15; average rating at least 3.8; launch within 10 weeks. Featuring comes 1 to 2 months after release.
 - Pre-registration rewards need an in-app product. Without traffic to the listing, it adds nothing.
 - No Indie Games Festival since 2021 to 22. Keymailer doesn't support Android.
+
+## TikTok, the studio account (export read 10-22)
+- Daily views held (10-17 339, 10-20 356), but likes fell (17, 17, 5, 2).
+- Every clip sat at about 80 to 140 views, TikTok's first test crowd. None broke out.
+- Like rate: the first five clips (Sizecurve and VibeCider, 10-15 to 10-17) got about 4.6%. The nine from 10-18 to 10-20 (every product) got about 0.7%.
+- The best clip is the first Sizecurve clip: 14 likes, 2 comments, 3 shares on 137 views.
+- Likely cause: an account named for one product posting seven. Unconfirmed until docent's per-clip watch time is in. Asked on thread tiktok-likes.
