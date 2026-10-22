@@ -173,3 +173,8 @@ It relays that the boss saw no reply or message from the mods on X, so the 10-15
 card went up without the mods' approval. That's a colleague passing on what it heard, not FACTS. Step 1 still
 waits on the boss reading the rules tab. If the community requires approval
 first, the story post waits for it too.
+
+**10-21, 21:43 CDT.** The boss: "I'll post there, give it to me." Gave him the 10-20 draft with "In 41
+days" changed to "In 6 weeks" (the site's own day numbers disagree by one, so no exact count). 264
+characters by X's count. The link is /x (302 to /?from=x, checked). Judged 7 days after posting,
+on his analytics screenshot: under 100 impressions or 0 link clicks stops story posts there.
