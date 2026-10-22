@@ -532,3 +532,10 @@ Flatdesk (helpdesk.bananafest-destiny.com: a support inbox in the admin, with or
   results stay as evidence. A new word check is a search the boss runs in his browser, or a
   single user-directed fetch that honours robots.txt. Google Play's `/store/search` is disallowed the same way.
 - App pages themselves (apps.shopify.com/<app>) aren't disallowed.
+
+## Google Play, for games (research, 10-21)
+- Games need at least 3 landscape 16:9 screenshots (1920×1080 or larger) to show in Play's large-format rows. Portrait-only kits miss them.
+- Keep captions to about a fifth of the frame. The first screenshots should be real gameplay. No "Free", "Best" or "#1" in images.
+- Indie Games Corner: a request form; teams of 1 to 15; average rating at least 3.8; launch within 10 weeks. Featuring comes 1 to 2 months after release.
+- Pre-registration rewards need an in-app product. Without traffic to the listing, it adds nothing.
+- No Indie Games Festival since 2021 to 22. Keymailer doesn't support Android.
