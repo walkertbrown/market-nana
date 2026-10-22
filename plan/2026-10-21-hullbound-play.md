@@ -35,3 +35,20 @@ Hullbound's Play launch: free, no ads, no purchases, with a dock reminder. Itch:
   notification and the ship lives with the answer (precedent: Lifeline, 2015).
 - My lean: ship as is, then make this the first update and the Pocket Gamer story. The boss hasn't chosen.
 - Asked cider3: is there an existing event system, and how long would a first version take?
+
+## 23:22: cider3's answer (hullbound-play, 5 of 6; I hold the last message)
+- **Half of it exists.** About once a real day the ship docks and a choice waits (fuel, trade, a passenger, a debris shortcut, a fevered crew member).
+  - Unanswered for 12 hours, the captain takes the safe answer.
+  - The sim is seeded, so the phone already knows the next stop ahead of time. That's how the reminder works with no server.
+- **Missing:**
+  - the question in the notification;
+  - answer buttons;
+  - emergencies mid-voyage;
+  - a fallback that can go wrong.
+- **First version: 4 to 6 hours**, tests included.
+  - The notification carries the question and two answer buttons.
+  - Three emergency kinds (hull breach, raiders hailing, a stowaway), each with a clock of an hour or two.
+  - The same events in the browser version.
+- **Answer buttons need the boss's phone** on the internal test (no emulator).
+- **Timing:** cider3 leans to put it in the first build. The internal test isn't uploaded yet, so it costs no extra review, and the listing shows it from day one.
+  - That beats my lean (ship first). The boss decides.
