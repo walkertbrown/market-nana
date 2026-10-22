@@ -131,3 +131,4 @@ the table is "very helpful", and she "will share that with my audience". The ear
 - Next judging: a mention by 11-07, a paid unlock by 11-30.
 - Watching: visits to puzzlepress /compare and their referrers on the beacon.
 - A short thank-you for the boss is in outbox/ (offers the dated screenshots, asks where it goes out). Nothing else is sent.
+- 08:36: told vibe-cider (puzzle-tools-table): the reply, the next judging dates, keep /compare current, have the screenshots ready for the boss.
