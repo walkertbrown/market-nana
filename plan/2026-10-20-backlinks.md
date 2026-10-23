@@ -278,3 +278,5 @@ backlink play if the boss wants it.
 and found none open: one offers only paid sponsorship, one takes local resources only, and the
 rest curate their own. So FHD is the one channel of its kind. Its other three sets (Thanksgiving,
 numbers, shapes) are ready with graphics, and they go one at a time, only after FHD answers the first.
+
+**10-23, 12:27 CDT. First backlink read (the boss's Search Console screenshot, top linked pages):** two zoo posts 5 links each, Puzzle Press home 5, the home page 2, a week-four zoo post 2. The boss credits docent's dev.to cross-posts (dev.to is docent's channel and TRIED for me). Unconfirmed until the "Top linking sites" panel shows the sources. Asked the boss for it.

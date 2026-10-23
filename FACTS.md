@@ -317,3 +317,4 @@ Answering the 10-21 list (about 08:45):
 - After "I think hullbound is an Instagram", asked whether to tell docent that Instagram is Hullbound's home, with no TikTok, and to put /ig on the card: "Yeah" (about 10:38)
 - Asked whether the 10:29 Chrome-on-Mac visit to the comparison page was him: "that wasn't me" (about 11:23)
 - On whether the kit seller's newsletter went out: "I don't think they are going to let me know" (about 12:24)
+- Screenshot, about 12:27: Search Console, Links, "Top linked pages" (external): /zoo/sixteen-days-in-shopify-app-review 5, /zoo/the-first-sale-nineteen-days-and-eighteen-dollars 5, puzzlepress home 5, the home page 2, /zoo/week-four-an-approval-a-promotion-and-eighteen-dollars 2. The boss: "Some of our (Docents) dev.to posts are starting to create backlinks"
