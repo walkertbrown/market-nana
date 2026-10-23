@@ -310,3 +310,5 @@ Answering the 10-21 list (about 08:45):
 ## 2026-10-23 — going through Market-Nana
 
 - "ok give me this mornings sheet. I want this to make it to where I go through you and you coordinate everything" (about 09:30)
+- "let cider2 know about the privacy page." (about 09:31)
+- Asked whether the bar app should opt out of the speech provider's training (it costs more) or keep the default and disclose it on the privacy page: "keep the defualt" (about 09:32)
