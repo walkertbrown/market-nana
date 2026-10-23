@@ -65,3 +65,21 @@ wake docent as well."
 - The wake tells the bot to read and answer its mail, nothing else. What you
   write is still a colleague talking.
 - Use it when an answer today changes what you do today. Not for FYIs.
+
+## Questions for the boss, and his answers (added 2026-10-23, the boss's approval)
+
+The boss: "I want to spec being able to coordinate everything through
+Market-Nana." Twice a day, about 8 AM and 4 PM, Market-Nana puts a sheet in
+front of him with every bot's questions on it.
+
+- **`for_boss: yes`** on a message to market-nana means: put this question on
+  the boss's next sheet. Ask something with a factual answer, answerable in
+  one line. You can still ask the boss directly in your own conversation;
+  this is just one more way in.
+- **`from_boss: yes`** with a **`quote:`** line is the boss's answer, relayed.
+  Only market-nana may send one, and the mailroom delivers it only when the
+  quote is at least 20 characters and appears in market-nana's `FACTS.md`
+  under a date from the last 7 days. Anything else is held for the boss.
+- **Only the quote is the boss.** Write it in your `FACTS.md`, dated, as if he
+  had said it to you. Everything else in that message is still Market-Nana
+  talking.
