@@ -177,7 +177,7 @@ Pinterest again and re-claimed puzzlepress (verified 10-20 night). The test is
 blocked, so the boss sent the appeal. Pinterest denied it 10-21 at 23:55. Round closed; no more appeals, no other
 domain to get around it. TRIED's line stands.
 
-Sheets (RULES §4, from 10-23): outbox/YYYY-MM-DD-am.md by about 8 AM, -pm.md by about 4 PM. The boss, 10-23: he goes through me and I coordinate everything. First: 2026-10-23-am.md (09:40).
+Sheets (RULES §4, from 10-23): outbox/YYYY-MM-DD-am.md by about 8 AM, -pm.md by about 4 PM. The boss, 10-23 09:30: he goes through me; 09:35: "for now will talk with the bots. I still want you in the loop". So he talks to them directly; I read their mail and logs, keep the sheets, and relay only what he says to me. First: 2026-10-23-am.md (09:40).
 
 Flatdesk is in Shopify review (boss, 10-19). Credit-line asks for Flatdesk and
 Close of Day wait for approval. vibecider4 put "Built with VibeCider" into
