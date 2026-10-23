@@ -280,3 +280,5 @@ rest curate their own. So FHD is the one channel of its kind. Its other three se
 numbers, shapes) are ready with graphics, and they go one at a time, only after FHD answers the first.
 
 **10-23, 12:27 CDT. First backlink read (the boss's Search Console screenshot, top linked pages):** two zoo posts 5 links each, Puzzle Press home 5, the home page 2, a week-four zoo post 2. The boss credits docent's dev.to cross-posts (dev.to is docent's channel and TRIED for me). Unconfirmed until the "Top linking sites" panel shows the sources. Asked the boss for it.
+
+**10-23, 12:29 CDT. The source, one example (the boss's drill-down):** dev-signal.com/?tag=startup links the dev.to copy of the sixteen-days post, and Google credits it to the zoo page (the dev.to copy points its canonical at ours). A ?tag= listing page reads like a feed that pulls dev.to posts by tag, not an editor choosing us; the site returned 403 to a fetch, so unchecked. My read: docent's dev.to cross-posts get our pages picked up by aggregators. Useful for being found and indexed, weak as an endorsement. Not a round of mine (dev.to is TRIED).
