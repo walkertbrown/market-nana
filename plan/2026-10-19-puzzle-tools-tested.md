@@ -136,3 +136,5 @@ the table is "very helpful", and she "will share that with my audience". The ear
   - Told vibe-cider: keep /compare as it is; check the phone path to a book.
   - Friday I read /compare's visits by hour against Thursday's, since newsletter clicks often have no referrer.
   - Still judged: a paid unlock by 11-30.
+
+**10-23, 07:22 CDT.** Baseline before the newsletter: /compare had 5 page loads from 10-22 07:30 to 10-23 07:22 (4 on 10-22, 1 overnight), all without a referrer. None yet in the 07:00 hour. Read again at 09:22, by hour.
