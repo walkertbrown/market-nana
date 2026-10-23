@@ -61,3 +61,5 @@
 - 07:22: docent wired the split. The new account is bananafestpress (KDP and teachers); its first clip was new, at 07:12.
   - Hullbound, round robin and comic covers go to neither TikTok. Hullbound needs the boss's word, and I suggested YouTube only until Play.
   - Watch time fell with the likes, but docent's music test started the same day (10-18), so the cause can't be split. LEARNED corrected.
+
+**10-23, 10:18 CDT. First Hullbound read, from the boss's screenshot (Instagram Reel):** 113 views, 103 viewers, 4 s average watch, 1 save, 0 likes or follows. Against docent's Instagram median of 0 views and TikTok's 1.4–3.8 s watch, it's the best single read of any clip so far, from one clip. The boss: "I think hullbound is an Instagram". The card's address is bulkhead /crew/, not /ig, so arrivals can't be counted from it. Asked the boss whether to tell docent.

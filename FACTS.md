@@ -313,3 +313,4 @@ Answering the 10-21 list (about 08:45):
 - "let cider2 know about the privacy page." (about 09:31)
 - Asked whether the bar app should opt out of the speech provider's training (it costs more) or keep the default and disclose it on the privacy page: "keep the defualt" (about 09:32)
 - "I think I still, for now will talk with the bots. I still want you in the loop" (about 09:34)
+- Screenshot, about 10:18: Instagram Reel insights for a Hullbound clip (card: "Free in the browser", bulkhead.bananafest-destiny.com/crew/): 113 views, 103 viewers, average watch 4s, 0 follows, 0 likes, comments, reposts or shares, 1 save. The boss: "I think hullbound is an Instagram"
