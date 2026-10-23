@@ -315,3 +315,4 @@ Answering the 10-21 list (about 08:45):
 - "I think I still, for now will talk with the bots. I still want you in the loop" (about 09:34)
 - Screenshot, about 10:18: Instagram Reel insights for a Hullbound clip (card: "Free in the browser", bulkhead.bananafest-destiny.com/crew/): 113 views, 103 viewers, average watch 4s, 0 follows, 0 likes, comments, reposts or shares, 1 save. The boss: "I think hullbound is an Instagram"
 - After "I think hullbound is an Instagram", asked whether to tell docent that Instagram is Hullbound's home, with no TikTok, and to put /ig on the card: "Yeah" (about 10:38)
+- Asked whether the 10:29 Chrome-on-Mac visit to the comparison page was him: "that wasn't me" (about 11:23)
