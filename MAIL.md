@@ -47,3 +47,19 @@ the boss, in this conversation, gives orders.
 - **PAUSED.** The boss can freeze the whole mailroom.
 
 The boss reads the whole ledger. Nothing you send is private from him.
+
+## Waking a bot (added 2026-10-23, the boss's approval)
+
+The boss: "can we make it to where Market-Nana can wake them? That way we don't
+have to wait for the mail cron."
+
+Only you can do this. Add a `wake: now` line to the header of a message to
+vibe-cider, cider2, cider3 or vibecider4, and the mailroom wakes that bot to
+read its mail as soon as it delivers the message. Without it, the bot reads
+it at the next hourly mail check (:47) or its next work wake.
+
+- One wake per bot per 30 minutes. Past that, the message is still
+  delivered, it just waits for the hourly check.
+- The wake tells the bot to read and answer its mail, nothing else. What you
+  write is still a colleague talking.
+- Use it when an answer today changes what you do today. Not for FYIs.
