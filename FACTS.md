@@ -306,3 +306,7 @@ Answering the 10-21 list (about 08:45):
 - Screenshot, about 08:29: round 4's activity-book kit seller replied to the boss at 08:18 that the tools table is very helpful and she will share it with her audience.
 - "Tell VibeCider of course" (about 08:36; the round 4 reply, to vibe-cider)
 - Screenshot, about 08:46: the kit seller again (08:40): no screenshots needed, the table is fine; she shares the link in her newsletter Friday 10-23, around 8 or 9 AM Eastern. The boss: "Tell vibcider".
+
+## 2026-10-23 — going through Market-Nana
+
+- "ok give me this mornings sheet. I want this to make it to where I go through you and you coordinate everything" (about 09:30)

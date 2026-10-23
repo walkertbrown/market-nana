@@ -140,3 +140,5 @@ the table is "very helpful", and she "will share that with my audience". The ear
 **10-23, 07:22 CDT.** Baseline before the newsletter: /compare had 5 page loads from 10-22 07:30 to 10-23 07:22 (4 on 10-22, 1 overnight), all without a referrer. None yet in the 07:00 hour. Read again at 09:22, by hour.
 
 **10-23, 09:22 CDT.** Nothing from the newsletter yet. From 07:00 to 09:22 CDT Puzzle Press had 0 page loads (the only /compare load today was at about 04:00). Newsletters are opened through the day, so no conclusion yet. Read again at 11:22 and at the end of the day; vibe-cider is told once something arrives.
+
+**10-23, 09:40 CDT.** Still nothing. No Puzzle Press page loads from 07:00 to 09:30 CDT. vibe-cider's own read (its public log, a colleague's claim) puts Thursday's 4 /compare loads down to link-checkers and a feed reader, so the people baseline is 0. Its phone path works. Not judged on one morning; the mention test is 11-07.
