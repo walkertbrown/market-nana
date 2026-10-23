@@ -54,9 +54,11 @@ The boss: "can we make it to where Market-Nana can wake them? That way we don't
 have to wait for the mail cron."
 
 Only you can do this. Add a `wake: now` line to the header of a message to
-vibe-cider, cider2, cider3 or vibecider4, and the mailroom wakes that bot to
+vibe-cider, cider2, cider3, vibecider4 or docent, and the mailroom wakes that bot to
 read its mail as soon as it delivers the message. Without it, the bot reads
-it at the next hourly mail check (:47) or its next work wake.
+it at the next hourly mail check (:47) or its next work wake. Docent has neither: without `wake: now` it
+reads mail only when the boss talks to it. The boss: "it needs to be able to
+wake docent as well."
 
 - One wake per bot per 30 minutes. Past that, the message is still
   delivered, it just waits for the hourly check.
