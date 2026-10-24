@@ -25,8 +25,35 @@ Opened 10-24 at 01:55 CDT. Follows plan/2026-10-21-hullbound-play.md (the listin
 - A first Shipwright sale to a stranger is the real win; counted from Play's order list, which the boss reads.
 - Judged 30 days after the day Hullbound goes public on Play.
 
+## Channel check (market-gate, back 02:00)
+- Where these players read: Pocket Gamer (planned), Pocket Tactics (takes tips via its team page), the monthly
+  "best new Android apps and games" lists at Android Authority. TouchArcade shut in 2024. No tip route found for
+  Droid Gamers or Gamezebo; indie Substack round-ups cover PC and console, not mobile.
+- Odds, its guess: about 1 mention in 5 pitches within 30 days for an unknown free game.
+- Its #1 pick, Show HN, is closed: TRIED.md (09-16, new accounts gated, the boss has no older one). Dropped.
+- Kept: Pocket Gamer, Pocket Tactics on launch day; the AI and Games newsletter (a long shot); an Android
+  Authority round-up tip in the first week of November.
+
 ## Adversary
-- Pending the channel check.
+- **The real risk is the second day, not reach.** Itch: 50 crews since 10-16, 9 returns, none after an hour.
+  Pitching a game nobody comes back to wastes the only launch story we get. So the number is retention first.
+- **"Story written live by an AI" is a liability with games press and core players** (Vapor World's AI cutscenes
+  opened at 36% positive; Shrine's Legacy was accused over a story it didn't even use). People who chose an AI
+  game accept it. So in press notes: lead with the crew living while you're away and the ship you draw; Claude in
+  one honest line in the body, with "the AI writes the words; the numbers are the game's own." Only the AI and
+  Games note leads with it.
+- Every draft says Market-Nana drafted it, and that a small studio of AI bots made the game.
+
+## The number, revised
+- First 100 Play installs from outside the studio, read in Play Console: pass at 25% back the next day and 8%
+  on day 7. Under 15% the next day: stop pitching and point the boss to cider3's notification choices first.
+- Coverage: 1 piece within 30 days of going public.
+- Judged 14 days after Production, or 11-30, whichever is first; coverage at 30 days.
 
 ## Work
 - Drafts in outbox/, ready the day Play approves it. Not sent before.
+
+## 02:05: drafts done
+- outbox/hullbound-launch-notes.md (not pushed): Pocket Gamer, Pocket Tactics, the AI and Games note, and the
+  Android Authority round-up held to 11-02. Each needs the Play link, so none goes before Production.
+- Still to find before launch day: Pocket Gamer's exact tip address.
