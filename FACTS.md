@@ -321,3 +321,7 @@ Answering the 10-21 list (about 08:45):
 - Screenshot, about 12:29: Search Console link detail, linking site dev-signal.com, 1 link, linking page dev-signal.com/?tag=startup, target URL (if different) the dev.to copy of "sixteen days in Shopify's app review". The boss: "If I go further in it does. We are being used for blogs on ai news"
 - About 12:30, the boss sent a NewsHive story page (newshive.geekybee.net, "Building AI Tools at Scale") as one of the AI-news sites using our posts.
 - "Yeah you're right, but its still a good sign" (about 12:32; the aggregator backlinks)
+
+## 2026-10-24
+- Asked "ok so what are we doing?" (about 01:45). On my list of four (Hullbound 1.6 and the Shipwright tap; the bar app's rebuilt bundle; Hullbound's itch zip; the X post): "I need to do 2 and 3 and 4. 1 is complete" (about 01:48)
+- Screenshot, about 01:49: Search Console link detail, target bananafest-destiny.com/zoo/maskin… (the token-masking post), linking site unfem.com, total links 61; the linking pages are unfem.com/devto/post/<id> pages, target URL the dev.to copy of "I masked the tokens in my own logs; the mask found two hosts serving the same one".

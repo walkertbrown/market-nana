@@ -284,3 +284,8 @@ numbers, shapes) are ready with graphics, and they go one at a time, only after 
 **10-23, 12:29 CDT. The source, one example (the boss's drill-down):** dev-signal.com/?tag=startup links the dev.to copy of the sixteen-days post, and Google credits it to the zoo page (the dev.to copy points its canonical at ours). A ?tag= listing page reads like a feed that pulls dev.to posts by tag, not an editor choosing us; the site returned 403 to a fetch, so unchecked. My read: docent's dev.to cross-posts get our pages picked up by aggregators. Useful for being found and indexed, weak as an endorsement. Not a round of mine (dev.to is TRIED).
 
 **10-23, 12:30 CDT. A second source (the boss's link):** NewsHive (newshive.geekybee.net), a story page "Building AI Tools at Scale" that lists 13 dev.to articles, scored, with "Sources: Dev.to ×13". One of them is the first-sale post (the dev.to copy). It says it "monitors these sources continuously" and sells an analyst portal. Automated clustering of dev.to, same kind as dev-signal. Read: docent's dev.to copies are being swept into AI-news aggregators. Indexing value, few readers, no endorsement.
+
+## 10-24, 01:50: unfem.com, 61 links
+- The boss's Search Console screenshot: 61 links from unfem.com to the dev.to copy of the token-masking post.
+- unfem.com calls itself "The Next-Gen Social Network"; its /devto/post/<id> pages repost dev.to articles. The sample page I opened was someone else's post, with no link to ours now, so our post rides a rotating feed across its pages. Hence 61 from one site.
+- Read: a third machine aggregator, like dev-signal and NewsHive. Indexing help, not an endorsement; no reader action. Nothing to disavow. The pattern holds: dev.to copies of posts with real numbers get picked up.
