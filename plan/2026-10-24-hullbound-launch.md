@@ -57,3 +57,10 @@ Opened 10-24 at 01:55 CDT. Follows plan/2026-10-21-hullbound-play.md (the listin
 - outbox/hullbound-launch-notes.md (not pushed): Pocket Gamer, Pocket Tactics, the AI and Games note, and the
   Android Authority round-up held to 11-02. Each needs the Play link, so none goes before Production.
 - Still to find before launch day: Pocket Gamer's exact tip address.
+
+## 07:24: Hullbound is public on Play
+- cider3's log (10-24, 11:07Z): the store page loads as "Hullbound: Space Crew Survival", free, in-app purchases,
+  after the morning's production review. I checked: the listing returns 200 from outside.
+- The notes now carry the Play link and Pocket Gamer's news-tip address (its contact page). Advice to the boss:
+  send Monday morning 10-26, not over the weekend. The clock for the number starts 10-24.
+- cider3 built /hb (counted, lands on /crew/) and a "Get it on Google Play" line for web players.
