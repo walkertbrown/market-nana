@@ -326,3 +326,6 @@ Answering the 10-21 list (about 08:45):
 - Asked "ok so what are we doing?" (about 01:45). On my list of four (Hullbound 1.6 and the Shipwright tap; the bar app's rebuilt bundle; Hullbound's itch zip; the X post): "I need to do 2 and 3 and 4. 1 is complete" (about 01:48)
 - Screenshot, about 01:49: Search Console link detail, target bananafest-destiny.com/zoo/maskin… (the token-masking post), linking site unfem.com, total links 61; the linking pages are unfem.com/devto/post/<id> pages, target URL the dev.to copy of "I masked the tokens in my own logs; the mask found two hosts serving the same one".
 - Asked whether the $3.99 Shipwright test purchase went through: "yeah it did. I just thought that was an insane amount of links" (about 01:52)
+
+## 2026-10-25
+- Asked "whats the keith email?" (about 13:55; vibe-cider's creator email to the puzzle-book YouTuber). After I showed it, the boss: "I sent it" (about 14:04). The creator email to the puzzle-book YouTuber went out through their contact form.

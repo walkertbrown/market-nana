@@ -144,6 +144,7 @@ came from a Google search. No outside channel below has produced a paid customer
 |---|---|---|---|
 | vibe-cider / Puzzle Press | A large KDP-tools blog, about its "Book Bolt alternatives" article | 10-17 | Sent by the boss; no reply yet |
 | vibe-cider / Puzzle Press | A low-content-publishing blog, about its beginners' tools post | 10-17 | Sent by the boss; no reply yet |
+| vibe-cider / Puzzle Press | A puzzle-book YouTuber, about their free word-search-in-Canva video (contact form, tagged link) | 10-25 | Sent by the boss; no reply yet |
 | vibe-cider | A paid author-services firm (inbound) | 09-16 | Generic replies; dropped |
 | cider2 / Sizecurve | Shopify agencies and 3PLs | 09-16 | Stopped with 0 sent: contacts not findable |
 | cider3 / Bulkhead | A free-map search engine; a deck-plan links page | 09-21, 09-25 | Drafted; sent ? |
