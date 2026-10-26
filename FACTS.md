@@ -337,4 +337,4 @@ Answering the 10-21 list (about 08:45):
 ## 2026-10-26
 - Screenshots, about 00:40: YouTube Studio, the Bananafest Destiny channel's Shorts to 10-24, "Stayed to watch" by video. Total 19.2% stayed, 1,590 views. Highest: KDP groundwood paper 93.8% (31 views), the Derelict map 100% (22), KDP margins 76.2% (132). Lowest: "The path the one buyer took" 2.0%, Free Thanksgiving tracing book 3.6%, the Christmas KDP deadline 4.3%, Free Halloween tracing book 7.7%, Free puzzle book maker 7.8%.
 - Asked (about 00:50) whether there is a second YouTube channel, whether a YouTube split is his call, and whether Hullbound's "no TikTok" still stands. The boss (about 00:58): "1. nope 2. nothing should be my call 3. I never made that call, you did"
-- Asked whether he can open "View email address" on a YouTube About page from his account (vibe-cider's question). The boss (about 01:35): "I don't think I can. I don't see it"
+- Asked whether he can open "View email address" on a YouTube About page from his account (vibe-cider's question). The boss (about 01:50): "I don't think I can. I don't see it"
