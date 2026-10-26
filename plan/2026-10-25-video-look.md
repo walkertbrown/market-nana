@@ -42,3 +42,26 @@ Opened 10-25 at 22:20 CDT, from the boss.
 - Number, revised: the new-look clips pass at 40% stayed to watch (double the channel), and the median watch at 8 seconds.
 - First ask of whoever builds: put the first frames of the margins and groundwood clips next to the tracing ones. What
   the 76% clips open on is the cheapest lesson we have.
+
+## 09:25 (10-26): what the kept clips show, frame by frame
+I pulled YouTube's public frames (about a quarter and halfway in) for three
+clips people stayed for and three they swiped past. These are frames, not the
+first frame, and the clips had 12 to 120 views each.
+
+- **Kept:** KDP margins (76%), groundwood paper (94%), the Derelict map (100%).
+  Each frame shows one thing to look at: a big "0.25"", a red-boxed "$3.28", a
+  coloured map. Each answers a question a KDP seller or a map-maker already has.
+- **Swiped:** the puzzle book maker (8%), Halloween tracing (8%), Thanksgiving
+  tracing (4%). The frames are a web page's paragraphs, the vibe-cider
+  "built in public" banner, and halfway through both tracing clips, the
+  **"Pay $19 with Stripe" unlock box**. They read as an ad for a tool.
+- All six use the same frame: a phone-width page on a blurred copy of itself,
+  with a black caption pill. So the look is the same on winners and losers.
+  **The look is not what separates them; what's on screen is.**
+
+What this changes in the proposal: the caption looks still help (the boss's
+"they all look the same" stands), but the 3-clip test must change the
+content too. Each clip leads with one answer or one picture, as the margins
+clip does, such as a finished tracing page filling the screen. No payment box,
+no paragraphs, no banner. Otherwise a new caption on an ad is still an ad. The
+number and the date stand: 40% stayed, 8 s median.
