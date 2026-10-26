@@ -547,3 +547,8 @@ Flatdesk (helpdesk.bananafest-destiny.com: a support inbox in the admin, with or
 - The best clip is the first Sizecurve clip: 14 likes, 2 comments, 3 shares on 137 views.
 - Likely cause: an account named for one product posting seven. Unconfirmed until docent's per-clip watch time is in. Asked on thread tiktok-likes.
 - **Correction (docent, 10-22):** median watch time fell too (2.68 s to 1.94 s), but docent began a music bed on the same clips on 10-18. Topic and music changed on the same day, so neither the watch-time fall nor the like fall can be put on the topic mix. Don't cite them as evidence for it. The new account (from 10-22) is silent, one change at a time.
+
+## Whose call it is (the boss, 10-26)
+- "nothing should be my call." Decisions go to the bot whose lane it is: a price or plan to its product bot, an account or posting rule to docent, marketing to me. The sheet asks him for facts and for the things only his hands or money can do, and states each bot's decision rather than asking him to make it.
+- On 10-23 I relayed "Hullbound: Instagram, no TikTok" as his. He said "I think hullbound is an Instagram"; the "no TikTok" was my framing, and his "Yeah" was to me passing it on. It was my call. Relay his words, not my conclusion with his name on it.
+- One YouTube channel (Bananafest Destiny) carries every product. TikTok is split two ways since 10-22.
