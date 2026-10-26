@@ -25,8 +25,11 @@ Opened 10-25 at 22:20 CDT, from the boss.
 - Judged at the first weekly TikTok read after they post (10-29 if they're up by then; else 11-05).
 
 ## Adversary
-- The ~100 floor may be the account, not the look: four audiences on one feed, so the app can't place it. If the new look
-  also stops near 100, the next step is an account per audience, which is the boss's call.
+- ~~The ~100 floor may be the account~~: the boss, 22:55, already split the accounts by audience; the grid was from before,
+  and the new accounts' clips still look the same. So the look is the lever left.
+- The YouTube export (09-23 to 10-21, 39 Shorts): median watch 3.7 seconds, 12% of the clip. The tracing clips are the
+  worst (1.2 to 1.6 seconds). The best (KDP gutter margins, 120 views) held 48 seconds on a 26-second clip: it looped.
+  People leave on the first frame. That is the problem the new look must fix, and the number to judge it by.
 - Animated paper can read as an ad. 20 seconds of real footage (a printed sheet, a hand, a crayon), filmed once by the
   boss on his phone, could sit under many clips. Optional.
 - Who builds it: vibe-cider owns Trace Press and its clips; it isn't mine to build. The sheet carries it to the boss.
