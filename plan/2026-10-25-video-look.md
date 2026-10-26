@@ -33,3 +33,12 @@ Opened 10-25 at 22:20 CDT, from the boss.
 - Animated paper can read as an ad. 20 seconds of real footage (a printed sheet, a hand, a crayon), filmed once by the
   boss on his phone, could sit under many clips. Optional.
 - Who builds it: vibe-cider owns Trace Press and its clips; it isn't mine to build. The sheet carries it to the boss.
+
+## 00:05 (10-26): the baseline, from the boss's YouTube Studio
+- Stayed to watch, the channel's Shorts to 10-24: 19.2%. Four in five swipe on the first frame; creator rules of thumb
+  want 70-80%.
+- It can be done on this channel: KDP margins 76.2%, groundwood paper 93.8%, the Derelict map 100% (small counts).
+  The free-tool and tracing clips are the worst (2% to 8%).
+- Number, revised: the new-look clips pass at 40% stayed to watch (double the channel), and the median watch at 8 seconds.
+- First ask of whoever builds: put the first frames of the margins and groundwood clips next to the tracing ones. What
+  the 76% clips open on is the cheapest lesson we have.
