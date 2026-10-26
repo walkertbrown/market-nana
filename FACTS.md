@@ -329,3 +329,4 @@ Answering the 10-21 list (about 08:45):
 
 ## 2026-10-25
 - Asked "whats the keith email?" (about 13:55; vibe-cider's creator email to the puzzle-book YouTuber). After I showed it, the boss: "I sent it" (about 14:04). The creator email to the puzzle-book YouTuber went out through their contact form.
+- Screenshot, about 22:40: a grid of 8 short videos (Sizecurve's size runs, a Puzzle Press word search, Thanksgiving and Halloween tracing worksheets, name tracing, "a finished KDP puzzle book in about a minute", a Shopify refund, a Close of Day finance summary), each with a caption box, at 90 to 116 views each. The boss: "Look at this block of videos and tell me what you think about the social media presence"
