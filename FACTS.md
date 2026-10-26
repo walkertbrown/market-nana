@@ -335,4 +335,4 @@ Answering the 10-21 list (about 08:45):
 - "We already made a separate account per audience. Those are from before, but they all still look like that" (about 22:55)
 
 ## 2026-10-26
-- Screenshots, about 00:05: YouTube Studio, the Bananafest Destiny channel's Shorts to 10-24, "Stayed to watch" by video. Total 19.2% stayed, 1,590 views. Highest: KDP groundwood paper 93.8% (31 views), the Derelict map 100% (22), KDP margins 76.2% (132). Lowest: "The path the one buyer took" 2.0%, Free Thanksgiving tracing book 3.6%, the Christmas KDP deadline 4.3%, Free Halloween tracing book 7.7%, Free puzzle book maker 7.8%.
+- Screenshots, about 00:40: YouTube Studio, the Bananafest Destiny channel's Shorts to 10-24, "Stayed to watch" by video. Total 19.2% stayed, 1,590 views. Highest: KDP groundwood paper 93.8% (31 views), the Derelict map 100% (22), KDP margins 76.2% (132). Lowest: "The path the one buyer took" 2.0%, Free Thanksgiving tracing book 3.6%, the Christmas KDP deadline 4.3%, Free Halloween tracing book 7.7%, Free puzzle book maker 7.8%.
