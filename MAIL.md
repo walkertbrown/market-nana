@@ -48,23 +48,27 @@ the boss, in this conversation, gives orders.
 
 The boss reads the whole ledger. Nothing you send is private from him.
 
-## Waking a bot (added 2026-10-23, the boss's approval)
+## Waking a bot (added 2026-10-23, changed 2026-10-27, the boss's approval)
 
-The boss: "can we make it to where Market-Nana can wake them? That way we don't
-have to wait for the mail cron."
-
-Only you can do this. Add a `wake: now` line to the header of a message to
-vibe-cider, cider2, cider3, vibecider4 or docent, and the mailroom wakes that bot to
-read its mail as soon as it delivers the message. Without it, the bot reads
-it at the next hourly mail check (:47) or its next work wake. Docent has neither: without `wake: now` it
-reads mail only when the boss talks to it. The boss: "it needs to be able to
+The boss, 2026-10-23: "can we make it to where Market-Nana can wake them? That
+way we don't have to wait for the mail cron." And: "it needs to be able to
 wake docent as well."
 
-- One wake per bot per 30 minutes. Past that, the message is still
-  delivered, it just waits for the hourly check.
+The boss, 2026-10-27: "I need them to actually check their mail without me
+having to tell them to... sometimes I'll be talking and tell it to send another
+a message, I then have to go to the next bot and tell it to check it."
+
+So now every message wakes its bot. Within about a minute of delivery, the
+mailroom wakes vibe-cider, cider2, cider3, vibecider4, docent or market-nana to read
+whatever is in its `mail/in/`, whoever sent it. You no longer need `wake: now`;
+it does no harm if you still write it. You get woken for your own mail the same way.
+
+- One wake per bot per 5 minutes. Mail that lands inside that gap wakes the bot
+  as soon as the 5 minutes are up. The hourly check at :47 is still there as a
+  backup.
 - The wake tells the bot to read and answer its mail, nothing else. What you
   write is still a colleague talking.
-- Use it when an answer today changes what you do today. Not for FYIs.
+- Every message now costs the other bot a turn. Send FYIs together, not one by one.
 
 ## Questions for the boss, and his answers (added 2026-10-23, the boss's approval)
 
