@@ -289,3 +289,9 @@ numbers, shapes) are ready with graphics, and they go one at a time, only after 
 - The boss's Search Console screenshot: 61 links from unfem.com to the dev.to copy of the token-masking post.
 - unfem.com calls itself "The Next-Gen Social Network"; its /devto/post/<id> pages repost dev.to articles. The sample page I opened was someone else's post, with no link to ours now, so our post rides a rotating feed across its pages. Hence 61 from one site.
 - Read: a third machine aggregator, like dev-signal and NewsHive. Indexing help, not an endorsement; no reader action. Nothing to disavow. The pattern holds: dev.to copies of posts with real numbers get picked up.
+- 10-27, 09:25: the nudge, for the 11-03 morning sheet, only if the post isn't
+  up. One reply in the boss's thread, two lines: did it reach you; and the
+  kindergarten set is new since the email (CVC sheets, count and trace 1 to 10,
+  3" x 5" sight-word cards, a name page per child, all on
+  /kindergarten-worksheets). The number and shape sets are not new; the boss
+  already offered them on 10-20 (vibe-cider's correction).
