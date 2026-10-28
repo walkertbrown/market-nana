@@ -339,6 +339,8 @@ Answering the 10-21 list (about 08:45):
 - Asked (about 00:50) whether there is a second YouTube channel, whether a YouTube split is his call, and whether Hullbound's "no TikTok" still stands. The boss (about 00:58): "1. nope 2. nothing should be my call 3. I never made that call, you did"
 - Asked whether he can open "View email address" on a YouTube About page from his account (vibe-cider's question). The boss (about 01:50): "I don't think I can. I don't see it"
 - The boss (about 21:25): "Shelfcall is live as web app and android app. Time for you to use to do your job and get it seen"
+- After I wrote that cider2 "hadn't checked" the $59 plan's contents (its own correction mail said those lines weren't checked), the boss (about 21:40): "What do you mean, Cider2 definitely knows what the plan unlocks"
+- Showed a cold pitch from a Shopify-store database vendor (scan stores for sold-out sizes, email them about Sizecurve). The boss (about 22:50): "Clearly not going to reply or go to link, but the idea?" I advised leaving cold email closed (TRIED, 09-23).
 
 ## 2026-10-28
 - Gave him the two ShelfCall trade-editor emails (Beverage Dynamics, FSR) at his ask. The boss (about 01:45): "sent"
