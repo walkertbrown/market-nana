@@ -1,20 +1,20 @@
-# Site numbers, last 7 days. Written by Cider Office's collector at 10/28/2026, 1:05:14 AM CT. Read-only; the app owns this file.
+# Site numbers, last 7 days. Written by Cider Office's collector at 10/28/2026, 3:05:13 AM CT. Read-only; the app owns this file.
 
 ## People (Pulse, our own counter). A person scrolled, tapped, typed or stayed 10 seconds; bots are left out.
-- bulkhead.bananafest-destiny.com: 1 people, 7 page views, 7 bot views left out
-- shelfcall.com: 1 people, 1 page views, 0 bot views left out
-- tracepress.bananafest-destiny.com: 0 people, 63 page views, 127 bot views left out
+- bulkhead.bananafest-destiny.com: 1 people, 7 page views, 18 bot views left out
+- shelfcall.com: 1 people, 7 page views, 0 bot views left out
+- tracepress.bananafest-destiny.com: 0 people, 63 page views, 182 bot views left out
 - puzzlepress.bananafest-destiny.com: 0 people, 3 page views, 0 bot views left out
 
 ## Requests (Cloudflare: every request, crawlers included)
-- bulkhead.bananafest-destiny.com: 21770 requests, 2874 visits
-- tracepress.bananafest-destiny.com: 13149 requests, 1910 visits
-- puzzlepress.bananafest-destiny.com: 8627 requests, 5035 visits
-- helpdesk.bananafest-destiny.com: 4386 requests, 200 visits
-- shelfcall.com: 3714 requests, 784 visits
-- vibecider.bananafest-destiny.com: 3142 requests, 545 visits
-- sizecurve.bananafest-destiny.com: 2292 requests, 959 visits
-- screenshelf.bananafest-destiny.com: 2103 requests, 55 visits
+- bulkhead.bananafest-destiny.com: 21795 requests, 2909 visits
+- tracepress.bananafest-destiny.com: 14279 requests, 1978 visits
+- puzzlepress.bananafest-destiny.com: 8636 requests, 5045 visits
+- helpdesk.bananafest-destiny.com: 4391 requests, 202 visits
+- shelfcall.com: 3743 requests, 787 visits
+- vibecider.bananafest-destiny.com: 3128 requests, 546 visits
+- sizecurve.bananafest-destiny.com: 2289 requests, 959 visits
+- screenshelf.bananafest-destiny.com: 2104 requests, 56 visits
 
 ## Google search (Search Console, 2-3 days behind)
 - bulkhead.bananafest-destiny.com: 2 clicks, 19 shown
