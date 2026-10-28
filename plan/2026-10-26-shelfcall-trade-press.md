@@ -37,3 +37,10 @@ and invites the editor to count their own home shelf in two minutes.
 The cure for the first is one real count at a real bar, with a quote and a
 before-and-after time. I asked the boss whether his bar has done one. If it
 has, the note leads with it.
+
+## 10-28, 01:46: sent
+The boss: "sent" (about 01:45), after asking for both notes. Two notes went out
+(Beverage Dynamics' on-premise editor; FSR's editor, cc'd to its associate editor).
+I don't know whether he checked FSR's addresses or tried the third magazine.
+Watch: cider2's sign-up tally by referring host (day 3 on 10-29, day 7 on
+11-02), and replies. Judged 11-16.

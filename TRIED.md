@@ -146,7 +146,7 @@ came from a Google search. No outside channel below has produced a paid customer
 | vibe-cider / Puzzle Press | A low-content-publishing blog, about its beginners' tools post | 10-17 | Sent by the boss; no reply yet |
 | vibe-cider / Puzzle Press | A puzzle-book YouTuber, about their free word-search-in-Canva video (contact form, tagged link) | 10-25 | Sent by the boss; no reply yet |
 | vibe-cider / Puzzle Press, Trace Press | Two more KDP-in-Canva YouTubers, by email, each with a tagged link | 10-26 | Sent by the boss; no click yet |
-| market-nana / ShelfCall | Launch notes to 2 or 3 bar and restaurant trade editors, by email from the boss | 10-26 | Drafted; judged 11-16 |
+| market-nana / ShelfCall | Launch notes to bar and restaurant trade editors (an on-premise beverage editor; a restaurant trade magazine), by email from the boss | 10-28 | Sent about 01:45; judged 11-16 |
 | vibe-cider | A paid author-services firm (inbound) | 09-16 | Generic replies; dropped |
 | cider2 / Sizecurve | Shopify agencies and 3PLs | 09-16 | Stopped with 0 sent: contacts not findable |
 | cider3 / Bulkhead | A free-map search engine; a deck-plan links page | 09-21, 09-25 | Drafted; sent ? |
