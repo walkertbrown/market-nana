@@ -1,25 +1,26 @@
-# Site numbers, last 7 days. Written by Cider Office's collector at 10/28/2026, 3:05:13 AM CT. Read-only; the app owns this file.
+# Site numbers, last 7 days. Written by Cider Office's collector at 10/28/2026, 7:05:14 AM CT. Read-only; the app owns this file.
 
 ## People (Pulse, our own counter). A person scrolled, tapped, typed or stayed 10 seconds; bots are left out.
-- bulkhead.bananafest-destiny.com: 1 people, 7 page views, 18 bot views left out
-- shelfcall.com: 1 people, 7 page views, 0 bot views left out
-- tracepress.bananafest-destiny.com: 0 people, 63 page views, 182 bot views left out
-- puzzlepress.bananafest-destiny.com: 0 people, 3 page views, 0 bot views left out
+- bulkhead.bananafest-destiny.com: 5 people, 11 page views, 160 bot views left out
+- shelfcall.com: 2 people, 9 page views, 0 bot views left out
+- sizecurve.bananafest-destiny.com: 1 people, 1 page views, 0 bot views left out
+- tracepress.bananafest-destiny.com: 0 people, 63 page views, 329 bot views left out
+- puzzlepress.bananafest-destiny.com: 0 people, 6 page views, 1 bot views left out
 
 ## Requests (Cloudflare: every request, crawlers included)
-- bulkhead.bananafest-destiny.com: 21795 requests, 2909 visits
-- tracepress.bananafest-destiny.com: 14279 requests, 1978 visits
-- puzzlepress.bananafest-destiny.com: 8636 requests, 5045 visits
-- helpdesk.bananafest-destiny.com: 4391 requests, 202 visits
-- shelfcall.com: 3743 requests, 787 visits
-- vibecider.bananafest-destiny.com: 3128 requests, 546 visits
-- sizecurve.bananafest-destiny.com: 2289 requests, 959 visits
-- screenshelf.bananafest-destiny.com: 2104 requests, 56 visits
+- bulkhead.bananafest-destiny.com: 20961 requests, 2998 visits
+- tracepress.bananafest-destiny.com: 17920 requests, 2286 visits
+- puzzlepress.bananafest-destiny.com: 8653 requests, 5040 visits
+- helpdesk.bananafest-destiny.com: 4355 requests, 198 visits
+- shelfcall.com: 3925 requests, 829 visits
+- vibecider.bananafest-destiny.com: 3114 requests, 544 visits
+- sizecurve.bananafest-destiny.com: 2300 requests, 965 visits
+- screenshelf.bananafest-destiny.com: 2090 requests, 57 visits
 
 ## Google search (Search Console, 2-3 days behind)
-- bulkhead.bananafest-destiny.com: 2 clicks, 19 shown
-- puzzlepress.bananafest-destiny.com: 0 clicks, 72 shown
-- shelfcall.com: 0 clicks, 86 shown
+- bulkhead.bananafest-destiny.com: 3 clicks, 23 shown
+- puzzlepress.bananafest-destiny.com: 1 clicks, 76 shown
+- shelfcall.com: 0 clicks, 95 shown
 - sizecurve.bananafest-destiny.com: 0 clicks, 4 shown
 - tracepress.bananafest-destiny.com: 0 clicks, 3 shown
 
@@ -38,12 +39,12 @@
 
 ## Social posts, last 7 days (as each network last reported)
 - instagram vibeciders: 30 posts, 1294 views, 1 likes, 0 comments, 0 shares
-- tiktok sizecurve: 12 posts, 911 views, 7 likes, 1 comments, 0 shares
+- tiktok sizecurve: 12 posts, 1083 views, 9 likes, 1 comments, 0 shares
 - youtube Bananafest Destiny: 34 posts, 660 views, 3 likes, 0 comments, 0 shares
-- bluesky bananafest-destiny.bsky.social: 8 posts, no views, 6 likes, 0 comments, 0 shares
+- bluesky bananafest-destiny.bsky.social: 8 posts, no views, 4 likes, 0 comments, 0 shares
 
 ## dev.to (running totals)
-- I used an image model for one video, and the best picture it made is the one I threw away: 12 views, 1 reactions, 0 comments
+- I used an image model for one video, and the best picture it made is the one I threw away: 13 views, 1 reactions, 0 comments
 - My safety check failed correctly, then told me to run the command that would have destroyed the evidence: 30 views, 0 reactions, 0 comments
 - The kill criterion passed — in the week somebody added to it: 23 views, 0 reactions, 2 comments
 - I started an A/B test on 18 October. So did somebody else, on the same clips.: 10 views, 0 reactions, 0 comments
