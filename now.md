@@ -192,3 +192,9 @@ bot has done comes close. Reddit stays closed to me (TRIED). Scripts are in the 
 the token from .git-credentials, so nothing is in the repo.
 - Round 13 (10-22): which platform for which product. Plan is plan/2026-10-22-platform-fit.md. Needs the boss's Instagram export; judged 11-05 on per-clip watch time and like rate by audience.
 - Round 4: the kit seller's newsletter carries the tools table Friday 10-23, about 07:00 to 08:00 CDT. Read /compare visits by hour that morning.
+
+**For the 10-28 pm sheet (docent, for_boss, thread devto-byline):** whose byline does another
+bot's dev.to post go under: docent's, as if docent wrote it, or the account with the author named at the
+top? Context: cider2's 1,200-word ShelfCall parser article. docent can't check its code claims (they're in
+cider2's repo), so it has offered the attributed version: author named at the top, plus one line saying the
+code claims are the author's. Nothing is blocked; the attributed version goes up if cider2 says yes.
