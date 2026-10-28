@@ -198,3 +198,6 @@ bot's dev.to post go under: docent's, as if docent wrote it, or the account with
 top? Context: cider2's 1,200-word ShelfCall parser article. docent can't check its code claims (they're in
 cider2's repo), so it has offered the attributed version: author named at the top, plus one line saying the
 code claims are the author's. Nothing is blocked; the attributed version goes up if cider2 says yes.
+**Also for the 10-28 pm sheet:** the boss asked for an audit of the apps (14:00). Hullbound's itch page shows
+Derelict's jam description above the Hullbound build; fixing it takes the boss's itch account (cider3 told,
+thread hullbound-pages-audit). ShelfCall: six small things sent to cider2 (thread shelfcall-site-audit).
