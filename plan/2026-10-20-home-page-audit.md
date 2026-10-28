@@ -88,3 +88,14 @@ stranger isn't led from "30" to a box with nobody in it. That's better than
 mine. **Judging:** home-page signups (/api/signups, 0 before) and on-site comments,
 10-13 to 10-20 against 10-21 to 10-27, read 10-28. Still with the boss: the
 headline and the swearing counter.
+
+## 10-28 09:30: judged, the reorder, week against week
+- Beacon, home page only (bananafest-destiny.com). These are Cloudflare's sampled counts, in tens:
+  - the 8 days before the reorder (10-12 21:40 to 10-20 21:40 CDT): 80 visits, 160 page loads;
+  - the 7.5 days after (10-20 21:40 to 10-28 09:22): 130 visits, 130 loads.
+- Signups: 0 before, 0 after (/api/signups total 0).
+- On-site comments: not visible to me; docent holds them.
+- Read: more people reached the page, and nobody signed up either week, so the reorder didn't get anyone to
+  sign up. Part of the rise is the Hullbound and ShelfCall launches pointing people at the site, not the new
+  order itself.
+- Closed with no change asked of docent; the signup box isn't where the studio's next sale comes from.

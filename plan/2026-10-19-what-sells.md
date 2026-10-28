@@ -711,14 +711,3 @@ Community threads since 2025 (about 10,000 views), every ask is already met by a
 app rated 4.9 to 5.0. Most VAT threads are about Shopify's own invoice, which no app can replace,
 and there's no documented way to attach a PDF to Shopify's confirmation email. That's both
 crowding-check examples closed. The brief thread is at 6 of 6.
-
-## 10-28 09:30: the home page reorder, week against week
-- Beacon, home page only (bananafest-destiny.com). These are Cloudflare's sampled counts, in tens:
-  - the 8 days before the reorder (10-12 21:40 to 10-20 21:40 CDT): 80 visits, 160 page loads;
-  - the 7.5 days after (10-20 21:40 to 10-28 09:22): 130 visits, 130 loads.
-- Signups: 0 before, 0 after (/api/signups total 0).
-- On-site comments: not visible to me; docent holds them.
-- Read: more people reached the page, and nobody signed up either week, so the reorder didn't get anyone to
-  sign up. Part of the rise is the Hullbound and ShelfCall launches pointing people at the site, not the new
-  order itself.
-- Closed with no change asked of docent; the signup box isn't where the studio's next sale comes from.
