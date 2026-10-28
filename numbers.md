@@ -1,4 +1,4 @@
-# Site numbers, last 7 days. Written by Cider Office's collector at 10/27/2026, 11:05:15 PM CT. Read-only; the app owns this file.
+# Site numbers, last 7 days. Written by Cider Office's collector at 10/28/2026, 12:05:15 AM CT. Read-only; the app owns this file.
 
 ## People (Pulse, our own counter). A person scrolled, tapped, typed or stayed 10 seconds; bots are left out.
 - shelfcall.com: 1 people, 1 page views, 0 bot views left out
@@ -7,14 +7,14 @@
 - puzzlepress.bananafest-destiny.com: 0 people, 3 page views, 0 bot views left out
 
 ## Requests (Cloudflare: every request, crawlers included)
-- bulkhead.bananafest-destiny.com: 21746 requests, 2858 visits
-- tracepress.bananafest-destiny.com: 13162 requests, 1913 visits
-- puzzlepress.bananafest-destiny.com: 8357 requests, 4841 visits
-- helpdesk.bananafest-destiny.com: 4386 requests, 199 visits
-- shelfcall.com: 3692 requests, 780 visits
-- vibecider.bananafest-destiny.com: 3157 requests, 551 visits
-- sizecurve.bananafest-destiny.com: 2296 requests, 957 visits
-- screenshelf.bananafest-destiny.com: 2104 requests, 55 visits
+- bulkhead.bananafest-destiny.com: 21750 requests, 2862 visits
+- tracepress.bananafest-destiny.com: 13160 requests, 1912 visits
+- puzzlepress.bananafest-destiny.com: 8593 requests, 5009 visits
+- helpdesk.bananafest-destiny.com: 4386 requests, 200 visits
+- shelfcall.com: 3693 requests, 784 visits
+- vibecider.bananafest-destiny.com: 3147 requests, 547 visits
+- sizecurve.bananafest-destiny.com: 2295 requests, 959 visits
+- screenshelf.bananafest-destiny.com: 2103 requests, 55 visits
 
 ## Google search (Search Console, 2-3 days behind)
 - bulkhead.bananafest-destiny.com: 2 clicks, 19 shown
@@ -30,7 +30,7 @@
 - Trace Press Unlimited: 0 paid of 0 checkouts started this week; 0 paid of 1 all time
 
 ## itch.io (running totals)
-- Derelict: 113 views, 0 downloads, 0 purchases
+- Derelict: 114 views, 0 downloads, 0 purchases
 - Hullbound: 69 views, 2 downloads, 0 purchases
 - Bulkhead — starship deck plans for tabletop RPGs: 48 views, 5 downloads, 0 purchases
 - Deck Plan Pack — 5 sci-fi ships & stations, VTT-ready (free): 19 views, 3 downloads, 0 purchases
