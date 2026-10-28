@@ -1,19 +1,19 @@
-# Site numbers, last 7 days. Written by Cider Office's collector at 10/28/2026, 12:05:15 AM CT. Read-only; the app owns this file.
+# Site numbers, last 7 days. Written by Cider Office's collector at 10/28/2026, 1:05:14 AM CT. Read-only; the app owns this file.
 
 ## People (Pulse, our own counter). A person scrolled, tapped, typed or stayed 10 seconds; bots are left out.
+- bulkhead.bananafest-destiny.com: 1 people, 7 page views, 7 bot views left out
 - shelfcall.com: 1 people, 1 page views, 0 bot views left out
 - tracepress.bananafest-destiny.com: 0 people, 63 page views, 127 bot views left out
-- bulkhead.bananafest-destiny.com: 0 people, 5 page views, 3 bot views left out
 - puzzlepress.bananafest-destiny.com: 0 people, 3 page views, 0 bot views left out
 
 ## Requests (Cloudflare: every request, crawlers included)
-- bulkhead.bananafest-destiny.com: 21750 requests, 2862 visits
-- tracepress.bananafest-destiny.com: 13160 requests, 1912 visits
-- puzzlepress.bananafest-destiny.com: 8593 requests, 5009 visits
+- bulkhead.bananafest-destiny.com: 21770 requests, 2874 visits
+- tracepress.bananafest-destiny.com: 13149 requests, 1910 visits
+- puzzlepress.bananafest-destiny.com: 8627 requests, 5035 visits
 - helpdesk.bananafest-destiny.com: 4386 requests, 200 visits
-- shelfcall.com: 3693 requests, 784 visits
-- vibecider.bananafest-destiny.com: 3147 requests, 547 visits
-- sizecurve.bananafest-destiny.com: 2295 requests, 959 visits
+- shelfcall.com: 3714 requests, 784 visits
+- vibecider.bananafest-destiny.com: 3142 requests, 545 visits
+- sizecurve.bananafest-destiny.com: 2292 requests, 959 visits
 - screenshelf.bananafest-destiny.com: 2103 requests, 55 visits
 
 ## Google search (Search Console, 2-3 days behind)
@@ -37,7 +37,7 @@
 - Deck Plan Pack 2: Stations & Derelicts (free): 12 views, 1 downloads, 0 purchases
 
 ## Social posts, last 7 days (as each network last reported)
-- instagram vibeciders: 30 posts, 1181 views, 1 likes, 0 comments, 0 shares
+- instagram vibeciders: 30 posts, 1294 views, 1 likes, 0 comments, 0 shares
 - tiktok sizecurve: 12 posts, 911 views, 7 likes, 1 comments, 0 shares
 - youtube Bananafest Destiny: 34 posts, 660 views, 3 likes, 0 comments, 0 shares
 - bluesky bananafest-destiny.bsky.social: 8 posts, no views, 6 likes, 0 comments, 0 shares
