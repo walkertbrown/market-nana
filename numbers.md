@@ -1,20 +1,21 @@
-# Site numbers, last 7 days. Written by Cider Office's collector at 10/28/2026, 7:05:16 PM CT. Read-only; the app owns this file.
+# Site numbers, last 7 days. Written by Cider Office's collector at 10/28/2026, 9:05:14 PM CT. Read-only; the app owns this file.
 
 ## People (Pulse, our own counter). A person scrolled, tapped, typed or stayed 10 seconds; bots are left out.
-- bulkhead.bananafest-destiny.com: 14 people, 28 page views, 200 bot views left out
+- bulkhead.bananafest-destiny.com: 17 people, 31 page views, 204 bot views left out
 - shelfcall.com: 2 people, 10 page views, 0 bot views left out
 - puzzlepress.bananafest-destiny.com: 1 people, 7 page views, 1 bot views left out
 - sizecurve.bananafest-destiny.com: 1 people, 1 page views, 49 bot views left out
-- tracepress.bananafest-destiny.com: 0 people, 63 page views, 528 bot views left out
+- tracepress.bananafest-destiny.com: 0 people, 63 page views, 529 bot views left out
+- vibecider.bananafest-destiny.com: 0 people, 0 page views, 3 bot views left out
 
 ## Requests (Cloudflare: every request, crawlers included)
-- tracepress.bananafest-destiny.com: 21581 requests, 2705 visits
-- bulkhead.bananafest-destiny.com: 18945 requests, 3092 visits
-- puzzlepress.bananafest-destiny.com: 9120 requests, 5520 visits
-- shelfcall.com: 3982 requests, 875 visits
-- helpdesk.bananafest-destiny.com: 2988 requests, 186 visits
-- vibecider.bananafest-destiny.com: 2670 requests, 547 visits
-- sizecurve.bananafest-destiny.com: 2461 requests, 1074 visits
+- tracepress.bananafest-destiny.com: 21589 requests, 2705 visits
+- bulkhead.bananafest-destiny.com: 19038 requests, 3163 visits
+- puzzlepress.bananafest-destiny.com: 9068 requests, 5496 visits
+- shelfcall.com: 3998 requests, 875 visits
+- helpdesk.bananafest-destiny.com: 2992 requests, 189 visits
+- vibecider.bananafest-destiny.com: 2740 requests, 574 visits
+- sizecurve.bananafest-destiny.com: 2607 requests, 1189 visits
 - screenshelf.bananafest-destiny.com: 2088 requests, 56 visits
 
 ## Google search (Search Console, 2-3 days behind)
@@ -42,7 +43,7 @@
 - instagram vibeciders: 26 posts, 1252 views, 1 likes, 0 comments, 0 shares
 - tiktok sizecurve: 10 posts, 780 views, 7 likes, 1 comments, 0 shares
 - youtube Bananafest Destiny: 35 posts, 657 views, 3 likes, 0 comments, 0 shares
-- bluesky bananafest-destiny.bsky.social: 8 posts, no views, 4 likes, 0 comments, 0 shares
+- bluesky bananafest-destiny.bsky.social: 10 posts, no views, 5 likes, 0 comments, 0 shares
 
 ## dev.to (running totals)
 - Turning 'vodka two point five' into a number: parsing spoken bar counts: 20 views, 0 reactions, 0 comments
