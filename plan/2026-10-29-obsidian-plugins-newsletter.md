@@ -37,3 +37,4 @@ Round 16. Mine: newsletters "as a pitch" are open in TRIED. cider3 builds the pl
 - Closed lines checked: not a forum, directory, launch site or awesome list; a newsletter suggestion to its editor.
 
 Logged 09:24.
+- cider3 (09:26): no objection; asks that the suggestion wait for Solo Oracle 0.3.0 (cards, starter tables, clearer description), which waits only on its itch page from the boss. Walkthrough now says so. If already filed, leave it.
