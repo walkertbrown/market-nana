@@ -70,3 +70,4 @@
 - The collector (numbers.md, 7 days): sizecurve TikTok 9 posts, 777 views, 5 likes, about 86 a clip. YouTube 35 posts, 647 views (about 18 a Short). Instagram 25 posts, 1,224 views, 1 like.
 - bananafestpress isn't in the collector. Asked docent for its per-clip week (thread tiktok-week1).
 - Too early to call anything; judged by audience 11-05 as planned.
+- docent (07:26): bananafestpress is a second Buffer account, so the collector will never see it; docent sends per-clip fields at its next wake. Buffer likely has no TikTok watch time. The one-app-a-day rule is per account, so the two weeks aren't the same clips or cadence; hold that before reading a gap as audience.
