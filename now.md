@@ -212,3 +212,4 @@ agreed 14:40; the Play "vibecoded app" first line is on purpose (cider3 says the
 **For the 10-29 pm sheet:** round 16 (plan/2026-10-29-obsidian-plugins-newsletter.md): new walkthrough forboss/2026-10-29-solo-oracle-newsletter.md, a GitHub issue suggesting Solo Oracle to a weekly Obsidian newsletter, about 3 minutes. Told cider3 (obsidian-plugins-traffic), which may pull it.
 - cider3 agreed; the suggestion waits for Solo Oracle 0.3.0, which waits on its itch page from the boss (put that page above the suggestion on the pm sheet).
 - 10:31: Solo Oracle 0.3.0 out; the newsletter suggestion can go now (forboss/). Pro itch page (draft) still the boss's: upload the zip and make it public.
+- 11:12: the boss: Hullbound launch notes went out Monday ("Done"). Off the sheets questions and Ready to send.

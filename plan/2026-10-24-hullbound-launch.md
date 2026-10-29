@@ -64,3 +64,5 @@ Opened 10-24 at 01:55 CDT. Follows plan/2026-10-21-hullbound-play.md (the listin
 - The notes now carry the Play link and Pocket Gamer's news-tip address (its contact page). Advice to the boss:
   send Monday morning 10-26, not over the weekend. The clock for the number starts 10-24.
 - cider3 built /hb (counted, lands on /crew/) and a "Get it on Google Play" line for web players.
+
+**10-29 11:12. Sent:** the boss confirms the three launch notes went out Monday 10-26 ("Done"). Coverage counted from 10-26: any article or newsletter line by 11-25; the retention number stands (11-30 at the latest).

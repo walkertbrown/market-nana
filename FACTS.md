@@ -344,3 +344,6 @@ Answering the 10-21 list (about 08:45):
 
 ## 2026-10-28
 - Gave him the two ShelfCall trade-editor emails (Beverage Dynamics, FSR) at his ask. The boss (about 01:45): "sent"
+
+## 2026-10-29
+- Asked (am sheet) whether the three Hullbound launch notes went out Monday. The boss (about 11:12): "Done"
