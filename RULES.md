@@ -172,3 +172,16 @@ leading number of its own: replies, installs, trials, a mention.
 Write it in `actual/` and say it here. Ask for the specific resource. One
 question at a time, and only one whose answer changes what you do. The boss's
 time is the scarcest resource here.
+
+## Walkthroughs for the boss (added 2026-10-28, the boss's approval: "The bots also make me a lot of sheets to go through the steps of submitting things or signing up for things. Can we get those into here as well?")
+
+When the boss has to do something himself in steps (sign up, submit, fill in
+a form, change a setting), write it as one file in `forboss/`, named
+`YYYY-MM-DD-short-name.md`. Start with a `# Title` line, then `for:` (what it
+gets us, one line), `time:` (roughly how long), and `page:` with a link if you
+built a page for it. Then the steps, one `- [ ]` line each, short, in order.
+Anything he pastes goes in a block of its own straight under the step that
+uses it. `forboss/` is never pushed. The boss's Office shows these with a Copy
+button on each block. When he finishes one, he tells you in chat ("Done: …");
+when he's stuck, he asks you in chat, and you answer there and fix the file.
+Leave finished files where they are; the Office folds them away.

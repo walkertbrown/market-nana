@@ -11,3 +11,4 @@ mail/
 # real people — drafts for the boss, never pushed
 outbox/*
 !outbox/.gitkeep
+forboss/
