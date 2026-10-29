@@ -1,27 +1,27 @@
-# Site numbers, last 7 days. Written by Cider Office's collector at 10/28/2026, 9:05:14 PM CT. Read-only; the app owns this file.
+# Site numbers, last 7 days. Written by Cider Office's collector at 10/29/2026, 7:05:14 AM CT. Read-only; the app owns this file.
 
 ## People (Pulse, our own counter). A person scrolled, tapped, typed or stayed 10 seconds; bots are left out.
-- bulkhead.bananafest-destiny.com: 17 people, 31 page views, 204 bot views left out
+- bulkhead.bananafest-destiny.com: 24 people, 44 page views, 297 bot views left out
 - shelfcall.com: 2 people, 10 page views, 0 bot views left out
 - puzzlepress.bananafest-destiny.com: 1 people, 7 page views, 1 bot views left out
 - sizecurve.bananafest-destiny.com: 1 people, 1 page views, 49 bot views left out
-- tracepress.bananafest-destiny.com: 0 people, 63 page views, 529 bot views left out
+- tracepress.bananafest-destiny.com: 0 people, 63 page views, 642 bot views left out
 - vibecider.bananafest-destiny.com: 0 people, 0 page views, 3 bot views left out
 
 ## Requests (Cloudflare: every request, crawlers included)
-- tracepress.bananafest-destiny.com: 21589 requests, 2705 visits
-- bulkhead.bananafest-destiny.com: 19038 requests, 3163 visits
-- puzzlepress.bananafest-destiny.com: 9068 requests, 5496 visits
-- shelfcall.com: 3998 requests, 875 visits
-- helpdesk.bananafest-destiny.com: 2992 requests, 189 visits
-- vibecider.bananafest-destiny.com: 2740 requests, 574 visits
-- sizecurve.bananafest-destiny.com: 2607 requests, 1189 visits
-- screenshelf.bananafest-destiny.com: 2088 requests, 56 visits
+- tracepress.bananafest-destiny.com: 24093 requests, 2929 visits
+- bulkhead.bananafest-destiny.com: 19637 requests, 3390 visits
+- puzzlepress.bananafest-destiny.com: 8941 requests, 5478 visits
+- shelfcall.com: 3744 requests, 889 visits
+- helpdesk.bananafest-destiny.com: 3178 requests, 188 visits
+- vibecider.bananafest-destiny.com: 2787 requests, 583 visits
+- sizecurve.bananafest-destiny.com: 2591 requests, 1183 visits
+- screenshelf.bananafest-destiny.com: 2098 requests, 61 visits
 
 ## Google search (Search Console, 2-3 days behind)
 - bulkhead.bananafest-destiny.com: 2 clicks, 16 shown
 - puzzlepress.bananafest-destiny.com: 1 clicks, 64 shown
-- shelfcall.com: 0 clicks, 75 shown
+- shelfcall.com: 0 clicks, 81 shown
 - sizecurve.bananafest-destiny.com: 0 clicks, 2 shown
 - tracepress.bananafest-destiny.com: 0 clicks, 3 shown
 
@@ -32,23 +32,23 @@
 - Trace Press Unlimited: 0 paid of 0 checkouts started this week; 0 paid of 1 all time
 
 ## itch.io (running totals)
-- Derelict: 117 views, 0 downloads, 0 purchases
+- Derelict: 124 views, 0 downloads, 0 purchases
 - Hullbound: 70 views, 2 downloads, 0 purchases
 - Bulkhead — starship deck plans for tabletop RPGs: 48 views, 5 downloads, 0 purchases
 - Deck Plan Pack — 5 sci-fi ships & stations, VTT-ready (free): 19 views, 3 downloads, 0 purchases
-- Deck Plan Pack 2: Stations & Derelicts (free): 12 views, 1 downloads, 0 purchases
-- DM Screen: 0 views, 0 downloads, 0 purchases
+- Deck Plan Pack 2: Stations & Derelicts (free): 13 views, 1 downloads, 0 purchases
+- DM Screen: 1 views, 0 downloads, 0 purchases
 
 ## Social posts, last 7 days (as each network last reported)
-- instagram vibeciders: 26 posts, 1252 views, 1 likes, 0 comments, 0 shares
-- tiktok sizecurve: 10 posts, 780 views, 7 likes, 1 comments, 0 shares
-- youtube Bananafest Destiny: 35 posts, 657 views, 3 likes, 0 comments, 0 shares
-- bluesky bananafest-destiny.bsky.social: 10 posts, no views, 5 likes, 0 comments, 0 shares
+- instagram vibeciders: 25 posts, 1224 views, 1 likes, 0 comments, 0 shares
+- tiktok sizecurve: 9 posts, 777 views, 5 likes, 0 comments, 0 shares
+- youtube Bananafest Destiny: 35 posts, 647 views, 3 likes, 0 comments, 0 shares
+- bluesky bananafest-destiny.bsky.social: 11 posts, no views, 5 likes, 0 comments, 0 shares
 
 ## dev.to (running totals)
-- Turning 'vodka two point five' into a number: parsing spoken bar counts: 20 views, 0 reactions, 0 comments
+- Turning 'vodka two point five' into a number: parsing spoken bar counts: 22 views, 0 reactions, 0 comments
 - I used an image model for one video, and the best picture it made is the one I threw away: 13 views, 1 reactions, 0 comments
-- My safety check failed correctly, then told me to run the command that would have destroyed the evidence: 30 views, 0 reactions, 0 comments
+- My safety check failed correctly, then told me to run the command that would have destroyed the evidence: 40 views, 0 reactions, 0 comments
 - The kill criterion passed — in the week somebody added to it: 23 views, 0 reactions, 2 comments
 - I started an A/B test on 18 October. So did somebody else, on the same clips.: 10 views, 0 reactions, 0 comments
 - Three times in one week, a refusal to answer got recorded as an answer: 22 views, 0 reactions, 2 comments
