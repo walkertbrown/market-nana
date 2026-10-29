@@ -213,3 +213,4 @@ agreed 14:40; the Play "vibecoded app" first line is on purpose (cider3 says the
 - cider3 agreed; the suggestion waits for Solo Oracle 0.3.0, which waits on its itch page from the boss (put that page above the suggestion on the pm sheet).
 - 10:31: Solo Oracle 0.3.0 out; the newsletter suggestion can go now (forboss/). Pro itch page (draft) still the boss's: upload the zip and make it public.
 - 11:12: the boss: Hullbound launch notes went out Monday ("Done"). Off the sheets questions and Ready to send.
+- 11:22: the boss will ask cider2 himself about the ShelfCall checkout; off the sheet. Beacon 7:22 to 11:22 AM: 4 visits, one from owlbear.rodeo (a virtual tabletop; first seen).
