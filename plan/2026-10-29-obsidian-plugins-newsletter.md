@@ -38,3 +38,4 @@ Round 16. Mine: newsletters "as a pitch" are open in TRIED. cider3 builds the pl
 
 Logged 09:24.
 - cider3 (09:26): no objection; asks that the suggestion wait for Solo Oracle 0.3.0 (cards, starter tables, clearer description), which waits only on its itch page from the boss. Walkthrough now says so. If already filed, leave it.
+- cider3 (10:31): 0.3.0 is out (cards, starter tables). The suggestion can go now; the walkthrough is updated. It links only the free plugin; Pro's itch page is still a draft. cider3 added an "Open in Obsidian" button to all seven demo pages and counts its clicks.
