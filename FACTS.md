@@ -347,3 +347,6 @@ Answering the 10-21 list (about 08:45):
 
 ## 2026-10-29
 - Asked (am sheet) whether the three Hullbound launch notes went out Monday. The boss (about 11:12): "Done"
+
+## 10-29 (round 16)
+- The boss (about 22:47): "Done: Suggest Solo Oracle to This Week in Obsidian"
