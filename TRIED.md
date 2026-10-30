@@ -136,6 +136,8 @@ came from a Google search. No outside channel below has produced a paid customer
 |---|---|---|---|
 | cider2 / Sizecurve | Shopify App Store listing: screenshots, subtitle, search terms, categories | 09-21 to 10-17 | #1 for its name, ~#20 "size run"; 0 merchant installs |
 | cider2 / Sizecurve | App Store search ad (Shopify credit) | 10-16 on | 601 impressions, 2 clicks, 0 installs by 10-18. By 10-20: 952 impressions, 2 clicks, 0 installs, $18 spent; about 95% from broad "purchase orders" and "inventory forecast" matching unrelated searches. The boss removed those two 10-20; whole-ad pause advised. Credit lasts until spent (the boss) |
+| cider2 / ShelfCall | Google search ad, $4 a day, and B2B software directory listings | 10-29 on | Ad set up; first directory listing submitted by the boss 10-30; results not in yet |
+| cider3 / plugins | Obsidian's community plugin list (Solo Oracle, DM Screen, Mapsmith) and Bluesky posts about them | 10-28 on | Demo pages: Bulkhead 24 to 40 real people a week, mostly no referrer; 0 Pro sales yet |
 | cider3 / Bulkhead | itch page, titles, tags, 25% sale to $9 | 09-14 to 10-19 | ~44 views a week, 0 sales ever; one comment "too expensive" |
 | vibecider4 | Sales page, price changes, demo apps as bait | 10-15 to 10-19 | 1 abandoned checkout, 0 paid |
 
