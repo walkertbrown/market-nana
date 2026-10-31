@@ -183,3 +183,5 @@ Nothing for the podcasts (4 and 5), the tip form (7) or the comments (8 to
 10). It's the last message to each. The revenue and Meta's fetches are
 re-checked on 10-27 before sending.
 
+
+**10-31, 11:36 CDT.** The follow-ups will not go. The boss, asked on the 10-31 am sheet: "not doing it." The round is judged on the first sends alone: replies 11-02, a mention 11-30.

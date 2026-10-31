@@ -170,3 +170,5 @@ until the bots pay off (FACTS). Round 3 is four emails, one of them bounced.
 the outbox (one line each, no new figures, as planned). They go only to
 anyone who hasn't replied, and they're the last message to each.
 
+
+**10-31, 11:36 CDT.** The nudges will not go. The boss, asked on the 10-31 am sheet: "not doing it." Judged 11-03 on the first emails alone.

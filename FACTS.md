@@ -350,3 +350,7 @@ Answering the 10-21 list (about 08:45):
 
 ## 10-29 (round 16)
 - The boss (about 22:47): "Done: Suggest Solo Oracle to This Week in Obsidian"
+
+## 2026-10-31
+- Asked (am sheet, "Only you can do this" 1) to send the round 1 and round 3 follow-ups. The boss (about 11:35): "not doing it."
+- Asked (am sheet, "Only you can do this" 2) to set ShelfCall's ad keyword URLs (cider2). The boss (about 11:36): "done."
